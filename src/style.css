@@ -35,3 +35,20 @@ footer{font-size:1rem}
   .metadata dd{font-size:1.15rem;line-height:1.6;margin-top:5px}
   .metadata-note{font-size:1rem}
 }
+
+/* Metadata: full-width rows and compact labels, including enlarged Android text */
+.metadata{width:100%;min-width:0;max-width:100%;padding:14px;overflow-wrap:anywhere}
+.metadata dl{display:flex;flex-direction:column;gap:9px;width:100%;min-width:0}
+.metadata-item{display:grid;grid-template-columns:minmax(0,1fr);width:100%;min-width:0;padding:12px 14px}
+.metadata dt{font-size:16px;font-weight:700;line-height:1.45;letter-spacing:0}
+.metadata dd{font-size:19px;line-height:1.5;margin:5px 0 0;min-width:0}
+.metadata-note{font-size:16px;line-height:1.55;margin:12px 0 0;max-width:100%}
+@media(max-width:650px){
+ .detail{padding:16px}
+ .metadata{padding:10px}
+ .metadata dl{display:flex;flex-direction:column;gap:9px}
+ .metadata-item{display:grid;grid-template-columns:minmax(0,1fr);padding:12px 14px}
+ .metadata dt{font-size:16px;line-height:1.45}
+ .metadata dd{font-size:19px;line-height:1.5}
+ .metadata-note{font-size:16px;line-height:1.55}
+}
