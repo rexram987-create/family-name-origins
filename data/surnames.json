@@ -161,5 +161,117 @@
         "url": "https://en.wiktionary.org/wiki/Mansour"
       }
     ]
+  },
+  {
+    "id": "mizrahi",
+    "name": "מזרחי",
+    "latin": "Mizrahi",
+    "status": "verified",
+    "meaning": "מן העברית: מזרחי, אדם מן המזרח.",
+    "history": "שם משפחה יהודי המתועד במסורות אשכנזיות וספרדיות. אין להסיק מכך את ארץ המוצא של משפחה מסוימת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Mizrahi",
+        "url": "https://www.ancestry.com/last-name-meaning/mizrahi"
+      }
+    ]
+  },
+  {
+    "id": "levy",
+    "name": "לוי",
+    "latin": "Levy",
+    "status": "verified",
+    "meaning": "במסורת היהודית: מן השם המקראי לוי, הקשור לשורש ל־ו־ה (הצטרפות).",
+    "history": "השם מופיע במסורות אשכנזיות וספרדיות; בכתיב Levy קיים גם מקור צ'כי עצמאי, ככינוי לאדם שמאלי. אין בשם לבדו הוכחה לשיוך שבטי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Levy",
+        "url": "https://www.ancestry.com/last-name-meaning/levy"
+      }
+    ]
+  },
+  {
+    "id": "peretz",
+    "name": "פרץ",
+    "latin": "Peretz",
+    "status": "verified",
+    "meaning": "מן השם הפרטי המקראי פרץ, שמשמעותו קשורה לפריצה.",
+    "history": "שם משפחה יהודי שנגזר משם פרטי מקראי; אין להסיק קשר משפחתי בין כל נושאי השם.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Peretz",
+        "url": "https://www.ancestry.com/last-name-meaning/peretz"
+      }
+    ]
+  },
+  {
+    "id": "friedman",
+    "name": "פרידמן",
+    "latin": "Friedman",
+    "status": "verified",
+    "meaning": "במסורת היהודית־אשכנזית: מיידיש frid (שלום) ו־man (איש).",
+    "history": "לכתיב Friedman גם מקורות אחרים, ובהם אמריקניזציה של Friedmann הגרמני. משמעות מסוימת אינה חלה בהכרח על כל המשפחות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Friedman",
+        "url": "https://www.ancestry.com/last-name-meaning/Friedman"
+      }
+    ]
+  },
+  {
+    "id": "klein",
+    "name": "קליין",
+    "latin": "Klein",
+    "status": "verified",
+    "meaning": "מן הגרמנית או היידיש: קטן.",
+    "history": "שם תיאורי שעשוי היה להתייחס לגובה או להבחין בין צעיר למבוגר; קיים גם מחוץ לקהילות יהודיות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Klein",
+        "url": "https://www.ancestry.com/last-name-meaning/klein"
+      }
+    ]
+  },
+  {
+    "id": "shapiro",
+    "name": "שפירא",
+    "latin": "Shapiro",
+    "status": "verified",
+    "meaning": "במסורת האשכנזית: מן השם ביידיש של העיר שפייר (Speyer) בגרמניה.",
+    "history": "שם מקום היסטורי; התיעוד האטימולוגי אינו מוכיח שמשפחה מסוימת הגיעה בפועל מן העיר.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Shapiro",
+        "url": "https://www.ancestry.com/last-name-meaning/shapiro?geo-lang=nl-NL"
+      }
+    ]
+  },
+  {
+    "id": "halabi",
+    "name": "חלבי",
+    "latin": "Halabi",
+    "status": "verified",
+    "meaning": "מן הערבית Ḥalabī: אדם מחלב (Aleppo) שבסוריה.",
+    "history": "שם גאוגרפי המתועד בקרב מוסלמים ונוצרים. משמעות גאוגרפית של שם אינה הוכחה למסלול נדידה של משפחה מסוימת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Halabi",
+        "url": "https://www.familysearch.org/en/surname?surname=halabi"
+      }
+    ]
+  },
+  {
+    "id": "abadi",
+    "name": "עבאדי",
+    "latin": "Abadi",
+    "status": "review",
+    "meaning": "לשם כמה מקורות אפשריים: בפרסית הוא עשוי להיקשר ל־ābād, ובמסורות ערביות ויהודיות קיימים הסברים אחרים.",
+    "history": "המילון מבחין בין מקורות איראניים, מוסלמיים, יהודיים מסוריה וממצרים, ואתיופיים. אין לקבוע מקור אחד ללא תיעוד משפחתי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Abadi",
+        "url": "https://www.familysearch.org/en/surname?surname=Abadi"
+      }
+    ]
   }
 ]
