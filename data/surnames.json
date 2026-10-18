@@ -152,7 +152,7 @@
     "latin": "Toledano",
     "status": "verified",
     "meaning": "שם המציין קשר לעיר טולדו שבספרד.",
-    "history": "מתועד כשם ספרדי ויהודי ספרדי. משמעות השם אינה מוכיחה שמשפחה מסוימת אכן הגיעה מטולדו.",
+    "history": "שם גאוגרפי בספרדית, המתועד במסורות ספרדיות ויהודיות ספרדיות, המציין קשר לעיר טולדו. זהו פירוש לשוני של השם, לא תיעוד מסלול נדידה של משפחה מסוימת.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Toledano",
@@ -163,7 +163,7 @@
     "historicalCommunities": "ספרדית ויהודית ספרדית",
     "geographicAssociation": "טולדו, ספרד",
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "הכתיבים וההסברים המופיעים כאן מתועדים במקורות המצוינים; הם אינם הוכחה לקשר גנאלוגי בין משפחות שונות."
   },
   {
     "id": "haddad",
@@ -171,18 +171,24 @@
     "latin": "Haddad",
     "status": "verified",
     "meaning": "בערבית: נפח.",
-    "history": "שם מקצוע המתועד בקרב ערבים מוסלמים ונוצרים וכן יהודים מצפון אפריקה; קיימת גם מקבילה בפרסית.",
+    "history": "שם מקצוע מן הערבית ḥaddād, שפירושו נפח. מתועד בקרב מוסלמים ונוצרים דוברי ערבית ובקרב יהודים מצפון אפריקה. המילון מתעד גם שימוש איראני במילה ממקור ערבי. הכתיב Hadad מתועד במילון כגרסה של Haddad.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Haddad",
         "url": "https://www.ancestry.com/last-name-meaning/Haddad"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Hadad, כתיב חלופי",
+        "url": "https://www.ancestry.com/last-name-meaning/hadad"
       }
     ],
     "linguisticOrigin": "ערבית",
     "historicalCommunities": "ערבית מוסלמית ונוצרית; יהודית בצפון אפריקה",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "alternateSpellings": [
+      "Hadad"
+    ],
+    "metadataNote": "הכתיבים וההסברים המופיעים כאן מתועדים במקורות המצוינים; הם אינם הוכחה לקשר גנאלוגי בין משפחות שונות."
   },
   {
     "id": "nassar",
@@ -323,18 +329,27 @@
     "latin": "Shapiro",
     "status": "verified",
     "meaning": "במסורת האשכנזית: מן השם ביידיש של העיר שפייר (Speyer) בגרמניה.",
-    "history": "שם מקום היסטורי; התיעוד האטימולוגי אינו מוכיח שמשפחה מסוימת הגיעה בפועל מן העיר.",
+    "history": "שם משפחה יהודי אשכנזי שמקורו בשם היידי של העיר שפייר (Speyer) שבגרמניה. מילון שמות המשפחה האמריקאי מציין קשר לצורות Sapiro ו־Spiro; גם Schapiro ו־Schapira מתועדות כצורות קרובות. הדמיון אינו מוכיח קרבת משפחה בין נושאי הכתיבים.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Shapiro",
         "url": "https://www.ancestry.com/last-name-meaning/shapiro?geo-lang=nl-NL"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Shapiro",
+        "url": "https://www.ancestry.ca/last-name-meaning/Shapiro"
       }
     ],
     "linguisticOrigin": "יידיש (שם מקום)",
     "historicalCommunities": "יהודית אשכנזית",
     "geographicAssociation": "שפייר, גרמניה",
-    "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "alternateSpellings": [
+      "Schapiro",
+      "Schapira",
+      "Sapiro",
+      "Spiro"
+    ],
+    "metadataNote": "הכתיבים וההסברים המופיעים כאן מתועדים במקורות המצוינים; הם אינם הוכחה לקשר גנאלוגי בין משפחות שונות."
   },
   {
     "id": "halabi",
