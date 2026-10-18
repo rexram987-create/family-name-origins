@@ -4,7 +4,9 @@ const app=document.querySelector('#app');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const pathFor=n=>'/name/'+encodeURIComponent(n.id);
 const status=n=>n.status==='unknown'?'פירוש לא מאומת':n.status==='verified'?'פירוש מבוסס מקור':'בבדיקת מקורות';
-const sorted=[...names].sort((a,b)=>a.name.localeCompare(b.name,'he'));\nconst alphabet='אבגדהוזחטיכלמנסעפצקרשת'.split('');\nlet activeLetter='';
+const sorted=[...names].sort((a,b)=>a.name.localeCompare(b.name,'he'));
+const alphabet='אבגדהוזחטיכלמנסעפצקרשת'.split('');
+let activeLetter='';
 const link=(href,label,cls='')=>'<a class="'+cls+'" href="'+href+'">'+label+'</a>';
 const shell=(body)=>'<header><div class="head"><a class="brand" href="/">🌳 שורשי המשפחה</a><nav aria-label="ניווט ראשי">'+link('/','דף הבית')+link('/names','מילון השמות')+link('/about-names','כיצד נוצרו שמות?')+'</nav></div></header><main>'+body+'</main><footer>מקורו הלשוני של שם משפחה אינו הוכחה למוצא משפחתי. מידע שאינו מאומת מסומן במפורש.</footer>';
 function home(){return '<div class="hero"><h1>מגלים את הסיפור שמאחורי שם המשפחה</h1><p>מילון מחקרי בעברית לשמות משפחה, משמעויותיהם וההיסטוריה שלהם.</p><form id="home-search" role="search"><label for="home-q">חיפוש שם משפחה</label><div class="searchrow"><input id="home-q" placeholder="לדוגמה: לבסקי או Lavsky" autocomplete="off"/><button>חיפוש</button></div></form></div><div class="tiles"><a class="tile" href="/names"><h2>מילון שמות המשפחה</h2><p>'+names.length+' שמות עם פירושים, רקע ומקורות</p><span>לכל השמות ←</span></a><a class="tile" href="/about-names"><h2>כיצד נוצרו שמות משפחה?</h2><p>שמות מקומות, מקצועות, שמות פרטיים ותחיליות וסיומות</p><span>להסבר ←</span></a></div>'}
