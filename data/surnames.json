@@ -49,5 +49,117 @@
     "meaning": null,
     "history": "לא נמצא בשלב זה מקור מחקרי שמאמת את האטימולוגיה של השם המדויק. הכתיב הלטיני המופיע כאן הוא תעתיק עבודה, ולא כתיב היסטורי מאומת.",
     "sources": []
+  },
+  {
+    "id": "cohen",
+    "name": "כהן",
+    "latin": "Cohen",
+    "status": "verified",
+    "meaning": "מן המילה העברית כוהן, המציינת תפקיד דתי.",
+    "history": "מילון שמות המשפחה מציין גם שימוש אירי בשם Cohen שמקורו שונה. אין בשם לבדו הוכחה לייחוס כהונה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Cohen",
+        "url": "https://www.ancestry.co.uk/last-name-meaning/cohen?geo-lang=en-GB"
+      }
+    ]
+  },
+  {
+    "id": "katz",
+    "name": "כץ",
+    "latin": "Katz",
+    "status": "verified",
+    "meaning": "במסורת האשכנזית ראשי תיבות של ׳כוהן צדק׳.",
+    "history": "במקורות אחרים Katz עשוי להיות שם גרמני הקשור למילה חתול, או שם שעבר שינוי כתיב ממקור סלאבי. משמעות תלויה במסורת המשפחתית.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Katz",
+        "url": "https://www.ancestry.ca/last-name-meaning/katz"
+      }
+    ]
+  },
+  {
+    "id": "rosenberg",
+    "name": "רוזנברג",
+    "latin": "Rosenberg",
+    "status": "verified",
+    "meaning": "בגרמנית: הר הוורדים.",
+    "history": "שם מקום במסורות גרמניות ויהודיות אשכנזיות; בחלק מהמקרים שם נבחר (ornamental) או צורה מותאמת של שם ביידיש.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Rosenberg",
+        "url": "https://www.ancestry.com/last-name-meaning/rosenberg"
+      }
+    ]
+  },
+  {
+    "id": "goldberg",
+    "name": "גולדברג",
+    "latin": "Goldberg",
+    "status": "verified",
+    "meaning": "בגרמנית: הר הזהב.",
+    "history": "יכול לציין מוצא ממקום בשם Goldberg או להיות שם מורכב שנבחר במסורת אשכנזית.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Goldberg",
+        "url": "https://www.ancestry.com/last-name-meaning/goldberg"
+      }
+    ]
+  },
+  {
+    "id": "toledano",
+    "name": "טולדנו",
+    "latin": "Toledano",
+    "status": "verified",
+    "meaning": "שם המציין קשר לעיר טולדו שבספרד.",
+    "history": "מתועד כשם ספרדי ויהודי ספרדי. משמעות השם אינה מוכיחה שמשפחה מסוימת אכן הגיעה מטולדו.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Toledano",
+        "url": "https://www.ancestry.com/last-name-meaning/toledano"
+      }
+    ]
+  },
+  {
+    "id": "haddad",
+    "name": "חדאד",
+    "latin": "Haddad",
+    "status": "verified",
+    "meaning": "בערבית: נפח.",
+    "history": "שם מקצוע המתועד בקרב ערבים מוסלמים ונוצרים וכן יהודים מצפון אפריקה; קיימת גם מקבילה בפרסית.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Haddad",
+        "url": "https://www.ancestry.com/last-name-meaning/Haddad"
+      }
+    ]
+  },
+  {
+    "id": "nassar",
+    "name": "נסאר",
+    "latin": "Nassar",
+    "status": "verified",
+    "meaning": "נגזר משם פרטי בערבית הקשור לניצחון.",
+    "history": "מתועד כשם משפחה ערבי בקרב מוסלמים ונוצרים. אין להסיק ממנו דת של אדם מסוים.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names — Nassar",
+        "url": "https://www.ancestry.com/last-name-meaning/nassar"
+      }
+    ]
+  },
+  {
+    "id": "mansour",
+    "name": "מנצור",
+    "latin": "Mansour",
+    "status": "review",
+    "meaning": "נגזר מן השם הפרטי הערבי מַנְצוּר (׳מי שניצח׳ או ׳מי שניתנה לו עזרה לנצח׳).",
+    "history": "שם משפחה ממקור ערבי שמקורו בשם פרטי; המשמעות המדויקת של השם הפרטי דורשת הבחנה בין תרגומים.",
+    "sources": [
+      {
+        "title": "Wiktionary — Mansour (מצטט מילון שמות)",
+        "url": "https://en.wiktionary.org/wiki/Mansour"
+      }
+    ]
   }
 ]
