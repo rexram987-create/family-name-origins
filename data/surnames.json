@@ -1,0 +1,43 @@
+[
+  {
+    "id": "samuel",
+    "name": "סמואל",
+    "latin": "Samuel",
+    "status": "review",
+    "meaning": "נגזר מן השם הפרטי המקראי שמואל.",
+    "history": "השם משמש כשם משפחה במסורות שונות. יש לאמת את האטימולוגיה וההיסטוריה מול המקור המקצועי לפני סימון הרשומה כמאומתת.",
+    "sources": [
+      {
+        "title": "FamilySearch — Samuel",
+        "url": "https://www.familysearch.org/en/surname?surname=SAMUEL"
+      }
+    ]
+  },
+  {
+    "id": "lavsky",
+    "name": "לבסקי",
+    "latin": "Lavsky",
+    "status": "unknown",
+    "meaning": null,
+    "history": "טרם נמצא מקור מחקרי המאמת את פירוש השם.",
+    "sources": []
+  },
+  {
+    "id": "shlomkovitz",
+    "name": "שלומקוביץ",
+    "latin": "Shlomkovitz",
+    "status": "unknown",
+    "meaning": null,
+    "history": "טרם אומת מקורו של השם המלא.",
+    "sources": []
+  },
+  {
+    "id": "charlopsky",
+    "name": "חרלופסקי",
+    "latin": "Charlopsky",
+    "status": "unknown",
+    "meaning": null,
+    "history": "טרם נמצא מקור מחקרי המאמת את פירוש השם.",
+    "sources": []
+  }
+]
