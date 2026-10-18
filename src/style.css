@@ -20,3 +20,18 @@ body{font-size:19px;line-height:1.65}
 nav{font-size:1.04rem}
 footer{font-size:1rem}
 @media(max-width:520px){main{padding:23px 16px}.detail{padding:20px}.metadata{padding:16px}.metadata dl{grid-template-columns:1fr}.metadata-item{padding:15px}.metadata dt{font-size:1.1rem}.metadata dd{font-size:1.2rem}.metadata-note{font-size:1.06rem}nav{font-size:1rem}}
+
+/* Compact, readable surname metadata cards on narrow screens */
+.metadata{padding:18px;margin:20px 0}
+.metadata dl{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.metadata-item{min-width:0;padding:14px 15px}
+.metadata dt{font-size:1rem;line-height:1.4;overflow-wrap:normal;word-break:normal}
+.metadata dd{font-size:1.12rem;line-height:1.55;overflow-wrap:anywhere}
+@media(max-width:650px){
+  .metadata{padding:12px}
+  .metadata dl{grid-template-columns:minmax(0,1fr);gap:10px}
+  .metadata-item{padding:13px 16px}
+  .metadata dt{font-size:1.05rem;line-height:1.45}
+  .metadata dd{font-size:1.15rem;line-height:1.6;margin-top:5px}
+  .metadata-note{font-size:1rem}
+}
