@@ -3,13 +3,13 @@
     "id": "samuel",
     "name": "סמואל",
     "latin": "Samuel",
-    "status": "review",
-    "meaning": "נגזר מן השם הפרטי המקראי שמואל.",
-    "history": "השם משמש כשם משפחה במסורות שונות. יש לאמת את האטימולוגיה וההיסטוריה מול המקור המקצועי לפני סימון הרשומה כמאומתת.",
+    "status": "verified",
+    "meaning": "שם משפחה הנגזר מן השם הפרטי המקראי שמואל. מילון שמות המשפחה האמריקאי מפרש את השם הפרטי כ׳שם האל׳.",
+    "history": "שם המשפחה מתועד במסורות יהודיות ולא־יהודיות, ובהן אירופיות ואפריקאיות. אין להסיק מהשם לבדו מוצא משפחתי מסוים.",
     "sources": [
       {
-        "title": "FamilySearch — Samuel",
-        "url": "https://www.familysearch.org/en/surname?surname=SAMUEL"
+        "title": "Dictionary of American Family Names (2022), via Ancestry",
+        "url": "https://www.ancestry.com/last-name-meaning/Samuel"
       }
     ]
   },
@@ -19,8 +19,13 @@
     "latin": "Lavsky",
     "status": "unknown",
     "meaning": null,
-    "history": "טרם נמצא מקור מחקרי המאמת את פירוש השם.",
-    "sources": []
+    "history": "הכתיב Lavsky מתועד במאגר תפוצה בינלאומי, לרבות ברוסיה ובבלארוס, אך המקור האטימולוגי אינו מוסבר שם. נתוני תפוצה אינם מוכיחים את מוצאה של משפחה מסוימת.",
+    "sources": [
+      {
+        "title": "Forebears — Lavsky (תפוצה בלבד)",
+        "url": "https://forebears.io/surnames/lavsky"
+      }
+    ]
   },
   {
     "id": "shlomkovitz",
@@ -28,8 +33,13 @@
     "latin": "Shlomkovitz",
     "status": "unknown",
     "meaning": null,
-    "history": "טרם אומת מקורו של השם המלא.",
-    "sources": []
+    "history": "מחקר על שמות משפחה יהודיים מתעד את Schlomke כצורה של שלמה, אך לא אומת קשר לשם המשפחה המלא שלומקוביץ. נדרשים כתיבים היסטוריים ותיעוד נוסף.",
+    "sources": [
+      {
+        "title": "The Origin of Jewish Family Names — דיון בצורת Schlomke בלבד",
+        "url": "https://ans-names.pitt.edu/ans/article/download/823/822"
+      }
+    ]
   },
   {
     "id": "charlopsky",
@@ -37,7 +47,7 @@
     "latin": "Charlopsky",
     "status": "unknown",
     "meaning": null,
-    "history": "טרם נמצא מקור מחקרי המאמת את פירוש השם.",
+    "history": "לא נמצא בשלב זה מקור מחקרי שמאמת את האטימולוגיה של השם המדויק. הכתיב הלטיני המופיע כאן הוא תעתיק עבודה, ולא כתיב היסטורי מאומת.",
     "sources": []
   }
 ]
