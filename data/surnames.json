@@ -1559,19 +1559,23 @@
     "name": "בנוביץ",
     "latin": "Benowitz",
     "status": "verified",
-    "meaning": "צאצא של אדם ששמו בנימין.",
-    "history": "שם אבהות אשכנזי מצורה מקוצרת של בנימין, עם סיומת אבהות מזרח־סלאבית שעברה התאמה לגרמנית.",
+    "meaning": "שם אבהות: צאצא של בנימין, או לפי מקור אחר של אדם בשם בֶּר.",
+    "history": "המילון האמריקאי קושר את השם לקיצור של בנימין ולסיומת אבהות סלאבית. הרב בנציון קגנוף מציע מקור אחר: בֶּר, דרך הצורה בֶּנוֹ. אין הכרעה המתאימה לכל משפחה.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Benowitz",
         "url": "https://www.ancestry.com/last-name-meaning/benowitz"
+      },
+      {
+        "title": "Rabbi Benzion Kaganoff — Benowitz (as reproduced by Forebears; alternative derivation)",
+        "url": "https://forebears.io/surnames/benowitz"
       }
     ],
     "linguisticOrigin": "יידיש / שפות סלאביות",
     "historicalCommunities": "יהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. מקור שני המייחס הסבר חלופי לרב בנציון קגנוף: Benno מן Ber; יש להבחין בין פירושים מתחרים, ואין להסיק שושלת אישית."
   },
   {
     "id": "goldenstein",
