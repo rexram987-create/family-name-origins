@@ -530,6 +530,10 @@
       {
         "title": "FamilySearch — Sneider (Dictionary of American Family Names, earlier edition)",
         "url": "https://www.familysearch.org/en/surname?surname=sneider"
+      },
+      {
+        "title": "FamilySearch — Schneider (Dictionary of American Family Names, earlier edition)",
+        "url": "https://www.familysearch.org/en/surname?surname=schneider"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
@@ -538,7 +542,7 @@
     "alternateSpellings": [
       "Sneider"
     ],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית. Sneider מתועד כצורה מאונגלזת של Schneider ושל צורות סלאביות קרובות; יש גם מקור הולנדי נפרד. אין להניח שכל נושאי השם מאותה שושלת. FamilySearch מציג כאן מהדורה קודמת של אותו מילון; זו אינה אסמכתה מחקרית עצמאית."
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית. Sneider מתועד כצורה מאונגלזת של Schneider ושל צורות סלאביות קרובות; יש גם מקור הולנדי נפרד. אין להניח שכל נושאי השם מאותה שושלת. FamilySearch מציג כאן מהדורה קודמת של אותו מילון; זו אינה אסמכתה מחקרית עצמאית. ההסבר 'חוטב עצים' הוא שימוש היסטורי נוסף ולא הפירוש הראשי."
   },
   {
     "id": "fischer",
@@ -546,18 +550,25 @@
     "latin": "Fischer",
     "status": "verified",
     "meaning": "שם מקצוע: דייג.",
-    "history": "מן הגרמנית Fisch (דג) והסיומת המציינת בעל מקצוע. השם מתועד בגרמנית, בדנית ובקהילות יהודיות אשכנזיות; קיימות גם צורות מותאמות בשפות סלאביות.",
+    "history": "שם מקצוע מן הגרמנית Fisch ('דג') והסיומת er, במשמעות דייג. מתועד בגרמנית, בדנית ובמסורת יהודית אשכנזית, ובצורות סלאביות Fiszer (פולנית) ו־Fišer. באנגלית Fisher עשוי להיות שם ממקור עצמאי, ולכן אינו מוצג כאן ככתיב חלופי גורף.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Fischer",
         "url": "https://www.ancestry.com/last-name-meaning/fischer"
+      },
+      {
+        "title": "FamilySearch — Fischer (Dictionary of American Family Names, earlier edition)",
+        "url": "https://www.familysearch.org/en/surname?surname=Fischer"
       }
     ],
     "linguisticOrigin": "גרמנית",
     "historicalCommunities": "גרמנית, דנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Fiszer",
+      "Fišer"
+    ],
+    "metadataNote": "Fiszer ו־Fišer מתועדים כצורות סלאביות של Fischer; אין בכך הוכחה לקרבה משפחתית. המקור ב־FamilySearch מבוסס על מהדורה מוקדמת של אותו מילון, ואינו מחקר עצמאי."
   },
   {
     "id": "weiss",
