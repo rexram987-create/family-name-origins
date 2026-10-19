@@ -1334,5 +1334,199 @@
       "Amsallem"
     ],
     "metadataNote": "רמת ביטחון גבוהה בתיעוד ההיסטורי של השם; נמוכה עד בינונית בפירושו האטימולוגי. אמסל עשוי להיות קיצור של אמסלם במסורת ספרדית, אך גם שם נפרד ממקור אשכנזי/גרמני; אין לאחד רשומות או שושלות."
+  },
+  {
+    "id": "dayan",
+    "name": "דיין",
+    "latin": "Dayan",
+    "status": "verified",
+    "meaning": "דיין בבית דין רבני.",
+    "history": "שם מקצוע או תפקיד שמקורו במילה העברית ״דיין״.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Dayan",
+        "url": "https://www.ancestry.com/last-name-meaning/dayan"
+      }
+    ],
+    "linguisticOrigin": "עברית",
+    "historicalCommunities": "יהודית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "shalom",
+    "name": "שלום",
+    "latin": "Shalom",
+    "status": "verified",
+    "meaning": "שלום, בעברית.",
+    "history": "שם משפחה יהודי המתועד במסורות ישראליות וספרדיות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Shalom",
+        "url": "https://www.ancestry.com/last-name-meaning/shalom"
+      }
+    ],
+    "linguisticOrigin": "עברית",
+    "historicalCommunities": "יהודית ישראלית וספרדית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "goldstein",
+    "name": "גולדשטיין",
+    "latin": "Goldstein",
+    "status": "verified",
+    "meaning": "אבן זהב, בגרמנית.",
+    "history": "במסורת אשכנזית שם קישוטי; בגרמנית מתועד גם מקור אחר הקשור לאבן חן.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Goldstein",
+        "url": "https://www.ancestry.com/last-name-meaning/goldstein"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "יהודית אשכנזית וגרמנית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "leibowitz",
+    "name": "לייבוביץ",
+    "latin": "Leibowitz",
+    "status": "verified",
+    "meaning": "בן או צאצא של אדם ששמו לייב.",
+    "history": "שם אשכנזי מן השם הפרטי Leib, עם סיומת אבהות סלאבית שעברה התאמה לגרמנית.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Leibowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/leibowitz"
+      }
+    ],
+    "linguisticOrigin": "יידיש / שפות סלאביות",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Leibovitz",
+      "Lebowitz",
+      "Liebowitz"
+    ],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "kogan",
+    "name": "קוגן",
+    "latin": "Kogan",
+    "status": "verified",
+    "meaning": "צורה של שם המשפחה כהן.",
+    "history": "שם יהודי המתועד באוקראינה ובבסרביה; האות g משקפת השפעה רוסית על ההגייה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Kogan",
+        "url": "https://www.ancestry.com/last-name-meaning/kogan"
+      }
+    ],
+    "linguisticOrigin": "עברית בתיווך רוסית",
+    "historicalCommunities": "יהודית במזרח אירופה",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "goldsmith",
+    "name": "גולדסמית",
+    "latin": "Goldsmith",
+    "status": "verified",
+    "meaning": "צורף זהב.",
+    "history": "באנגלית שם מקצוע; לעיתים תרגום של Goldschmidt הגרמני או האשכנזי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Goldsmith",
+        "url": "https://www.ancestry.com/last-name-meaning/goldsmith"
+      }
+    ],
+    "linguisticOrigin": "אנגלית / גרמנית",
+    "historicalCommunities": "אנגלית, גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "benowitz",
+    "name": "בנוביץ",
+    "latin": "Benowitz",
+    "status": "verified",
+    "meaning": "צאצא של אדם ששמו בנימין.",
+    "history": "שם אבהות אשכנזי מצורה מקוצרת של בנימין, עם סיומת ממקור סלאבי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Benowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/benowitz"
+      }
+    ],
+    "linguisticOrigin": "יידיש / שפות סלאביות",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "goldenstein",
+    "name": "גולדנשטיין",
+    "latin": "Goldenstein",
+    "status": "verified",
+    "meaning": "אבן מוזהבת, בגרמנית.",
+    "history": "שם קישוטי אשכנזי המורכב מן המילים ״מוזהב״ ו״אבן״.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Goldenstein",
+        "url": "https://www.ancestry.com/last-name-meaning/goldenstein"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "goldstone",
+    "name": "גולדסטון",
+    "latin": "Goldstone",
+    "status": "verified",
+    "meaning": "לעיתים צורה אנגלית של גולדשטיין.",
+    "history": "השם עשוי להיות התאמה של Goldstein היהודי או צורה של Goldston האנגלי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Goldstone",
+        "url": "https://www.ancestry.com/last-name-meaning/goldstone"
+      }
+    ],
+    "linguisticOrigin": "אנגלית / גרמנית",
+    "historicalCommunities": "יהודית ואנגלית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+  },
+  {
+    "id": "kagen",
+    "name": "קגן",
+    "latin": "Kagen",
+    "status": "verified",
+    "meaning": "צורה אשכנזית של כהן.",
+    "history": "כתיב מזרח־אשכנזי של Cohen; אין להסיק ממנו ייחוס כהונה מוכח.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Kagen",
+        "url": "https://www.ancestry.com/last-name-meaning/kagen"
+      }
+    ],
+    "linguisticOrigin": "עברית בתיווך שפות מזרח אירופה",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
   }
 ]
