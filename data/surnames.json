@@ -179,13 +179,17 @@
       {
         "title": "FamilySearch — Rosenberg, Dictionary of American Family Names (2003/2006)",
         "url": "https://www.familysearch.org/en/surname?surname=rosenberg"
+      },
+      {
+        "title": "Jewish Encyclopedia — Surnames",
+        "url": "https://jewishencyclopedia.com/articles/14124-surnames"
       }
     ],
     "linguisticOrigin": "גרמנית",
     "historicalCommunities": "גרמנית, יהודית אשכנזית; גם שוודית ודנית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "קיימים מקורות נפרדים לשם: שם מקום, שם נבחר או צורה שהותאמה מיידיש. אין להסיק ממבנה השם על מוצא משפחה מסוימת. הצלבה עם FamilySearch: ערך מאותו מילון שמות משפחה במהדורת 2003/2006; אין לראות בו מחקר עצמאי נוסף."
+    "metadataNote": "קיימים מקורות נפרדים לשם: שם מקום, שם נבחר או צורה שהותאמה מיידיש. אין להסיק ממבנה השם על מוצא משפחה מסוימת. הצלבה עם FamilySearch: ערך מאותו מילון שמות משפחה במהדורת 2003/2006; אין לראות בו מחקר עצמאי נוסף. האנציקלופדיה מציינת כי Rosenberg עשוי להיות שם מקום ולא רק צירוף קישוטי של מילים; יש להימנע מהצגת 'הר הוורדים' כמקור יחיד."
   },
   {
     "id": "goldberg",
@@ -202,13 +206,17 @@
       {
         "title": "FamilySearch — Goldberg, Dictionary of American Family Names (2003/2006)",
         "url": "https://www.familysearch.org/en/surname?surname=goldberg"
+      },
+      {
+        "title": "Jewish Encyclopedia — Surnames",
+        "url": "https://jewishencyclopedia.com/articles/14124-surnames"
       }
     ],
     "linguisticOrigin": "גרמנית",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המילון מבחין בין שם מקום לשם מורכב שנבחר. שמות דומים כגון Goldenberg אינם בהכרח כתיבים חלופיים של אותה משפחה. הצלבה עם FamilySearch: ערך מאותו מילון שמות משפחה במהדורת 2003/2006; אין לראות בו מחקר עצמאי נוסף."
+    "metadataNote": "המילון מבחין בין שם מקום לשם מורכב שנבחר. שמות דומים כגון Goldenberg אינם בהכרח כתיבים חלופיים של אותה משפחה. הצלבה עם FamilySearch: ערך מאותו מילון שמות משפחה במהדורת 2003/2006; אין לראות בו מחקר עצמאי נוסף. האנציקלופדיה מציינת כי Goldberg עשוי להיות שם מקום ולא רק צירוף קישוטי של מילים; יש להימנע מהצגת 'הר הזהב' כמקור יחיד."
   },
   {
     "id": "toledano",
@@ -225,13 +233,17 @@
       {
         "title": "FamilySearch — Toledano, Dictionary of American Family Names (2003/2006)",
         "url": "https://www.familysearch.org/en/surname?surname=toledano"
+      },
+      {
+        "title": "Jewish Encyclopedia — Toledano",
+        "url": "https://www.jewishencyclopedia.com/articles/14434-toledano"
       }
     ],
     "linguisticOrigin": "ספרדית",
     "historicalCommunities": "ספרדית ויהודית ספרדית",
     "geographicAssociation": "טולדו, ספרד",
     "alternateSpellings": [],
-    "metadataNote": "הזיקה לטולדו היא פירוש מתועד של השם, לא מסלול הגירה מאומת של משפחה מסוימת. הצלבה עם FamilySearch: ערך מאותו מילון שמות משפחה במהדורת 2003/2006; אין לראות בו מחקר עצמאי נוסף."
+    "metadataNote": "הזיקה לטולדו היא פירוש מתועד של השם, לא מסלול הגירה מאומת של משפחה מסוימת. הצלבה עם FamilySearch: ערך מאותו מילון שמות משפחה במהדורת 2003/2006; אין לראות בו מחקר עצמאי נוסף. אנציקלופדיה יהודית היסטורית מתעדת משפחה בשם Toledano שמקורה בטולדו, וכן את הצורה de Toledo; אין להסיק מכך שכל נושאי השם משתייכים לאותה שושלת."
   },
   {
     "id": "haddad",
