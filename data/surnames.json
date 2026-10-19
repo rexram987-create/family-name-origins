@@ -724,13 +724,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Schreiber",
         "url": "https://www.ancestry.com/last-name-meaning/Schreiber?geo-lang=en"
+      },
+      {
+        "title": "FamilySearch — Scriber, Americanized form of Schreiber (DAFN earlier edition)",
+        "url": "https://www.familysearch.org/en/surname?surname=SCRIBER"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Scriber"
+    ],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית. Scriber מתועד כצורה אמריקאית של Schreiber; Schrieber הוא שם גרמני צפוני דומה בעל מקור מקצועי, אך אין להניח שהוא כתיב חלופי גורף. FamilySearch מצטט מהדורה מוקדמת של אותו מילון ולא מחקר עצמאי."
   },
   {
     "id": "miller",
@@ -781,15 +787,25 @@
       {
         "title": "Dictionary of American Family Names (2022) — Kaufman",
         "url": "https://www.ancestry.com/last-name-meaning/kaufman"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Kauffman",
+        "url": "https://www.ancestry.com/last-name-meaning/kauffman"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Kauffmann",
+        "url": "https://www.ancestry.com/last-name-meaning/kauffmann"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [
-      "Kaufmann"
+      "Kaufmann",
+      "Kauffman",
+      "Kauffmann"
     ],
-    "metadataNote": "Kaufmann מתועד במילון כצורה גרמנית הקשורה ל־Kaufman, אך אין בכך ראיה לקרבה בין משפחות. הפירוש ׳סוחר׳ אינו מוכיח מקצוע של אדם מסוים."
+    "metadataNote": "Kaufmann מתועד במילון כצורה גרמנית הקשורה ל־Kaufman, אך אין בכך ראיה לקרבה בין משפחות. הפירוש ׳סוחר׳ אינו מוכיח מקצוע של אדם מסוים. Kauffman ו־Kauffmann מתועדים כצורות אמריקאיות או גרמניות קשורות; אלה אינם הוכחה לקרבה גנאלוגית. שלושת הערכים מצטטים אותו מילון מחקרי."
   },
   {
     "id": "stern",
