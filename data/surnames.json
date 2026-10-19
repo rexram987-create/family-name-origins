@@ -960,5 +960,62 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "rosengarden",
+    "name": "רוזנגרדן",
+    "latin": "Rosengarden",
+    "status": "review",
+    "meaning": "פירוש אטימולוגי מדויק טרם אומת; ייתכן קשר לשמות דומים, אך אין להסיק אותו מן הכתיב בלבד.",
+    "history": "הכתיב Rosengarden מתועד ברשומות היסטוריות בארצות הברית, לרבות מפקדים ורשומות הגירה. דף Ancestry מציג גם הסבר אוטומטי על מרכיבי השם, אך אינו מייחס אותו למילון שמות משפחה מחקרי; לכן אין לאמץ את ההסבר כעובדה.",
+    "sources": [
+      {
+        "title": "Ancestry — Rosengarden: historical surname records (not a verified etymology)",
+        "url": "https://www.ancestry.com/last-name-meaning/rosengarden"
+      }
+    ],
+    "linguisticOrigin": "לא אומת",
+    "historicalCommunities": "לא נקבע",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "אין לאחד אוטומטית עם Rosengarten או Rosengard; נדרש תיעוד היסטורי מקשר. רמת ביטחון בפירוש: נמוכה; בעצם קיום הכתיב: גבוהה."
+  },
+  {
+    "id": "rosengarten",
+    "name": "רוזנגרטן",
+    "latin": "Rosengarten",
+    "status": "verified",
+    "meaning": "בגרמנית: גן ורדים. במסורת אשכנזית שם נבחר; במסורת גרמנית גם שם שמקורו במקום.",
+    "history": "Dictionary of American Family Names (2022) מבדיל בין שם גרמני שמקורו במקום, בית או אזור בשם Rosengarten, לבין שם משפחה אשכנזי קישוטי מן הביטוי הגרמני 'גן ורדים'. אין לקבוע על סמך השם בלבד את מוצאה של משפחה מסוימת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Rosengarten",
+        "url": "https://www.ancestry.com/last-name-meaning/rosengarten"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": "אזורים ומקומות בשם Rosengarten",
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה במשמעויות המילוניות; אין הוכחה לקשר משפחתי עם Rosengarden."
+  },
+  {
+    "id": "rosengard",
+    "name": "רוזנגרד",
+    "latin": "Rosengard",
+    "status": "verified",
+    "meaning": "בשוודית: צירוף של ורדים וחווה; שם קישוטי.",
+    "history": "Dictionary of American Family Names (2022) מייחס את Rosengard לשוודית Rosengård ולמסורות שוודיות ויהודיות משוודיה; השם נמצא גם בפינלנד. אין להסיק קשר משפחתי עם Rosengarten או Rosengarden.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Rosengard",
+        "url": "https://www.ancestry.com/last-name-meaning/Rosengard"
+      }
+    ],
+    "linguisticOrigin": "שוודית",
+    "historicalCommunities": "שוודית ויהודית משוודיה",
+    "geographicAssociation": "שוודיה ופינלנד",
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה במקור המילוני; אין לקבוע זהות עם כתיבים דומים."
   }
 ]
