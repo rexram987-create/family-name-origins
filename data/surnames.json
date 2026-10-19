@@ -24,18 +24,22 @@
     "latin": "Lavsky",
     "status": "unknown",
     "meaning": null,
-    "history": "הכתיב Lavsky מתועד במאגר תפוצה בינלאומי, לרבות ברוסיה ובבלארוס, אך המקור האטימולוגי אינו מוסבר שם. נתוני תפוצה אינם מוכיחים את מוצאה של משפחה מסוימת.",
+    "history": "מאגר Forebears מתעד את הכתיב Lavsky (Лавский) בעיקר ברוסיה ובבלארוס, אך אינו מספק פירוש אטימולוגי. מקור גנאלוגי פרטי המתפרסם באתר אוניברסיטת אורגון מתאר משפחה מסוימת שבה הופיע הכתיב Lavski לצד Lavsky בישראל. זו עדות לשינוי כתיב במקרה משפחתי מתועד, ולא הוכחה שכל נושאי השם חולקים מקור אחד או שהכתיבים שקולים תמיד.",
     "sources": [
       {
         "title": "Forebears — Lavsky (תפוצה בלבד)",
         "url": "https://forebears.io/surnames/lavsky"
+      },
+      {
+        "title": "Lavski genealogy — עץ משפחה פרטי באתר אוניברסיטת אורגון (עדות משפחתית, לא מחקר אטימולוגי)",
+        "url": "https://pages.uoregon.edu/rkimble/webgenealogy/Lavskigen.html"
       }
     ],
     "linguisticOrigin": null,
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "Lavski מתועד לצד Lavsky בעץ משפחה מסוים, אך טרם אומת ככתיב חלופי כללי של השם. תפוצה ברוסיה ובבלארוס אינה קובעת את האטימולוגיה."
   },
   {
     "id": "shlomkovitz",
