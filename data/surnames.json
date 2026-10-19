@@ -257,20 +257,26 @@
     "id": "mansour",
     "name": "מנצור",
     "latin": "Mansour",
-    "status": "review",
-    "meaning": "נגזר מן השם הפרטי הערבי מַנְצוּר (׳מי שניצח׳ או ׳מי שניתנה לו עזרה לנצח׳).",
-    "history": "שם משפחה ממקור ערבי שמקורו בשם פרטי; המשמעות המדויקת של השם הפרטי דורשת הבחנה בין תרגומים.",
+    "status": "verified",
+    "meaning": "מן השם הפרטי הערבי מַנְצוּר (منصور), במשמעות ׳מנצח׳ או ׳מי שזכה לניצחון׳.",
+    "history": "מילון שמות המשפחה האמריקאי (Dictionary of American Family Names) מסביר שהשם Mansur נגזר מן השם הפרטי הערבי manṣūr, שמשמעותו ׳מנצח׳ או ׳זוכה לניצחון׳. Mansour הוא כתיב שהושפע מן הצרפתית של Mansur. השם מצוי אצל מוסלמים ונוצרים, ואין בו כשלעצמו הוכחה למוצא משפחתי מסוים.",
     "sources": [
       {
-        "title": "Wiktionary — Mansour (מצטט מילון שמות)",
-        "url": "https://en.wiktionary.org/wiki/Mansour"
+        "title": "Dictionary of American Family Names — Mansour (FamilySearch)",
+        "url": "https://www.familysearch.org/en/surname?surname=mansour"
+      },
+      {
+        "title": "Dictionary of American Family Names — Mansur (FamilySearch)",
+        "url": "https://www.familysearch.org/en/surname?surname=mansur"
       }
     ],
     "linguisticOrigin": "ערבית",
     "historicalCommunities": "ערבית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "alternateSpellings": [
+      "Mansur"
+    ],
+    "metadataNote": "Mansour ו־Mansur מתועדים במילון כשתי צורות של אותו שם; אין בכך הוכחה לקרבה בין משפחות."
   },
   {
     "id": "mizrahi",
@@ -432,10 +438,10 @@
     "latin": "Abadi",
     "status": "review",
     "meaning": "לשם כמה מקורות אפשריים: בפרסית הוא עשוי להיקשר ל־ābād, ובמסורות ערביות ויהודיות קיימים הסברים אחרים.",
-    "history": "המילון מבחין בין מקורות איראניים, מוסלמיים, יהודיים מסוריה וממצרים, ואתיופיים. אין לקבוע מקור אחד ללא תיעוד משפחתי.",
+    "history": "לפי Dictionary of American Family Names, לשם Abadi כמה מקורות נפרדים: באיראן הוא עשוי לנבוע מן הסיומת הפרסית ābād (מקום מיושב או משגשג), או מקשר לאדם ששמו Ābād; במסורת מוסלמית הוא מתועד כצורה של Abbadi; ובקהילות יהודיות מסוריה וממצרים מתואר אימוץ השם הערבי, אולי בשל דמיונו לשם המקראי עובדיה. אין לבחור הסבר אחד לכל המשפחות.",
     "sources": [
       {
-        "title": "Dictionary of American Family Names — Abadi",
+        "title": "Dictionary of American Family Names — Abadi (FamilySearch)",
         "url": "https://www.familysearch.org/en/surname?surname=Abadi"
       }
     ],
@@ -443,6 +449,6 @@
     "historicalCommunities": "מסורות איראניות, ערביות ויהודיות; נדרש בירור לכל מקור בנפרד",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "מקורות שונים מתועדים במילון, אך לא ניתן לשייך משפחה מסוימת לאחד מהם ללא תיעוד משפחתי."
   }
 ]
