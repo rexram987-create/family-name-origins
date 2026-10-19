@@ -1403,6 +1403,18 @@
       {
         "title": "Dictionary of American Family Names (2022) — Leibowitz",
         "url": "https://www.ancestry.com/last-name-meaning/leibowitz"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Leibovitz",
+        "url": "https://www.ancestry.com/last-name-meaning/leibovitz"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Lebowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/lebowitz"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Liebowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/liebowitz"
       }
     ],
     "linguisticOrigin": "יידיש / שפות סלאביות",
@@ -1413,7 +1425,7 @@
       "Lebowitz",
       "Liebowitz"
     ],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. הכתיבים Leibovitz, Lebowitz ו־Liebowitz אומתו בערכים נפרדים של אותו מילון; אין זו הצלבה ממקור עצמאי."
   },
   {
     "id": "kogan",
@@ -1440,7 +1452,7 @@
     "latin": "Goldsmith",
     "status": "verified",
     "meaning": "צורף זהב.",
-    "history": "באנגלית שם מקצוע; לעיתים תרגום של Goldschmidt הגרמני או האשכנזי.",
+    "history": "שם מקצוע אנגלי לצורף זהב; לעיתים תרגום של Goldschmidt הגרמני או Goldsmit ההולנדי.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Goldsmith",
@@ -1450,8 +1462,11 @@
     "linguisticOrigin": "אנגלית / גרמנית",
     "historicalCommunities": "אנגלית, גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+    "alternateSpellings": [
+      "Goldschmidt",
+      "Goldsmit"
+    ],
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. Goldschmidt ו־Goldsmit הם שמות מקור מתועדים לתרגום Goldsmith, לא בהכרח איותים חלופיים בתוך אותה משפחה."
   },
   {
     "id": "benowitz",
@@ -1459,7 +1474,7 @@
     "latin": "Benowitz",
     "status": "verified",
     "meaning": "צאצא של אדם ששמו בנימין.",
-    "history": "שם אבהות אשכנזי מצורה מקוצרת של בנימין, עם סיומת ממקור סלאבי.",
+    "history": "שם אבהות אשכנזי מצורה מקוצרת של בנימין, עם סיומת אבהות מזרח־סלאבית שעברה התאמה לגרמנית.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Benowitz",
@@ -1497,18 +1512,22 @@
     "latin": "Goldstone",
     "status": "verified",
     "meaning": "לעיתים צורה אנגלית של גולדשטיין.",
-    "history": "השם עשוי להיות התאמה של Goldstein היהודי או צורה של Goldston האנגלי.",
+    "history": "עשוי להיות עיבוד אנגלי של Goldstein היהודי או גרסה של Goldston האנגלי, שמקורו נפרד.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Goldstone",
         "url": "https://www.ancestry.com/last-name-meaning/goldstone"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Goldston",
+        "url": "https://www.ancestry.com/last-name-meaning/goldston"
       }
     ],
     "linguisticOrigin": "אנגלית / גרמנית",
     "historicalCommunities": "יהודית ואנגלית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. Goldston מתועד כמקור אנגלי נפרד; אין לקבוע זהות אטימולוגית לכל המשפחות."
   },
   {
     "id": "kagen",
@@ -1521,12 +1540,16 @@
       {
         "title": "Dictionary of American Family Names (2022) — Kagen",
         "url": "https://www.ancestry.com/last-name-meaning/kagen"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Kagan (distinct Irish origin also)",
+        "url": "https://www.ancestry.com/last-name-meaning/kagan"
       }
     ],
     "linguisticOrigin": "עברית בתיווך שפות מזרח אירופה",
     "historicalCommunities": "יהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. Kagan אינו נכלל ככתיב חלופי גורף: המילון מתעד עבורו גם מקור אירי עצמאי."
   }
 ]
