@@ -1017,5 +1017,195 @@
     "geographicAssociation": "שוודיה ופינלנד",
     "alternateSpellings": [],
     "metadataNote": "רמת ביטחון גבוהה במקור המילוני; אין לקבוע זהות עם כתיבים דומים."
+  },
+  {
+    "id": "bitton",
+    "name": "ביטון",
+    "latin": "Bitton",
+    "status": "verified",
+    "meaning": "שם יהודי־ספרדי מן השם הפרטי Viton, הקשור ללטינית vita ('חיים'); לכתיב האנגלי Bitton מקורות אחרים.",
+    "history": "במסורת היהודית הספרדית המילון מתעד גזירה משם פרטי ימי־ביניימי Viton. באנגלית השם עשוי להיות טופוגרפי או להצביע על מקום בשם Bitton בגלוסטרשייר.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Bitton",
+        "url": "https://www.ancestry.com/last-name-meaning/bitton"
+      }
+    ],
+    "linguisticOrigin": "רומאנית / אנגלית",
+    "historicalCommunities": "יהודית ספרדית ואנגלית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "ohana",
+    "name": "אוחנה",
+    "latin": "Ohana",
+    "status": "verified",
+    "meaning": "שם יהודי ממרוקו: תחילית ברברית u- ('בן של') ושורש שהסברו אינו ודאי.",
+    "history": "המילון מציע כמה אפשרויות לחלק השני: השם המקראי חנה, שם פרטי יהודי־ערבי שאינו מתועד ישירות, או המילה הברברית לסבתא. אין להציג אפשרות אחת כמוכחת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Ohana",
+        "url": "https://www.ancestry.com/last-name-meaning/ohana"
+      }
+    ],
+    "linguisticOrigin": "תמאזיע'ת / יהודית־ערבית (אפשרויות)",
+    "historicalCommunities": "יהודית ממרוקו",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "gabay",
+    "name": "גבאי",
+    "latin": "Gabay",
+    "status": "verified",
+    "meaning": "מונח עברי לבעל תפקיד ציבורי או ממונה, במיוחד בקהילה או בבית הכנסת.",
+    "history": "המילון מתעד את Gabay כשם מעמד או תפקיד בקרב יהודים ספרדים ואשכנזים ממזרח אירופה, ובהקשרים של בית כנסת ומוסדות ציבור.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Gabay",
+        "url": "https://www.ancestry.com/last-name-meaning/gabay"
+      }
+    ],
+    "linguisticOrigin": "עברית",
+    "historicalCommunities": "יהודית ספרדית ואשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "malka",
+    "name": "מלכה",
+    "latin": "Malka",
+    "status": "verified",
+    "meaning": "במסורת יהודית: מן השם הפרטי מלכה, 'מלכה' בעברית; לכתיב זה גם מקורות לא־יהודיים.",
+    "history": "במסורת יהודית אשכנזית וספרדית מקור השם בשם הפרטי הנשי מלכה/מלכע. המילון מתעד גם מקורות פולניים ואלבניים נפרדים לאותו כתיב לטיני.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Malka",
+        "url": "https://www.ancestry.com/last-name-meaning/malka"
+      }
+    ],
+    "linguisticOrigin": "עברית / פולנית / אלבנית",
+    "historicalCommunities": "יהודית ומסורות אירופיות נוספות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "greenberg",
+    "name": "גרינברג",
+    "latin": "Greenberg",
+    "status": "verified",
+    "meaning": "צורה אמריקאית של Grünberg הגרמני והיהודי: 'הר ירוק'.",
+    "history": "המילון מתעד את Greenberg ככתיב שעבר התאמה לאנגלית של Grünberg. אין להסיק מן המשמעות מקום מוצא מסוים או קרבה בין משפחות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Greenberg",
+        "url": "https://www.ancestry.com/last-name-meaning/greenberg"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "גרמנית ויהודית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "greenfeld",
+    "name": "גרינפלד",
+    "latin": "Greenfeld",
+    "status": "verified",
+    "meaning": "צורה אמריקאית של Grünfeld או Grinfeld; רכיבי השם קשורים ל'ירוק' ול'שדה'.",
+    "history": "המילון מתעד במפורש התאמת כתיב של Grünfeld הגרמני והיהודי־אשכנזי או Grinfeld היהודי. המשמעות המילולית של הרכיבים אינה מוכיחה כיצד קיבלה משפחה מסוימת את שמה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Greenfeld",
+        "url": "https://www.ancestry.com/last-name-meaning/greenfeld"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "eisenberg",
+    "name": "אייזנברג",
+    "latin": "Eisenberg",
+    "status": "verified",
+    "meaning": "בגרמנית: 'הר הברזל'; שם מקום או שם שאומץ במסורת אשכנזית.",
+    "history": "המילון מתעד מקור גרמני במקומות בשם Eisenberg, מן īsen 'ברזל' ו־berg 'הר/גבעה'. קיימת גם מסורת יהודית־אשכנזית של אימוץ השם; אין לקבוע מוצא מסוים ללא מסמכים.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Eisenberg",
+        "url": "https://www.ancestry.com/last-name-meaning/eisenberg"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "feldman",
+    "name": "פלדמן",
+    "latin": "Feldman",
+    "status": "verified",
+    "meaning": "במסורת אשכנזית הרחבה של Feld ('שדה'); גם התאמה אמריקאית של Feldmann הגרמני.",
+    "history": "המילון מבדיל בין הרחבה מלאכותית של Feld כשם משפחה יהודי־אשכנזי ובין התאמה לאנגלית של Feldmann הגרמני. אין להניח שכולם נושאים אותו מקור משפחתי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Feldman",
+        "url": "https://www.ancestry.com/last-name-meaning/feldman"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "silverman",
+    "name": "סילברמן",
+    "latin": "Silverman",
+    "status": "verified",
+    "meaning": "תרגום או התאמה לאנגלית של Silberman / Silbermann, ששורשם במילה הגרמנית לכסף.",
+    "history": "המילון מתעד את Silverman כצורה אמריקאית מתורגמת של שם אשכנזי או גרמני Silberman/Silbermann. אין להסיק שהשם מציין בהכרח מקצוע בצורפות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Silverman",
+        "url": "https://www.ancestry.com/last-name-meaning/silverman"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / אנגלית",
+    "historicalCommunities": "יהודית אשכנזית וגרמנית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "amsel",
+    "name": "אמסל",
+    "latin": "Amsel",
+    "status": "verified",
+    "meaning": "במסורת אשכנזית מן השם הפרטי Amsl; בגרמנית גם מן המילה 'שחרור' (ציפור).",
+    "history": "המילון מתעד מקור יהודי־אשכנזי מן השם הפרטי ביידיש Amsl הקשור ל־Anselm, ולצדו מקור גרמני עצמאי מכינוי לציפור השחרור, שעשוי לשקף כינוי או עיסוק.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Amsel",
+        "url": "https://www.ancestry.com/last-name-meaning/amsel"
+      }
+    ],
+    "linguisticOrigin": "יידיש / גרמנית",
+    "historicalCommunities": "יהודית אשכנזית וגרמנית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
   }
 ]
