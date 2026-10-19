@@ -158,7 +158,7 @@
     "latin": "Rosenberg",
     "status": "verified",
     "meaning": "בגרמנית: הר הוורדים.",
-    "history": "שם מקום במסורות גרמניות ויהודיות אשכנזיות; בחלק מהמקרים שם נבחר (ornamental) או צורה מותאמת של שם ביידיש.",
+    "history": "לפי Dictionary of American Family Names (מהדורת 2022), Rosenberg הוא לעיתים שם מוצא מאחד המקומות הרבים שנקראו כך (׳הר הוורדים׳). במסורת היהודית־אשכנזית הוא עשוי להיות גם שם נבחר, ולעיתים צורה מותאמת של השם המקביל ביידיש Royzenbarg. בשוודיה ובדנמרק תועד גם כשם נוי מן הרכיבים rose ו־berg. אין להסיק מכך שכל המשפחות קשורות זו לזו.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Rosenberg",
@@ -166,10 +166,10 @@
       }
     ],
     "linguisticOrigin": "גרמנית",
-    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "historicalCommunities": "גרמנית, יהודית אשכנזית; גם שוודית ודנית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "קיימים מקורות נפרדים לשם: שם מקום, שם נבחר או צורה שהותאמה מיידיש. אין להסיק ממבנה השם על מוצא משפחה מסוימת."
   },
   {
     "id": "goldberg",
@@ -341,7 +341,7 @@
     "latin": "Friedman",
     "status": "verified",
     "meaning": "במסורת היהודית־אשכנזית: מיידיש frid (שלום) ו־man (איש).",
-    "history": "לכתיב Friedman גם מקורות אחרים, ובהם אמריקניזציה של Friedmann הגרמני. משמעות מסוימת אינה חלה בהכרח על כל המשפחות.",
+    "history": "לפי Dictionary of American Family Names (מהדורת 2022), Friedman במסורת היהודית־אשכנזית הוא צורה מורחבת של Fried, מן המילים ביידיש frid (שלום) ו־man (איש). הכתיב Friedman יכול גם להיות צורה אמריקאית של Friedmann מדרום גרמניה ומשווייץ. אין לקבוע על סמך הכתיב לבדו איזו אטימולוגיה חלה על משפחה מסוימת.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Friedman",
@@ -352,7 +352,7 @@
     "historicalCommunities": "יהודית אשכנזית; קיים גם מקור גרמני",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "המקור היהודי־אשכנזי והמקור הגרמני מתועדים בנפרד. אין להניח קשר משפחתי בין כל נושאי השם."
   },
   {
     "id": "klein",
