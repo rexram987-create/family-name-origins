@@ -126,6 +126,10 @@
       {
         "title": "Jewish Encyclopedia — Cohen: surname and priestly tradition",
         "url": "https://www.jewishencyclopedia.com/articles/4454-cohen"
+      },
+      {
+        "title": "אליעזר בן־יהודה — מילון העברית הישנה והחדשה, ערך כהן (רקע לשוני)",
+        "url": "https://benyehuda.org/dict/24412/45595"
       }
     ],
     "linguisticOrigin": "עברית",
@@ -135,7 +139,7 @@
       "Kohen",
       "Kahn"
     ],
-    "metadataNote": "Kohen הוא כתיב חלופי מתועד של Cohen. גם Kahn מתועד כצורה אשכנזית של Cohen, אך לשם Kahn קיימים בנוסף מקורות צפון־גרמניים נפרדים (למשל שם מקצוע של איש סירות). אין להסיק מן הכתיב Kahn על כהונה או על מוצא יהודי."
+    "metadataNote": "Kohen הוא כתיב חלופי מתועד של Cohen. גם Kahn מתועד כצורה אשכנזית של Cohen, אך לשם Kahn קיימים בנוסף מקורות צפון־גרמניים נפרדים (למשל שם מקצוע של איש סירות). אין להסיק מן הכתיב Kahn על כהונה או על מוצא יהודי. נוספו הפניות למילון בן־יהודה לצורך אישוש המשמעות הלשונית בלבד; המילון אינו ראיה למוצא או לשושלת של משפחה מסוימת."
   },
   {
     "id": "katz",
@@ -305,13 +309,17 @@
       {
         "title": "Dictionary of American Family Names — Mizrahi",
         "url": "https://www.ancestry.com/last-name-meaning/mizrahi"
+      },
+      {
+        "title": "אליעזר בן־יהודה — ערך מִזְרָח (הכיוון הגאוגרפי)",
+        "url": "https://benyehuda.org/dict/24412/47391"
       }
     ],
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית אשכנזית וספרדית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המילון מאמת את משמעות השם ואת שימושו במסורות יהודיות שונות; הוא אינו מוכיח ארץ מוצא או מסלול הגירה של משפחה מסוימת."
+    "metadataNote": "המילון מאמת את משמעות השם ואת שימושו במסורות יהודיות שונות; הוא אינו מוכיח ארץ מוצא או מסלול הגירה של משפחה מסוימת. נוספו הפניות למילון בן־יהודה לצורך אישוש המשמעות הלשונית בלבד; המילון אינו ראיה למוצא או לשושלת של משפחה מסוימת."
   },
   {
     "id": "levy",
@@ -324,13 +332,21 @@
       {
         "title": "Dictionary of American Family Names — Levy",
         "url": "https://www.ancestry.com/last-name-meaning/levy"
+      },
+      {
+        "title": "אליעזר בן־יהודה — ערך לָוָה (הקשר הלשוני של יִלָּוֶה)",
+        "url": "https://benyehuda.org/dict/24412/46512"
+      },
+      {
+        "title": "אליעזר בן־יהודה — ערך שֵׁבֶט (אזכור שבט לוי)",
+        "url": "https://benyehuda.org/dict/24412/56837"
       }
     ],
     "linguisticOrigin": "עברית (במסורת היהודית); קיים גם מקור צ׳כי",
     "historicalCommunities": "יהודית אשכנזית וספרדית; לכתיב Levy קיים גם מקור צ׳כי",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "האטימולוגיה היהודית מתועדת, אך לכתיב Levy יש גם מקור צ׳כי; ייחוס שבטי אישי דורש ראיות נפרדות."
+    "metadataNote": "האטימולוגיה היהודית מתועדת, אך לכתיב Levy יש גם מקור צ׳כי; ייחוס שבטי אישי דורש ראיות נפרדות. נוספו הפניות למילון בן־יהודה לצורך אישוש המשמעות הלשונית בלבד; המילון אינו ראיה למוצא או לשושלת של משפחה מסוימת."
   },
   {
     "id": "peretz",
@@ -343,13 +359,21 @@
       {
         "title": "Dictionary of American Family Names — Peretz",
         "url": "https://www.ancestry.com/last-name-meaning/peretz"
+      },
+      {
+        "title": "אליעזר בן־יהודה — ערך פֶּרֶץ (המשמעות הלשונית והפסוק בבראשית)",
+        "url": "https://benyehuda.org/dict/24412/53472"
+      },
+      {
+        "title": "אליעזר בן־יהודה — ערך פָּרַץ (השורש והפועל)",
+        "url": "https://benyehuda.org/dict/24412/53469"
       }
     ],
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הקשר לשם המקראי פרץ מתועד במילון; אין בכך הוכחה לייחוס אישי או לקרבה משפחתית."
+    "metadataNote": "הקשר לשם המקראי פרץ מתועד במילון; אין בכך הוכחה לייחוס אישי או לקרבה משפחתית. נוספו הפניות למילון בן־יהודה לצורך אישוש המשמעות הלשונית בלבד; המילון אינו ראיה למוצא או לשושלת של משפחה מסוימת."
   },
   {
     "id": "friedman",
