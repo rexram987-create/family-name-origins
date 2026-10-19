@@ -689,13 +689,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Stern",
         "url": "https://www.ancestry.com/last-name-meaning/stern"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Sterne",
+        "url": "https://www.ancestry.com/last-name-meaning/sterne"
       }
     ],
     "linguisticOrigin": "גרמנית; גם אנגלית ממקור אחר",
     "historicalCommunities": "גרמנית, יהודית אשכנזית, אנגלית וסלאבית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+    "alternateSpellings": [
+      "Sterne"
+    ],
+    "metadataNote": "Sterne מתועד כגרסה אנגלית של Stern; אין להניח שכל נושאי הכתיבים שייכים לאותה משפחה."
   },
   {
     "id": "rubin",
@@ -708,13 +714,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Rubin",
         "url": "https://www.ancestry.com/last-name-meaning/rubin"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Ruben",
+        "url": "https://www.ancestry.com/last-name-meaning/ruben"
       }
     ],
     "linguisticOrigin": "עברית; גרמנית ושפות אירופיות נוספות",
     "historicalCommunities": "יהודית אשכנזית, גרמנית, צרפתית וסלאבית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+    "alternateSpellings": [
+      "Ruben"
+    ],
+    "metadataNote": "Ruben מתועד כגרסה של Rubin במסורת האשכנזית, אך לכתיב Ruben יש גם מקורות גאוגרפיים ואנגליים נפרדים."
   },
   {
     "id": "kaplan",
