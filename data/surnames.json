@@ -789,7 +789,7 @@
     "historicalCommunities": "ערבית מוסלמית ונוצרית; סומלית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+    "metadataNote": "ל־Daher מקורות ערביים וסומליים נפרדים. Dahir קשור בחלק מן המסורות, אך אין ראיה מספקת להציגו ככתיב חלופי גורף של Daher."
   },
   {
     "id": "benveniste",
@@ -837,13 +837,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Azulay",
         "url": "https://www.ancestry.com/last-name-meaning/azulay"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Azoulay",
+        "url": "https://www.ancestry.com/last-name-meaning/azoulay"
       }
     ],
     "linguisticOrigin": "תמאזיע'ת (ברברית)",
     "historicalCommunities": "יהודית ממרוקו",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+    "alternateSpellings": [
+      "Azoulay"
+    ],
+    "metadataNote": "Azoulay מתועד במילון כגרסה של Azulay בקרב יהודים ממרוקו; אין בכך ראיה לקרבה בין משפחות."
   },
   {
     "id": "khalil",
@@ -856,13 +862,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Khalil",
         "url": "https://www.ancestry.com/last-name-meaning/khalil"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Kalil",
+        "url": "https://www.ancestry.com/last-name-meaning/kalil"
       }
     ],
     "linguisticOrigin": "ערבית",
     "historicalCommunities": "ערבית מוסלמית ונוצרית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+    "alternateSpellings": [
+      "Kalil"
+    ],
+    "metadataNote": "Kalil מתועד במילון כגרסה ערבית של Khalil, אך כתיב חלופי אינו הוכחה לקרבה משפחתית."
   },
   {
     "id": "berg",
