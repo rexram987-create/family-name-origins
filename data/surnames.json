@@ -581,13 +581,23 @@
       {
         "title": "Dictionary of American Family Names (2022) — Weiss",
         "url": "https://www.ancestry.com/last-name-meaning/Weiss"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Weisse, variant of Weiss",
+        "url": "https://www.ancestry.com/last-name-meaning/weisse"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Weis, distinct meaning and variant",
+        "url": "https://www.ancestry.com/last-name-meaning/weis"
       }
     ],
     "linguisticOrigin": "גרמנית",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Weisse"
+    ],
+    "metadataNote": "Weiss פירושו בדרך כלל 'לבן' בגרמנית, אך קיימים גם מקורות טופונימיים ושמות פרטיים. Weisse מתועד כגרסה של Weiss. Weis עשוי להיות גם שם נפרד שמשמעותו 'חכם', ולכן אינו נכלל ככתיב חלופי גורף. אין להסיק מוצא משפחתי משם בלבד."
   },
   {
     "id": "schwartz",
@@ -600,13 +610,24 @@
       {
         "title": "Dictionary of American Family Names (2022) — Schwartz",
         "url": "https://www.ancestry.com/last-name-meaning/Schwartz?geo-lang=en"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Schwarz, variant of Schwartz",
+        "url": "https://www.ancestry.com/last-name-meaning/schwarz"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Shwartz, Americanized form",
+        "url": "https://www.ancestry.com/last-name-meaning/shwartz"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Schwarz",
+      "Shwartz"
+    ],
+    "metadataNote": "Schwarz ו־Shwartz מתועדים כצורות קשורות של Schwartz; קיימים גם מקורות גאוגרפיים ומסורות תעתיק שונות. כתיב דומה אינו מוכיח קרבה בין משפחות. המקורות הנוספים הם ערכים של אותו מילון ואינם מחקרים עצמאיים."
   },
   {
     "id": "najjar",
