@@ -905,13 +905,17 @@
       {
         "title": "Dictionary of American Family Names (2022) — Berger",
         "url": "https://www.ancestry.com/last-name-meaning/berger"
+      },
+      {
+        "title": "Behind the Name — Berger (French occupational surname)",
+        "url": "https://surnames.behindthename.com/name/berger-1"
       }
     ],
     "linguisticOrigin": "גרמנית / הולנדית / צרפתית / נורווגית",
     "historicalCommunities": "אירופית ויהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית. מקור עצמאי מאמת במפורש את המקור הצרפתי 'רועה צאן'; המקור הגרמני ממשיך להסתמך על המילון הקודם."
   },
   {
     "id": "daher",
@@ -1214,13 +1218,17 @@
       {
         "title": "Dictionary of American Family Names (2022) — Greenberg",
         "url": "https://www.ancestry.com/last-name-meaning/greenberg"
+      },
+      {
+        "title": "מוזיאון אנו — סקירה מחקרית על שמות משפחה יהודיים (Grinberg)",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
       }
     ],
     "linguisticOrigin": "גרמנית",
     "historicalCommunities": "גרמנית ויהודית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. סקירת מוזיאון אנו מזכירה במפורש Grinberg כדוגמה לשם קישוטי; זה אינו ערך ייעודי ל־Greenberg ואינו מוכיח קשר שושלתי."
   },
   {
     "id": "greenfeld",
@@ -1507,6 +1515,10 @@
       {
         "title": "Dictionary of American Family Names (2022) — Goldsmith",
         "url": "https://www.ancestry.com/last-name-meaning/goldsmith"
+      },
+      {
+        "title": "The Oxford Dictionary of Family Names in Britain and Ireland — Goldsmith",
+        "url": "https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E5%85%B1%E4%BA%AB2020.5.11/content/1_english/3_Oxford%20series/The%20Oxford%20Dictionary%20of%20Family%20Names%20in%20Britain%20and%20Ireland/The%20Oxford%20Dictionary%20of%20Family%20Names%20in%20Britain%20and%20Ireland.pdf"
       }
     ],
     "linguisticOrigin": "אנגלית / גרמנית",
@@ -1516,7 +1528,7 @@
       "Goldschmidt",
       "Goldsmit"
     ],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. Goldschmidt ו־Goldsmit הם שמות מקור מתועדים לתרגום Goldsmith, לא בהכרח איותים חלופיים בתוך אותה משפחה. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. Goldschmidt ו־Goldsmit הם שמות מקור מתועדים לתרגום Goldsmith, לא בהכרח איותים חלופיים בתוך אותה משפחה. מקור מילוני עצמאי מאשר את המשמעות המקצועית באנגלית וגם את ההתאמה משמות משפחה יהודיים־אשכנזיים כגון Goldschmidt."
   },
   {
     "id": "benowitz",
