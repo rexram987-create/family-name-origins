@@ -1557,5 +1557,216 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. Kagan אינו נכלל ככתיב חלופי גורף: המילון מתעד עבורו גם מקור אירי עצמאי."
+  },
+  {
+    "id": "horowitz",
+    "name": "הורוביץ",
+    "latin": "Horowitz",
+    "status": "verified",
+    "meaning": "מן העיירה הורז׳וביצה בבוהמיה.",
+    "history": "שם אשכנזי גאוגרפי הקשור לעיירה Hořovice בצ׳כיה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Horowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/horowitz"
+      }
+    ],
+    "linguisticOrigin": "צ׳כית / יידיש",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Horovitz",
+      "Horwitz",
+      "Horvitz"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "goldman",
+    "name": "גולדמן",
+    "latin": "Goldman",
+    "status": "verified",
+    "meaning": "מקורות שונים, ובהם השם הפרטי גולדה.",
+    "history": "שם אשכנזי שנגזר לעיתים מ־Gold או משם אישה Golde; קיימים גם מקורות גרמניים ואנגליים נפרדים.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Goldman",
+        "url": "https://www.ancestry.com/last-name-meaning/goldman"
+      }
+    ],
+    "linguisticOrigin": "יידיש / גרמנית / אנגלית",
+    "historicalCommunities": "יהודית אשכנזית, גרמנית ואנגלית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Goldmann"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "segal",
+    "name": "סגל",
+    "latin": "Segal",
+    "status": "verified",
+    "meaning": "ראשי תיבות של ״סגן לוייה״.",
+    "history": "שם אשכנזי שנוצר מראשי תיבות עבריים. אין בו הוכחה לייחוס משפחתי כלשהו.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Segal",
+        "url": "https://www.ancestry.com/last-name-meaning/segal"
+      }
+    ],
+    "linguisticOrigin": "עברית",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Siegal",
+      "Seigal",
+      "Sagal"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "shulman",
+    "name": "שולמן",
+    "latin": "Shulman",
+    "status": "verified",
+    "meaning": "צורה אשכנזית של Schulman.",
+    "history": "מקורו בצורת Schulman; במסורת הגרמנית קיים גם קשר אפשרי למקצוע הוראה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Shulman",
+        "url": "https://www.ancestry.com/last-name-meaning/shulman"
+      }
+    ],
+    "linguisticOrigin": "יידיש / גרמנית",
+    "historicalCommunities": "יהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Schulman"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "rabinowitz",
+    "name": "רבינוביץ",
+    "latin": "Rabinowitz",
+    "status": "verified",
+    "meaning": "צאצא של אדם שכונה רב.",
+    "history": "צורה מזרח־אשכנזית של Rabinovich, עם סיומת אבהות סלאבית שעברה גרמניזציה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Rabinowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/rabinowitz"
+      }
+    ],
+    "linguisticOrigin": "שפות סלאביות / יידיש",
+    "historicalCommunities": "יהודית מזרח־אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Rabinovich",
+      "Rabinovitz"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "mandel",
+    "name": "מנדל",
+    "latin": "Mandel",
+    "status": "verified",
+    "meaning": "שקד; קיימים גם מקורות אחרים.",
+    "history": "בגרמנית וביידיש ״שקד״; במסורת אשכנזית עשוי להיות גם צורה של השם הפרטי Mendel.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Mandel",
+        "url": "https://www.ancestry.com/last-name-meaning/mandel"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Mandl"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "roth",
+    "name": "רוט",
+    "latin": "Roth",
+    "status": "verified",
+    "meaning": "אדום בגרמנית; קיימים מקורות נוספים.",
+    "history": "לעיתים כינוי לשיער אדום או שם נבחר אשכנזי. קיימים גם מקורות גאוגרפיים וגרמניים נפרדים.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Roth",
+        "url": "https://www.ancestry.com/last-name-meaning/roth"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "abramowitz",
+    "name": "אברמוביץ",
+    "latin": "Abramowitz",
+    "status": "verified",
+    "meaning": "צאצא של אברם.",
+    "history": "שם אבהות מזרח־אשכנזי מן השם הפרטי אברם, צורה של אברהם.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Abramowitz",
+        "url": "https://www.ancestry.com/last-name-meaning/abramowitz"
+      }
+    ],
+    "linguisticOrigin": "עברית / שפות סלאביות",
+    "historicalCommunities": "יהודית מזרח־אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Abramovitz"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "hirsch",
+    "name": "הירש",
+    "latin": "Hirsch",
+    "status": "verified",
+    "meaning": "צבי או אייל בגרמנית וביידיש.",
+    "history": "שם תיאורי גרמני, או שם משפחה אשכנזי מן השם הפרטי הירש.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Hirsch",
+        "url": "https://www.ancestry.com/last-name-meaning/hirsch"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Hirsh"
+    ],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+  },
+  {
+    "id": "mendel",
+    "name": "מנדל (Mendel)",
+    "latin": "Mendel",
+    "status": "verified",
+    "meaning": "מן השם הפרטי ביידיש Mendl.",
+    "history": "שם משפחה אשכנזי מן השם הפרטי Mendl; בדרום גרמניה קיים גם מקור נפרד.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Mendel",
+        "url": "https://www.ancestry.com/last-name-meaning/mendel"
+      }
+    ],
+    "linguisticOrigin": "יידיש / גרמנית",
+    "historicalCommunities": "יהודית אשכנזית ודרום־גרמנית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
   }
 ]
