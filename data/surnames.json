@@ -1577,6 +1577,10 @@
       {
         "title": "Dictionary of American Family Names (2022) — Horvitz",
         "url": "https://www.ancestry.com/last-name-meaning/horvitz"
+      },
+      {
+        "title": "ANU Museum of the Jewish People — Jewish Family Names and their Origins (Horowitz family)",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
       }
     ],
     "linguisticOrigin": "צ׳כית / יידיש",
@@ -1587,7 +1591,7 @@
       "Horwitz",
       "Horvitz"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מוזיאון אנו מזכיר משפחות לוויות בשם הורוביץ, אך אינו מאמת בכך את מוצאו או ייחוסו של כל נושא השם."
   },
   {
     "id": "goldman",
@@ -1615,19 +1619,23 @@
     "name": "סגל",
     "latin": "Segal",
     "status": "verified",
-    "meaning": "ראשי תיבות של ״סגן לוייה״.",
-    "history": "שם אשכנזי שנוצר מראשי תיבות עבריים. אין בו הוכחה לייחוס משפחתי כלשהו.",
+    "meaning": "לפי מסורת מקובלת: ראשי תיבות של ״סגן לכהונה״.",
+    "history": "שם אשכנזי המזוהה במסורת עם לוויים; אין בשם לבדו הוכחה לייחוס לוי.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Segal",
         "url": "https://www.ancestry.com/last-name-meaning/segal"
+      },
+      {
+        "title": "ANU Museum of the Jewish People — Jewish Family Names and their Origins",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
       }
     ],
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. Siegal, Seigal ו־Sagal הוסרו מרשימת הכתיבים המאומתים עד לבדיקת קשר אטימולוגי ישיר; דמיון כתיב אינו מספיק."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. Siegal, Seigal ו־Sagal הוסרו מרשימת הכתיבים המאומתים עד לבדיקת קשר אטימולוגי ישיר; דמיון כתיב אינו מספיק. מוזיאון אנו מציג את ראשי התיבות 'סגן לכהונה' ומדגיש כי שם משפחה אינו ראיה מחייבת לייחוס."
   },
   {
     "id": "shulman",
@@ -1703,7 +1711,7 @@
     "latin": "Roth",
     "status": "verified",
     "meaning": "אדום בגרמנית; קיימים מקורות נוספים.",
-    "history": "לעיתים כינוי לשיער אדום או שם נבחר אשכנזי. קיימים גם מקורות גאוגרפיים וגרמניים נפרדים.",
+    "history": "שם גרמני שפירושו לעיתים ״אדום״, למשל כינוי לבעל שיער אדמוני; מקורות אחרים קשורים לשטח שפונה, למקום או לשם פרטי.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Roth",
@@ -1714,7 +1722,7 @@
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. FamilySearch מציג את מילון שמות המשפחה האמריקאי, ולכן אינו מקור מחקרי עצמאי נוסף."
   },
   {
     "id": "abramowitz",
