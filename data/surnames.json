@@ -1118,18 +1118,22 @@
     "latin": "Ohana",
     "status": "verified",
     "meaning": "שם יהודי ממרוקו: תחילית ברברית u- ('בן של') ושורש שהסברו אינו ודאי.",
-    "history": "המילון מציע כמה אפשרויות לחלק השני: השם המקראי חנה, שם פרטי יהודי־ערבי שאינו מתועד ישירות, או המילה הברברית לסבתא. אין להציג אפשרות אחת כמוכחת.",
+    "history": "שם יהודי המתועד במרוקו ובתוניסיה; מוזיאון אנו מציג גם אפשרות לקשר למקום בשם אוחנה. רכיב השם השני אינו מוכרע.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Ohana",
         "url": "https://www.ancestry.com/last-name-meaning/ohana"
+      },
+      {
+        "title": "ANU Museum of the Jewish People — OHANNA, dedicated surname entry",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e120770/Family_Name/OHANNA"
       }
     ],
     "linguisticOrigin": "תמאזיע'ת / יהודית־ערבית (אפשרויות)",
     "historicalCommunities": "יהודית ממרוקו",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. נוסף מקור מחקר עצמאי ממוזיאון אנו המתאר מסורות ותיעוד היסטורי. המקורות מציעים אפשרויות שונות; אין להציג את פירוש השם כוודאי לכל המשפחות."
   },
   {
     "id": "gabay",
@@ -1390,13 +1394,17 @@
       {
         "title": "Dictionary of American Family Names (2022) — Goldstein",
         "url": "https://www.ancestry.com/last-name-meaning/goldstein"
+      },
+      {
+        "title": "ANU Museum — GOULSTON (discusses Goldstein and its meaning)",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e153633/Family_Name/GOULSTON"
       }
     ],
     "linguisticOrigin": "גרמנית",
     "historicalCommunities": "יהודית אשכנזית וגרמנית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. אין להוסיף Goldenstein ככתיב חלופי אוטומטי: זהו שם משפחה מתועד בנפרד. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. אין להוסיף Goldenstein ככתיב חלופי אוטומטי: זהו שם משפחה מתועד בנפרד. נוסף מקור עצמאי עקיף ממוזיאון אנו בערך GOULSTON, הדן במקור Goldstein ובאפשרות של אבן בוחן לצורפים; אינו ערך ייעודי לכל נושאי Goldstein."
   },
   {
     "id": "leibowitz",
