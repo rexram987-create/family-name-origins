@@ -1569,6 +1569,14 @@
       {
         "title": "Dictionary of American Family Names (2022) — Horowitz",
         "url": "https://www.ancestry.com/last-name-meaning/horowitz"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Horovitz",
+        "url": "https://www.ancestry.com/last-name-meaning/horovitz"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Horvitz",
+        "url": "https://www.ancestry.com/last-name-meaning/horvitz"
       }
     ],
     "linguisticOrigin": "צ׳כית / יידיש",
@@ -1587,7 +1595,7 @@
     "latin": "Goldman",
     "status": "verified",
     "meaning": "מקורות שונים, ובהם השם הפרטי גולדה.",
-    "history": "שם אשכנזי שנגזר לעיתים מ־Gold או משם אישה Golde; קיימים גם מקורות גרמניים ואנגליים נפרדים.",
+    "history": "שם אשכנזי שנוצר מהשם Gold או מן השם הנשי Golde; יש גם מקור אנגלי עצמאי וצורה מגרמנית Goldmann.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Goldman",
@@ -1618,24 +1626,24 @@
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [
-      "Siegal",
-      "Seigal",
-      "Sagal"
-    ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "alternateSpellings": [],
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. Siegal, Seigal ו־Sagal הוסרו מרשימת הכתיבים המאומתים עד לבדיקת קשר אטימולוגי ישיר; דמיון כתיב אינו מספיק."
   },
   {
     "id": "shulman",
     "name": "שולמן",
     "latin": "Shulman",
     "status": "verified",
-    "meaning": "צורה אשכנזית של Schulman.",
-    "history": "מקורו בצורת Schulman; במסורת הגרמנית קיים גם קשר אפשרי למקצוע הוראה.",
+    "meaning": "צורה אשכנזית של Schulman; המקור אינו אחיד.",
+    "history": "השם Shulman מתועד כצורה של Schulman. ב־Schulman מתועדים גם מקור גרמני הקשור להוראה וגם מקור אשכנזי מ־Schuler.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Shulman",
         "url": "https://www.ancestry.com/last-name-meaning/shulman"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Schulman",
+        "url": "https://www.ancestry.com/last-name-meaning/schulman"
       }
     ],
     "linguisticOrigin": "יידיש / גרמנית",
@@ -1674,7 +1682,7 @@
     "latin": "Mandel",
     "status": "verified",
     "meaning": "שקד; קיימים גם מקורות אחרים.",
-    "history": "בגרמנית וביידיש ״שקד״; במסורת אשכנזית עשוי להיות גם צורה של השם הפרטי Mendel.",
+    "history": "בגרמנית וביידיש ״שקד״; במקורות אחרים שם מקום או גרסה של השם הפרטי Mendel.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Mandel",
@@ -1687,7 +1695,7 @@
     "alternateSpellings": [
       "Mandl"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. אין לאחד אוטומטית את Mandel ואת Mendel: המילון מתעד עבור Mandel כמה מקורות נפרדים."
   },
   {
     "id": "roth",
@@ -1752,7 +1760,7 @@
   },
   {
     "id": "mendel",
-    "name": "מנדל (Mendel)",
+    "name": "מנדל — Mendel",
     "latin": "Mendel",
     "status": "verified",
     "meaning": "מן השם הפרטי ביידיש Mendl.",
@@ -1767,6 +1775,6 @@
     "historicalCommunities": "יהודית אשכנזית ודרום־גרמנית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. השם מוצג בנפרד מ־Mandel משום שהכתיב הלועזי והאפשרויות האטימולוגיות אינם חופפים בכל המשפחות."
   }
 ]
