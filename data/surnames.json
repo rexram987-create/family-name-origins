@@ -498,18 +498,22 @@
     "latin": "Halabi",
     "status": "verified",
     "meaning": "מן הערבית Ḥalabī: אדם מחלב (Aleppo) שבסוריה.",
-    "history": "Halabi נגזר מן הערבית Ḥalabī, ׳אדם מחלב׳ (Aleppo), ששמה בערבית Ḥalab. המילון מתעד את השם אצל מוסלמים ונוצרים.",
+    "history": "שם מוצא מן העיר חלב (Ḥalab) שבסוריה. הכינוי חלבי שימש גם יהודים מחלב, נוסף על קהילות מוסלמיות ונוצריות; אין להסיק ממנו דת של אדם מסוים.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Halabi",
         "url": "https://www.familysearch.org/en/surname?surname=halabi"
+      },
+      {
+        "title": "Chabad — 14 Facts About Syrian Jews (Halabi and Dayan family)",
+        "url": "https://www.chabad.org/library/article_cdo/aid/5585072/jewish/13-Facts-About-Syrian-Jews.htm"
       }
     ],
     "linguisticOrigin": "ערבית",
     "historicalCommunities": "ערבית מוסלמית ונוצרית",
     "geographicAssociation": "חלב, סוריה",
     "alternateSpellings": [],
-    "metadataNote": "המקור הלשוני בחלב מתועד. המילון מציין מוסלמים ונוצרים; אין לראות בכך רשימה ממצה של כל הקהילות הנושאות את השם. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "המקור הלשוני בחלב מתועד. המילון מציין מוסלמים ונוצרים; אין לראות בכך רשימה ממצה של כל הקהילות הנושאות את השם. מקור עצמאי המתייחס במפורש לשם בהקשר של קהילת יהודי חלב; אין בכך הוכחה לכל נושאי השם."
   },
   {
     "id": "abadi",
@@ -1390,13 +1394,17 @@
       {
         "title": "Dictionary of American Family Names (2022) — Dayan",
         "url": "https://www.ancestry.com/last-name-meaning/dayan"
+      },
+      {
+        "title": "Chabad — 14 Facts About Syrian Jews (Halabi and Dayan family)",
+        "url": "https://www.chabad.org/library/article_cdo/aid/5585072/jewish/13-Facts-About-Syrian-Jews.htm"
       }
     ],
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. משמעות התפקיד ״דיין״ מאומתת במילון; אין בכך ראיה שאדם מסוים במשפחה אכן שימש דיין. בקרת מקורות: לרשומה זו קישור מחקרי אחד בלבד; טרם הושלמה הצלבה עם מקור עצמאי נוסף."
+    "metadataNote": "הפירוש מתועד במילון שמות המשפחה האמריקאי (2022). מקור מילוני אחד בשלב זה; אין להסיק מן השם בלבד מוצא אישי, ייחוס או קרבה בין משפחות. משמעות התפקיד ״דיין״ מאומתת במילון; אין בכך ראיה שאדם מסוים במשפחה אכן שימש דיין. מקור עצמאי המתייחס במפורש לשם בהקשר של קהילת יהודי חלב; אין בכך הוכחה לכל נושאי השם."
   },
   {
     "id": "shalom",
