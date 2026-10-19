@@ -1067,13 +1067,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Gabay",
         "url": "https://www.ancestry.com/last-name-meaning/gabay"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Gabbay, documented variant of Gabay",
+        "url": "https://www.ancestry.com/last-name-meaning/gabbay"
       }
     ],
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית ספרדית ואשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+    "alternateSpellings": [
+      "Gabbay"
+    ],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית. Gabbay מתועד במפורש כגרסה של Gabay; אין בכך הוכחה לקרבה בין משפחות."
   },
   {
     "id": "malka",
@@ -1124,13 +1130,24 @@
       {
         "title": "Dictionary of American Family Names (2022) — Greenfeld",
         "url": "https://www.ancestry.com/last-name-meaning/greenfeld"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Grunfeld",
+        "url": "https://www.ancestry.com/last-name-meaning/grunfeld"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Grinfeld",
+        "url": "https://www.ancestry.com/last-name-meaning/grinfeld"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+    "alternateSpellings": [
+      "Grunfeld",
+      "Grinfeld"
+    ],
+    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית. Grunfeld ו־Grinfeld מתועדים כמקורות לצורה האמריקאית Greenfeld. ל־Grunfeld מקור יהודי קישוטי או מקור גרמני גאוגרפי; אין להסיק שושלת משותפת."
   },
   {
     "id": "eisenberg",
