@@ -514,13 +514,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Schneider",
         "url": "https://www.ancestry.com/last-name-meaning/schneider"
+      },
+      {
+        "title": "FamilySearch — Sneider (Dictionary of American Family Names, earlier edition)",
+        "url": "https://www.familysearch.org/en/surname?surname=sneider"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Sneider"
+    ],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית. Sneider מתועד כצורה מאונגלזת של Schneider ושל צורות סלאביות קרובות; יש גם מקור הולנדי נפרד. אין להניח שכל נושאי השם מאותה שושלת. FamilySearch מציג כאן מהדורה קודמת של אותו מילון; זו אינה אסמכתה מחקרית עצמאית."
   },
   {
     "id": "fischer",
@@ -590,13 +596,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Najjar",
         "url": "https://www.ancestry.com/last-name-meaning/Najjar"
+      },
+      {
+        "title": "FamilySearch — Najar (Dictionary of American Family Names, earlier edition)",
+        "url": "https://www.familysearch.org/en/surname?surname=Najar"
       }
     ],
     "linguisticOrigin": "ערבית",
     "historicalCommunities": "ערבית מוסלמית ונוצרית; יהודית ספרדית; איראנית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Najar"
+    ],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית. Najar מתועד כגרסה של Najjar במסורות ערביות ויהודיות־ספרדיות, אך קיים גם מקור ספרדי גאוגרפי נפרד. אין להניח קרבה משפחתית. FamilySearch מציג כאן מהדורה קודמת של אותו מילון; זו אינה אסמכתה מחקרית עצמאית."
   },
   {
     "id": "saad",
@@ -628,13 +640,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Farah",
         "url": "https://www.ancestry.com/last-name-meaning/farah?geo-lang=en"
+      },
+      {
+        "title": "FamilySearch — Farrah (Dictionary of American Family Names, earlier edition)",
+        "url": "https://www.familysearch.org/en/surname?surname=farrah"
       }
     ],
     "linguisticOrigin": "ערבית; קיימים גם מקורות אחרים",
     "historicalCommunities": "ערבית מוסלמית ונוצרית; סומלית; לעיתים אנגלית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש ׳שמחה׳ מתייחס לשם הערבי Farah (فَرَح), ולא בהכרח לשם העברי פרח (פֶּרַח). הכתיב העברי לבדו אינו קובע אטימולוגיה."
+    "alternateSpellings": [
+      "Farrah"
+    ],
+    "metadataNote": "הפירוש ׳שמחה׳ מתייחס לשם הערבי Farah (فَرَح), ולא בהכרח לשם העברי פרח (פֶּרַח). הכתיב העברי לבדו אינו קובע אטימולוגיה. Farrah עשוי להיות כתיב אמריקאי של Farah הערבי, אך יש לו גם מקור אנגלי עצמאי. אין להסיק מן הכתיב העברי פרח שהמקור הוא עברי. FamilySearch מציג כאן מהדורה קודמת של אותו מילון; זו אינה אסמכתה מחקרית עצמאית."
   },
   {
     "id": "schreiber",
