@@ -223,7 +223,7 @@
     "latin": "Haddad",
     "status": "verified",
     "meaning": "בערבית: נפח.",
-    "history": "שם מקצוע מן הערבית ḥaddād, שפירושו נפח. מתועד בקרב מוסלמים ונוצרים דוברי ערבית ובקרב יהודים מצפון אפריקה. המילון מתעד גם שימוש איראני במילה ממקור ערבי. הכתיב Hadad מתועד במילון כגרסה של Haddad.",
+    "history": "לפי Dictionary of American Family Names, חדאד (Haddad) הוא שם מקצועי מן הערבית ḥaddād, ׳נפח׳. הוא מתועד בקרב מוסלמים ונוצרים דוברי ערבית ובקרב יהודים מצפון אפריקה. המילון מתעד גם שימוש באיראן במילה פרסית שמקורה בערבית. הכתיב Hadad מתועד בנפרד כגרסה של Haddad, אך אין בכך הוכחה לקרבה משפחתית.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Haddad",
@@ -232,6 +232,14 @@
       {
         "title": "Dictionary of American Family Names (2022) — Hadad, כתיב חלופי",
         "url": "https://www.ancestry.com/last-name-meaning/hadad"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Haddad",
+        "url": "https://www.ancestry.com/last-name-meaning/haddad"
+      },
+      {
+        "title": "Dictionary of American Family Names — Hadad",
+        "url": "https://www.familysearch.org/en/surname?surname=hadad"
       }
     ],
     "linguisticOrigin": "ערבית",
@@ -240,7 +248,7 @@
     "alternateSpellings": [
       "Hadad"
     ],
-    "metadataNote": "הכתיבים וההסברים המופיעים כאן מתועדים במקורות המצוינים; הם אינם הוכחה לקשר גנאלוגי בין משפחות שונות."
+    "metadataNote": "המשמעות ׳נפח׳ והכתיב Hadad מתועדים במילון; השם לבדו אינו מעיד על דת, מקצוע של אדם מסוים או קשר בין משפחות."
   },
   {
     "id": "nassar",
@@ -248,7 +256,7 @@
     "latin": "Nassar",
     "status": "verified",
     "meaning": "נגזר משם פרטי בערבית הקשור לניצחון.",
-    "history": "מתועד כשם משפחה ערבי בקרב מוסלמים ונוצרים. אין להסיק ממנו דת של אדם מסוים.",
+    "history": "לפי Dictionary of American Family Names, נסאר (Nassar) הוא שם משפחה ערבי שמקורו בשם פרטי המבוסס על naṣṣār, במשמעות ׳מנצח׳ או ׳בעל ניצחון׳. המילון מתעד את השם בקרב מוסלמים ונוצרים. משמעות השם אינה מעידה על דתו או על מוצאו של אדם מסוים.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Nassar",
@@ -259,7 +267,7 @@
     "historicalCommunities": "ערבית מוסלמית ונוצרית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "מקור השם במשמעות הקשורה לניצחון מתועד במילון; אין להסיק מכך קשר משפחתי בין נושאי השם."
   },
   {
     "id": "mansour",
@@ -292,7 +300,7 @@
     "latin": "Mizrahi",
     "status": "verified",
     "meaning": "מן העברית: מזרחי, אדם מן המזרח.",
-    "history": "שם משפחה יהודי המתועד במסורות אשכנזיות וספרדיות. אין להסיק מכך את ארץ המוצא של משפחה מסוימת.",
+    "history": "לפי Dictionary of American Family Names, מזרחי (Mizrahi) הוא שם משפחה יהודי, המתועד במסורות אשכנזיות וספרדיות, מן המילה העברית ׳מזרחי׳ — אדם מן המזרח. זהו תיאור יחסי של זיקה למזרח, ולא זיהוי של מדינה או עיר מסוימת.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Mizrahi",
@@ -303,7 +311,7 @@
     "historicalCommunities": "יהודית אשכנזית וספרדית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "המילון מאמת את משמעות השם ואת שימושו במסורות יהודיות שונות; הוא אינו מוכיח ארץ מוצא או מסלול הגירה של משפחה מסוימת."
   },
   {
     "id": "levy",
