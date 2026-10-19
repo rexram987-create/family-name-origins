@@ -1620,7 +1620,7 @@
     "alternateSpellings": [
       "Goldmann"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. בחיפוש הנוכחי לא נמצא ערך מחקר עצמאי ישיר המאמת את כלל המקורות שהוצעו; נותר לאימות נוסף."
   },
   {
     "id": "segal",
@@ -1650,8 +1650,8 @@
     "name": "שולמן",
     "latin": "Shulman",
     "status": "verified",
-    "meaning": "צורה אשכנזית של Schulman; המקור אינו אחיד.",
-    "history": "השם Shulman מתועד כצורה של Schulman. ב־Schulman מתועדים גם מקור גרמני הקשור להוראה וגם מקור אשכנזי מ־Schuler.",
+    "meaning": "עשוי להיות קשור לבית הכנסת; קיימים מקורות נוספים.",
+    "history": "שם אשכנזי הקשור גם לבית הכנסת ולמשתתפים בתפילה; קיימים הסברים גרמניים אחרים לכתיב Schulman.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Shulman",
@@ -1660,6 +1660,10 @@
       {
         "title": "Dictionary of American Family Names (2022) — Schulman",
         "url": "https://www.ancestry.com/last-name-meaning/schulman"
+      },
+      {
+        "title": "אנו — מבוא לשמות משפחה יהודיים (Shulman בהקשר בית הכנסת)",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
       }
     ],
     "linguisticOrigin": "יידיש / גרמנית",
@@ -1668,19 +1672,23 @@
     "alternateSpellings": [
       "Schulman"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מוזיאון אנו מציין Shulman בין שמות הקשורים למשתתפים בתפילה; אין להציג 'מורה' כפירוש היחיד."
   },
   {
     "id": "rabinowitz",
     "name": "רבינוביץ",
     "latin": "Rabinowitz",
     "status": "verified",
-    "meaning": "צאצא של אדם שכונה רב.",
+    "meaning": "מן התואר ״רב״, עם סיומת אבהות סלאבית.",
     "history": "צורה מזרח־אשכנזית של Rabinovich, עם סיומת אבהות סלאבית שעברה גרמניזציה.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Rabinowitz",
         "url": "https://www.ancestry.com/last-name-meaning/rabinowitz"
+      },
+      {
+        "title": "אנו — מקור השם רבינוביץ (ערך מחקר ייעודי)",
+        "url": "https://dbs.anumuseum.org.il/skn/he/c6/e224463/%D7%A9%D7%9D_%D7%9E%D7%A9%D7%A4%D7%97%D7%94/%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5"
       }
     ],
     "linguisticOrigin": "שפות סלאביות / יידיש",
@@ -1690,7 +1698,7 @@
       "Rabinovich",
       "Rabinovitz"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מוזיאון אנו מאשר את הניתוח של רב + סיומת -וביץ, שפירושה גם 'מוצאו מ־' או 'בנו של'; אין בכך הוכחת ייחוס רבני אישי."
   },
   {
     "id": "mandel",
@@ -1743,6 +1751,14 @@
       {
         "title": "Dictionary of American Family Names (2022) — Abramowitz",
         "url": "https://www.ancestry.com/last-name-meaning/abramowitz"
+      },
+      {
+        "title": "אנו — מבוא לשמות משפחה יהודיים (Abramovitch ברשימת שמות מן אברהם)",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
+      },
+      {
+        "title": "Chabad — Patronymics and Matronymics (Abramowitz example)",
+        "url": "https://www.chabad.org/library/article_cdo/aid/4825070/jewish/10-Keys-to-Understanding-Many-Ashkenazi-Surnames.htm"
       }
     ],
     "linguisticOrigin": "עברית / שפות סלאביות",
@@ -1751,7 +1767,7 @@
     "alternateSpellings": [
       "Abramovitz"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מוזיאון אנו מציין Abramovitch כדוגמה לשם אבהות מאברהם; חב״ד מציין במפורש Abramowitz. המקורות תומכים בדגם הלשוני, לא בייחוס משפחתי מסוים."
   },
   {
     "id": "hirsch",
@@ -1789,12 +1805,16 @@
       {
         "title": "Dictionary of American Family Names (2022) — Mendel",
         "url": "https://www.ancestry.com/last-name-meaning/mendel"
+      },
+      {
+        "title": "אנו — מבוא לשמות משפחה יהודיים (Mendel כשם פרטי)",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
       }
     ],
     "linguisticOrigin": "יידיש / גרמנית",
     "historicalCommunities": "יהודית אשכנזית ודרום־גרמנית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. השם מוצג בנפרד מ־Mandel משום שהכתיב הלועזי והאפשרויות האטימולוגיות אינם חופפים בכל המשפחות."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. השם מוצג בנפרד מ־Mandel משום שהכתיב הלועזי והאפשרויות האטימולוגיות אינם חופפים בכל המשפחות. המקור הכללי של אנו אינו ערך ייעודי ל־Mendel ולכן אינו מאמת לבדו את כל אפשרויות המקור."
   }
 ]
