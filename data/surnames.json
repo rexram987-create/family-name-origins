@@ -47,7 +47,7 @@
     "latin": "Shlomkovitz",
     "status": "unknown",
     "meaning": null,
-    "history": "הכתיב Slomkowitz מתועד ברשומות גנאלוגיות בארצות הברית, אך טרם נמצאה ראיה שמדובר בכתיב של השם העברי המדויק שלומקוביץ. מחקר קודם מתעד את Schlomke כצורה של שלמה, אך גם הקשר בינה לבין שלומקוביץ אינו מאומת. לכן האטימולוגיה נותרת לא ידועה.",
+    "history": "השם המדויק Shlomkovitz מתועד בספרי יזכור: אברם שלומקוביץ נזכר בספר זלוצ'ב שבפולין, ולאה שלומקוביץ מופיעה ברשימת שמות בספר סוקולקה. הכתיב מתועד גם בפרסום רפואי משנת 1998. אלו עדויות לקיום השם ולכתיבו, אך אין בהן הוכחה לאטימולוגיה שלו או לקשר משפחתי בין נושאי השם. מחקר קודם מזכיר את Schlomke כצורה של שלמה, אך הקשר לשם המלא לא אומת.",
     "sources": [
       {
         "title": "The Origin of Jewish Family Names — דיון בצורת Schlomke בלבד",
@@ -56,13 +56,25 @@
       {
         "title": "Ancestry — Slomkowitz (רשומות גנאלוגיות; אין אימות לזהות עם שלומקוביץ)",
         "url": "https://www.ancestry.com/last-name-meaning/slomkowitz"
+      },
+      {
+        "title": "JewishGen — ספר זיכרון זלוצ'ב, אזכור Abram Shlomkovitz",
+        "url": "https://jewishgen.org/yizkor/zloczew/zlo013.html"
+      },
+      {
+        "title": "JewishGen — ספר זיכרון סוקולקה, אזכור Leah Shlomkovitz",
+        "url": "https://www.jewishgen.org/yizkor/sokolka/sok721.html"
+      },
+      {
+        "title": "JAMA Otolaryngology (1998) — תיעוד הכתיב Shlomkovitz",
+        "url": "https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/218182"
       }
     ],
     "linguisticOrigin": null,
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "Slomkowitz הוא כיוון מחקר בלבד, ולא כתיב חלופי מאומת של שלומקוביץ."
+    "metadataNote": "Shlomkovitz מתועד במקורות היסטוריים. הקשר ל־Slomkowitz ול־Schlomke עדיין אינו מאומת, ואין להסיק מן המקורות על קשר משפחתי בין הנזכרים."
   },
   {
     "id": "charlopsky",
