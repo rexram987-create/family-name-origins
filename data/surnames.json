@@ -749,13 +749,25 @@
       {
         "title": "Dictionary of American Family Names (2022) — Miller",
         "url": "https://www.ancestry.com/last-name-meaning/miller?geo-lang=en"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Mueller",
+        "url": "https://www.ancestry.com/last-name-meaning/mueller"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Muller",
+        "url": "https://www.ancestry.com/last-name-meaning/muller"
       }
     ],
     "linguisticOrigin": "אנגלית; גם גרמנית ושפות נוספות",
     "historicalCommunities": "אנגלית, סקוטית, גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+    "alternateSpellings": [
+      "Müller",
+      "Mueller",
+      "Muller"
+    ],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית. Müller, Mueller ו־Muller מתועדים כמקורות לצורה האמריקאית Miller, אך ל־Miller יש גם מקור אנגלי וסקוטי עצמאי. לא כל נושאי הכתיבים הללו חולקים מוצא משפחתי. המקורות הנוספים הם ערכים מאותו מילון."
   },
   {
     "id": "barber",
