@@ -76,17 +76,28 @@
     "latin": "Cohen",
     "status": "verified",
     "meaning": "מן המילה העברית כוהן, המציינת תפקיד דתי.",
-    "history": "מילון שמות המשפחה מציין גם שימוש אירי בשם Cohen שמקורו שונה. אין בשם לבדו הוכחה לייחוס כהונה.",
+    "history": "במסורת היהודית השם נגזר מן המילה העברית כוהן, המציינת תפקיד דתי. מילון שמות המשפחה האמריקאי מתעד את Kohen ואת Kahn כצורות של Cohen במסורת יהודית אשכנזית; עם זאת, לכתיב Kahn יש גם מקורות גרמניים אחרים, ולכתיב Cohen קיים גם מקור אירי נפרד. שם משפחה לבדו אינו מוכיח ייחוס כהונה.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Cohen",
         "url": "https://www.ancestry.co.uk/last-name-meaning/cohen?geo-lang=en-GB"
+      },
+      {
+        "title": "Dictionary of American Family Names — Kohen",
+        "url": "https://www.ancestry.com/last-name-meaning/kohen"
+      },
+      {
+        "title": "Dictionary of American Family Names — Kahn",
+        "url": "https://www.ancestry.com/last-name-meaning/kahn"
       }
     ],
     "linguisticOrigin": "עברית",
     "historicalCommunities": "יהודית; לכתיב Cohen קיים גם מקור אירי נפרד",
     "geographicAssociation": null,
-    "alternateSpellings": [],
+    "alternateSpellings": [
+      "Kohen",
+      "Kahn"
+    ],
     "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
   },
   {
@@ -133,7 +144,7 @@
     "latin": "Goldberg",
     "status": "verified",
     "meaning": "בגרמנית: הר הזהב.",
-    "history": "יכול לציין מוצא ממקום בשם Goldberg או להיות שם מורכב שנבחר במסורת אשכנזית.",
+    "history": "לפי מילון שמות המשפחה האמריקאי, Goldberg עשוי להיות שם מקום שנגזר מאחד המקומות דוברי הגרמנית שנקראו Goldberg, או שם מורכב שנבחר במסורת יהודית אשכנזית מן המילים Gold (זהב) ו־Berg (הר או גבעה). אין בכך הוכחה למקום מוצאה של משפחה מסוימת.",
     "sources": [
       {
         "title": "Dictionary of American Family Names — Goldberg",
@@ -144,7 +155,7 @@
     "historicalCommunities": "גרמנית ויהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "המילון מבחין בין שם מקום לשם מורכב שנבחר. שמות דומים כגון Goldenberg אינם בהכרח כתיבים חלופיים של אותה משפחה."
   },
   {
     "id": "toledano",
@@ -338,6 +349,18 @@
       {
         "title": "Dictionary of American Family Names (2022) — Shapiro",
         "url": "https://www.ancestry.ca/last-name-meaning/Shapiro"
+      },
+      {
+        "title": "Dictionary of American Family Names — Schapira",
+        "url": "https://www.ancestry.com/last-name-meaning/schapira"
+      },
+      {
+        "title": "Dictionary of American Family Names — Sapiro",
+        "url": "https://www.ancestry.com/last-name-meaning/sapiro"
+      },
+      {
+        "title": "Dictionary of American Family Names — Shapira",
+        "url": "https://www.ancestry.com/last-name-meaning/shapira"
       }
     ],
     "linguisticOrigin": "יידיש (שם מקום)",
@@ -347,7 +370,7 @@
       "Schapiro",
       "Schapira",
       "Sapiro",
-      "Spiro"
+      "Shapira"
     ],
     "metadataNote": "הכתיבים וההסברים המופיעים כאן מתועדים במקורות המצוינים; הם אינם הוכחה לקשר גנאלוגי בין משפחות שונות."
   },
