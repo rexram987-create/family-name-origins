@@ -727,13 +727,19 @@
       {
         "title": "Dictionary of American Family Names (2022) — Kaplan",
         "url": "https://www.ancestry.com/last-name-meaning/kaplan"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Caplan, Americanized form of Kaplan",
+        "url": "https://www.ancestry.com/last-name-meaning/caplan"
       }
     ],
     "linguisticOrigin": "גרמנית / פולנית / טורקית ושפות נוספות",
     "historicalCommunities": "יהודית אשכנזית, אירופית וטורקית",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+    "alternateSpellings": [
+      "Caplan"
+    ],
+    "metadataNote": "Caplan מתועד כצורה אמריקאית של Kaplan במסורת יהודית אשכנזית; עם זאת, ל־Caplan קיימים גם מקורות אנגליים וצרפתיים נפרדים. כתיב חלופי אינו ראיה לקשר משפחתי או לכהונה."
   },
   {
     "id": "berger",
@@ -792,6 +798,10 @@
       {
         "title": "עמותת עיל״ם — מפקד 1922: בנבניסטי / Benveniste",
         "url": "https://isragen.org.il/irm/person/49536/%D7%99%D7%94%D7%95%D7%93%D7%99%D7%AA-%D7%91%D7%A0%D7%91%D7%A0%D7%99%D7%A1%D7%98%D7%99/"
+      },
+      {
+        "title": "FamilySearch — Benveniste, Dictionary of American Family Names",
+        "url": "https://www.familysearch.org/en/surname?surname=Benveniste"
       }
     ],
     "linguisticOrigin": "ספרדית",
@@ -802,7 +812,7 @@
       "בנבניסטי",
       "בנישתי"
     ],
-    "metadataNote": "הכתיבים בנבנשתי, בנבניסטי ובנישתי מופיעים במפתח המילון של Beider תחת Benveniste; בנבניסטי מתועד גם במפקד 1922. אלה כתיבים מתועדים, אך אין בכך הוכחה שכל נושאיהם בני אותה שושלת."
+    "metadataNote": "הכתיבים בנבנשתי, בנבניסטי ובנישתי מופיעים במפתח המילון של Beider תחת Benveniste; בנבניסטי מתועד גם במפקד 1922. אלה כתיבים מתועדים, אך אין בכך הוכחה שכל נושאיהם בני אותה שושלת. FamilySearch מציג גם מקור מילוני נפרד למשמעות הספרדית של Benveniste."
   },
   {
     "id": "azulay",
