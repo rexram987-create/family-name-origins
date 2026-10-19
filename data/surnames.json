@@ -47,18 +47,22 @@
     "latin": "Shlomkovitz",
     "status": "unknown",
     "meaning": null,
-    "history": "מחקר על שמות משפחה יהודיים מתעד את Schlomke כצורה של שלמה, אך לא אומת קשר לשם המשפחה המלא שלומקוביץ. נדרשים כתיבים היסטוריים ותיעוד נוסף.",
+    "history": "הכתיב Slomkowitz מתועד ברשומות גנאלוגיות בארצות הברית, אך טרם נמצאה ראיה שמדובר בכתיב של השם העברי המדויק שלומקוביץ. מחקר קודם מתעד את Schlomke כצורה של שלמה, אך גם הקשר בינה לבין שלומקוביץ אינו מאומת. לכן האטימולוגיה נותרת לא ידועה.",
     "sources": [
       {
         "title": "The Origin of Jewish Family Names — דיון בצורת Schlomke בלבד",
         "url": "https://ans-names.pitt.edu/ans/article/download/823/822"
+      },
+      {
+        "title": "Ancestry — Slomkowitz (רשומות גנאלוגיות; אין אימות לזהות עם שלומקוביץ)",
+        "url": "https://www.ancestry.com/last-name-meaning/slomkowitz"
       }
     ],
     "linguisticOrigin": null,
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "Slomkowitz הוא כיוון מחקר בלבד, ולא כתיב חלופי מאומת של שלומקוביץ."
   },
   {
     "id": "charlopsky",
@@ -66,13 +70,18 @@
     "latin": "Charlopsky",
     "status": "unknown",
     "meaning": null,
-    "history": "לא נמצא בשלב זה מקור מחקרי שמאמת את האטימולוגיה של השם המדויק. הכתיב הלטיני המופיע כאן הוא תעתיק עבודה, ולא כתיב היסטורי מאומת.",
-    "sources": [],
+    "history": "השם חרל״פ (Charlap / Charlop) מתועד בספרות גנאלוגית, ובה מוצגות כמה השערות שונות לפירושו. אולם לא נמצא תיעוד שמקשר אותו ישירות לשם המדויק חרלופסקי. הדמיון בין השמות הוא כיוון לבדיקה בלבד; האטימולוגיה של חרלופסקי טרם אומתה.",
+    "sources": [
+      {
+        "title": "Gil Dekel — The Origin of the Surname Charlap (רקע על חרל״פ בלבד, לא אימות לחרלופסקי)",
+        "url": "https://www.poeticmind.co.uk/heritage/the-origin-of-the-surname-charlap-%D7%9E%D7%A7%D7%95%D7%A8-%D7%94%D7%A9%D7%9D-%D7%97%D7%A8%D7%9C%D7%A4/"
+      }
+    ],
     "linguisticOrigin": null,
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "סיווג הקהילות מבוסס על התיאור הקיים ברשומה, ואינו קביעה על מוצא אדם או משפחה. יש לאמת בנפרד כל כתיב חלופי וכל טענה היסטורית."
+    "metadataNote": "אין להסיק מן הדמיון לחרל״פ שחרלופסקי נגזר ממנו. נדרשים מסמכים היסטוריים שבהם מופיע השם המדויק."
   },
   {
     "id": "cohen",
