@@ -656,5 +656,197 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "הפירוש ׳ספר׳ מתייחס לשם Barber ממקורות אירופיים. אין לבלבל בינו לבין ׳בֶּרְבֶּר׳ ככינוי לקבוצות האמזיע׳יות בצפון אפריקה."
+  },
+  {
+    "id": "kaufman",
+    "name": "קאופמן",
+    "latin": "Kaufman",
+    "status": "verified",
+    "meaning": "סוחר; במסורת אשכנזית גם מן השם הפרטי Kaufman.",
+    "history": "הכתיב Kaufman הוא צורה אמריקאית של Kaufmann הגרמני, וגם גרסה של שם משפחה יהודי אשכנזי. במילון מתועד השם הפרטי Kaufman במשמעות סוחר. שמות מקבילים עשויים לשקף תרגום של שמות מקצוע סלאביים.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Kaufman",
+        "url": "https://www.ancestry.com/last-name-meaning/kaufman"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Kaufmann"
+    ],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "stern",
+    "name": "שטרן",
+    "latin": "Stern",
+    "status": "verified",
+    "meaning": "כוכב בגרמנית; קיימים גם מקורות נפרדים.",
+    "history": "בגרמנית ובמסורת היהודית האשכנזית Stern פירושו כוכב, ולעיתים ציין בית או פונדק שסימנו כוכב, או שימש שם נבחר. באנגלית התיכונה קיים מקור נפרד של כינוי לאדם קשוח או חמור סבר. השם נמצא גם במסורות סלאביות ממקור גרמני.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Stern",
+        "url": "https://www.ancestry.com/last-name-meaning/stern"
+      }
+    ],
+    "linguisticOrigin": "גרמנית; גם אנגלית ממקור אחר",
+    "historicalCommunities": "גרמנית, יהודית אשכנזית, אנגלית וסלאבית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "rubin",
+    "name": "רובין",
+    "latin": "Rubin",
+    "status": "verified",
+    "meaning": "שם בעל כמה מקורות: מן השם ראובן; מאבן החן אודם; ומקורות נוספים.",
+    "history": "במסורת היהודית האשכנזית Rubin עשוי לנבוע מן השם המקראי ראובן. במסורות גרמניות, צרפתיות וסלאביות הוא עשוי לנבוע מן המילה לאבן החן אודם, לעיתים כשם מקצוע הקשור לתכשיטנות. מתועדים גם מקורות מן השם Ruprecht ומן המקום Ruben בלוזטיה. אין לקבוע פירוש יחיד לכל נושאי השם.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Rubin",
+        "url": "https://www.ancestry.com/last-name-meaning/rubin"
+      }
+    ],
+    "linguisticOrigin": "עברית; גרמנית ושפות אירופיות נוספות",
+    "historicalCommunities": "יהודית אשכנזית, גרמנית, צרפתית וסלאבית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "kaplan",
+    "name": "קפלן",
+    "latin": "Kaplan",
+    "status": "verified",
+    "meaning": "באירופה: איש דת או כומר משנה; בטורקית: נמר.",
+    "history": "במסורת היהודית האשכנזית שימש Kaplan לעיתים כתרגום של כהן, דרך המונח הגרמני או הפולני לאיש דת. בשפות אירופיות שונות היה זה שם מעמד לאיש כמורה. בטורקית kaplan פירושו נמר, ושימש ככינוי או כשם נבחר. השם לבדו אינו מוכיח כהונה או דת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Kaplan",
+        "url": "https://www.ancestry.com/last-name-meaning/kaplan"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / פולנית / טורקית ושפות נוספות",
+    "historicalCommunities": "יהודית אשכנזית, אירופית וטורקית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "berger",
+    "name": "ברגר",
+    "latin": "Berger",
+    "status": "verified",
+    "meaning": "בגרמנית: אדם הקשור להר או לגבעה; בצרפתית: רועה צאן.",
+    "history": "המקור הגרמני, ההולנדי והשוודי קשור לאדם שגר בהרים או בגבעות. במסורת האשכנזית מדובר בעיקר בשם נבחר. בצרפתית עתיקה bergier פירושו רועה צאן; בנורווגית קיימת גם משמעות של מוצא מחווה בשם Berg. אלו מקורות נפרדים ואין לערבב ביניהם.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Berger",
+        "url": "https://www.ancestry.com/last-name-meaning/berger"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / הולנדית / צרפתית / נורווגית",
+    "historicalCommunities": "אירופית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "daher",
+    "name": "דאהר",
+    "latin": "Daher",
+    "status": "verified",
+    "meaning": "שם ערבי מן השם הפרטי זאהר (ẓāhir), הקשור לידיעה או לדבר גלוי וברור.",
+    "history": "במזרח התיכון, ובפרט בלבנט, Daher נגזר משם פרטי המבוסס על ẓāhir. הוא מתועד בקרב מוסלמים ונוצרים. בסומלית, בעיקר בג'יבוטי, קיים גם מקור אחר כצורה של השם Dahir. אין לזהות אוטומטית בין המקורות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Daher",
+        "url": "https://www.ancestry.com/last-name-meaning/daher"
+      }
+    ],
+    "linguisticOrigin": "ערבית; גם סומלית",
+    "historicalCommunities": "ערבית מוסלמית ונוצרית; סומלית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "benveniste",
+    "name": "בנבנישתי",
+    "latin": "Benveniste",
+    "status": "verified",
+    "meaning": "שם ברכה ספרדי במשמעות בקירוב: הגעת בשלום.",
+    "history": "שם משפחה יהודי ספרדי, שמקורו בשם פרטי של ברכה או איחול המבוסס על הביטוי הספרדי bien veniste. אין בכך הוכחה למקום לידתה או למסלול הגירתה של משפחה מסוימת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Benveniste",
+        "url": "https://www.ancestry.com/last-name-meaning/benveniste"
+      }
+    ],
+    "linguisticOrigin": "ספרדית",
+    "historicalCommunities": "יהודית ספרדית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "azulay",
+    "name": "אזולאי",
+    "latin": "Azulay",
+    "status": "verified",
+    "meaning": "לפי המילון: כינוי מתמאזיע'ת המתייחס לשיער מתולתל מאוד.",
+    "history": "Dictionary of American Family Names מייחס את השם היהודי ממרוקו למילה azulay בתמאזיע'ת, במשמעות שיער מתולתל או מקורזל. זהו פירוש מילוני מתועד, אך אין להסיק ממנו תכונה גופנית של אדם מסוים או ייחוס משפחתי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Azulay",
+        "url": "https://www.ancestry.com/last-name-meaning/azulay"
+      }
+    ],
+    "linguisticOrigin": "תמאזיע'ת (ברברית)",
+    "historicalCommunities": "יהודית ממרוקו",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "khalil",
+    "name": "ח'ליל",
+    "latin": "Khalil",
+    "status": "verified",
+    "meaning": "מן הערבית ח'ליל: ידיד או חבר.",
+    "history": "שם משפחה מן השם הפרטי הערבי Khalīl, שמשמעותו ידיד. הצירוף Khalīlullāh, ידיד האל, הוא כינוי כבוד לאברהם במסורת האסלאמית. השם מתועד בקרב מוסלמים ונוצרים.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Khalil",
+        "url": "https://www.ancestry.com/last-name-meaning/khalil"
+      }
+    ],
+    "linguisticOrigin": "ערבית",
+    "historicalCommunities": "ערבית מוסלמית ונוצרית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
+  },
+  {
+    "id": "berg",
+    "name": "ברג",
+    "latin": "Berg",
+    "status": "verified",
+    "meaning": "הר או גבעה בגרמנית ובשפות צפון־אירופיות.",
+    "history": "בגרמנית ובהולנדית Berg הוא שם טופוגרפי לאדם שגר ליד הר או גבעה. בנורווגית ובדנית עשוי לציין מוצא מחווה בשם זה, ובשוודית שם מקום או שם נבחר. במסורת האשכנזית שימש גם שם נבחר או קיצור של שמות מורכבים כמו Goldberg. קיימת גם צורה שעברה גרמניזציה משם סורבי.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Berg",
+        "url": "https://www.ancestry.com/last-name-meaning/berg"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / הולנדית / שפות סקנדינביות",
+    "historicalCommunities": "אירופית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירושים מתועדים במקור המצורף; כאשר יש מקורות לשוניים שונים אין לבחור באחד מהם ללא ראיות משפחתיות. כתיב דומה אינו הוכחה לקרבה גנאלוגית."
   }
 ]
