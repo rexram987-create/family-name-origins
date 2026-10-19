@@ -466,5 +466,195 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקורות שונים מתועדים במילון, אך לא ניתן לשייך משפחה מסוימת לאחד מהם ללא תיעוד משפחתי."
+  },
+  {
+    "id": "schneider",
+    "name": "שניידר",
+    "latin": "Schneider",
+    "status": "verified",
+    "meaning": "שם מקצוע בגרמנית וביידיש: חייט (מילולית: חותך).",
+    "history": "מקורו בגרמנית Schneider וביידיש shnayder. במקרים מסוימים המונח ציין גם חוטב עצים. השם מתועד במסורות גרמניות ויהודיות אשכנזיות וגם באזורים נוספים באירופה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Schneider",
+        "url": "https://www.ancestry.com/last-name-meaning/schneider"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "fischer",
+    "name": "פישר",
+    "latin": "Fischer",
+    "status": "verified",
+    "meaning": "שם מקצוע: דייג.",
+    "history": "מן הגרמנית Fisch (דג) והסיומת המציינת בעל מקצוע. השם מתועד בגרמנית, בדנית ובקהילות יהודיות אשכנזיות; קיימות גם צורות מותאמות בשפות סלאביות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Fischer",
+        "url": "https://www.ancestry.com/last-name-meaning/fischer"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "גרמנית, דנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "weiss",
+    "name": "וייס",
+    "latin": "Weiss",
+    "status": "verified",
+    "meaning": "בגרמנית: לבן; לעיתים כינוי לאדם בעל שיער לבן או עור בהיר.",
+    "history": "המקור הנפוץ הוא הכינוי הגרמני weiss, אך המילון מתעד גם מקור משמות מקומות בשם Weis(s) או Weissen, וכן מקורות גרמניים אחרים. אין לקבוע מקור אחד לכל המשפחות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Weiss",
+        "url": "https://www.ancestry.com/last-name-meaning/Weiss"
+      }
+    ],
+    "linguisticOrigin": "גרמנית",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "schwartz",
+    "name": "שוורץ",
+    "latin": "Schwartz",
+    "status": "verified",
+    "meaning": "בגרמנית וביידיש: שחור או כהה.",
+    "history": "שם תיאורי שהתייחס לעיתים לשיער כהה או לגוון עור. במקרים מסוימים זהו גם שם מוצא ממקומות שנקראו Schwarz. השם מתועד במסורות גרמניות ויהודיות אשכנזיות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Schwartz",
+        "url": "https://www.ancestry.com/last-name-meaning/Schwartz?geo-lang=en"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "najjar",
+    "name": "נג'אר",
+    "latin": "Najjar",
+    "status": "verified",
+    "meaning": "בערבית: נגר.",
+    "history": "שם מקצוע מן הערבית نجّار (najjār). מתועד בקרב מוסלמים ונוצרים דוברי ערבית ובקהילות יהודיות ספרדיות; קיים גם בשימוש איראני מן המילה הערבית.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Najjar",
+        "url": "https://www.ancestry.com/last-name-meaning/Najjar"
+      }
+    ],
+    "linguisticOrigin": "ערבית",
+    "historicalCommunities": "ערבית מוסלמית ונוצרית; יהודית ספרדית; איראנית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "saad",
+    "name": "סעד",
+    "latin": "Saad",
+    "status": "verified",
+    "meaning": "מן השם הפרטי הערבי סַעְד, הקשור למזל טוב, אושר והצלחה.",
+    "history": "השם נגזר מן הערבית سعد (saʿd), הקשורה למזל טוב ולהצלחה. המילון מתעד אותו בקרב מוסלמים ונוצרים ובקהילות יהודיות מסוריה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Saad",
+        "url": "https://www.ancestry.com/last-name-meaning/saad?geo-lang=en"
+      }
+    ],
+    "linguisticOrigin": "ערבית",
+    "historicalCommunities": "ערבית מוסלמית ונוצרית; יהודית מסוריה",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "farah",
+    "name": "פרח",
+    "latin": "Farah",
+    "status": "verified",
+    "meaning": "מן השם הפרטי הערבי פַרַח, במשמעות שמחה ואושר.",
+    "history": "השם נגזר מן הערבית فرح (faraḥ), ׳שמחה׳. הוא מתועד בקרב מוסלמים ונוצרים; בסומלית קיים שם פרטי מקביל, שלעיתים נרשם כשם משפחה לאחר הגירה. המילון מציין גם אפשרות למקור אנגלי נפרד.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Farah",
+        "url": "https://www.ancestry.com/last-name-meaning/farah?geo-lang=en"
+      }
+    ],
+    "linguisticOrigin": "ערבית; קיימים גם מקורות אחרים",
+    "historicalCommunities": "ערבית מוסלמית ונוצרית; סומלית; לעיתים אנגלית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "schreiber",
+    "name": "שרייבר",
+    "latin": "Schreiber",
+    "status": "verified",
+    "meaning": "בגרמנית: פקיד או כותב; ביידיש: סופר.",
+    "history": "בגרמנית זהו שם מקצוע מן המילה בגרמנית תיכונה schrībære, ׳פקיד׳. במסורת היהודית־אשכנזית שימש Schreiber / shrayber כתרגום של השם העברי סופר (Soffer).",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Schreiber",
+        "url": "https://www.ancestry.com/last-name-meaning/Schreiber?geo-lang=en"
+      }
+    ],
+    "linguisticOrigin": "גרמנית / יידיש",
+    "historicalCommunities": "גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "miller",
+    "name": "מילר",
+    "latin": "Miller",
+    "status": "verified",
+    "meaning": "שם מקצוע: טוחן קמח, מפעיל טחנת קמח.",
+    "history": "באנגלית ובסקוטית Miller הוא שם מקצוע של טוחן. בצפון אמריקה הכתיב קלט גם שמות מקבילים משפות אחרות; במסורות גרמניות ויהודיות אשכנזיות הוא עשוי להיות צורה של Müller. אין להסיק מן הכתיב על ארץ מוצא אחת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Miller",
+        "url": "https://www.ancestry.com/last-name-meaning/miller?geo-lang=en"
+      }
+    ],
+    "linguisticOrigin": "אנגלית; גם גרמנית ושפות נוספות",
+    "historicalCommunities": "אנגלית, סקוטית, גרמנית ויהודית אשכנזית",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
+  },
+  {
+    "id": "barber",
+    "name": "ברבר",
+    "latin": "Barber",
+    "status": "verified",
+    "meaning": "שם מקצוע: ספר.",
+    "history": "השם האנגלי נגזר ממונח אנגלי תיכון שמקורו בצרפתית, המתייחס לספר. בימי הביניים עסקו ספרים לעיתים גם בפעולות רפואיות כגון עקירת שיניים. המילון מתעד גם מקורות מקצועיים מקבילים בגרמנית, בקהילות יהודיות אשכנזיות ובשפות אירופיות נוספות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Barber",
+        "url": "https://www.ancestry.com/last-name-meaning/barber?geo-lang=en"
+      }
+    ],
+    "linguisticOrigin": "אנגלית; גם גרמנית ושפות נוספות",
+    "historicalCommunities": "אנגלית, גרמנית, יהודית אשכנזית ואירופיות נוספות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "הפירוש הלשוני מתועד במילון; אין להסיק ממנו על מוצא אישי, דת, מקצוע של אדם מסוים או קרבה משפחתית."
   }
 ]
