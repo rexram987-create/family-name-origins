@@ -978,7 +978,7 @@
     "historicalCommunities": "לא נקבע",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "אין לאחד אוטומטית עם Rosengarten או Rosengard; נדרש תיעוד היסטורי מקשר. רמת ביטחון בפירוש: נמוכה; בעצם קיום הכתיב: גבוהה."
+    "metadataNote": "הכתיב Rosengarden קיים, אך ההסבר באתר Ancestry מוצג כטקסט AI ולא כערך של Dictionary of American Family Names. רמת ביטחון בפירוש נמוכה; אין לאחד עם Rosengarten או Rosengard ללא מקור מתועד הקושר בין הכתיבים."
   },
   {
     "id": "rosengarten",
@@ -1211,19 +1211,23 @@
     "name": "אמסל",
     "latin": "Amsel",
     "status": "verified",
-    "meaning": "במסורת אשכנזית מן השם הפרטי Amsl; בגרמנית גם מן המילה 'שחרור' (ציפור).",
-    "history": "המילון מתעד מקור יהודי־אשכנזי מן השם הפרטי ביידיש Amsl הקשור ל־Anselm, ולצדו מקור גרמני עצמאי מכינוי לציפור השחרור, שעשוי לשקף כינוי או עיסוק.",
+    "meaning": "בגרמנית Amsel הוא ציפור השחרור; במסורת אשכנזית השם עשוי לנבוע גם משם פרטי, ובמסורת ספרדית עשוי להיות קיצור של אמסלם.",
+    "history": "Dictionary of American Family Names מתעד מקור אשכנזי הקשור לשם הפרטי Amsl, ולצדו מקור גרמני מכינוי לציפור השחרור. חוקרי מוזיאון אנו מציינים גם אפשרות של קשר לשם אשר ולגרסאותיו, ובמסורת הספרדית קיצור של Amselem, המתועד בצפון אפריקה. אלה מסורות אטימולוגיות אפשריות ולא הוכחה לקשר בין משפחות.",
     "sources": [
       {
         "title": "Dictionary of American Family Names (2022) — Amsel",
         "url": "https://www.ancestry.com/last-name-meaning/amsel"
+      },
+      {
+        "title": "אנו – מוזיאון העם היהודי: מקור השם אמסל",
+        "url": "https://dbs.anumuseum.org.il/skn/he/c6/e134603/שם_משפחה/אמסל"
       }
     ],
     "linguisticOrigin": "יידיש / גרמנית",
     "historicalCommunities": "יהודית אשכנזית וגרמנית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+    "metadataNote": "רמת ביטחון גבוהה בקיום המסורות המתועדות, אך לא בזיהוי מקור של משפחה מסוימת. יש להבחין בין Amsel ממקור אשכנזי/גרמני ובין Amsel כקיצור אפשרי של Amselem בצפון אפריקה. אין לאחד אוטומטית עם אמסלם."
   },
   {
     "id": "amsalem",
