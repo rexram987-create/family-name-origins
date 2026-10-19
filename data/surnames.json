@@ -1224,5 +1224,36 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "רמת ביטחון גבוהה בתיאור המילוני של האפשרויות המצוינות; אין לקבוע מוצא אישי או שושלת מתוך שם המשפחה בלבד. מקור מילוני אחד בלבד בשלב זה; נדרשת הצלבה עצמאית."
+  },
+  {
+    "id": "amsalem",
+    "name": "אמסלם",
+    "latin": "Amsalem",
+    "status": "review",
+    "meaning": "מקור השם שנוי במחלוקת: הוצעו 'עם שלם' או 'עם שלום' בעברית, קשר לשורש ערבי הקשור לאסלאם, וכן מוצא משם מקום בצפון אפריקה.",
+    "history": "אנו – מוזיאון העם היהודי מתעד את אמסלם כשם משפחה יהודי במרוקו מאז המאה ה־16 ומציג כמה השערות אטימולוגיות. גם המחקר ההיסטורי של מוריס אייזנבת מצביע על זיקה אפשרית לשמות מקומות במרוקו ובאזור אוראן. אין להציג פירוש יחיד כעובדה, ואין להסיק קשר משפחתי בין כל נושאי השם.",
+    "sources": [
+      {
+        "title": "אנו – מוזיאון העם היהודי: אמסל, עם דיון בשם אמסלם",
+        "url": "https://dbs.anumuseum.org.il/skn/he/c6/e134603/שם_משפחה/אמסל"
+      },
+      {
+        "title": "Maurice Eisenbeth (1936), Les Juifs de l'Afrique du Nord — excerpt cited in Forebears",
+        "url": "https://forebears.io/fr/surnames/amsellem"
+      },
+      {
+        "title": "Marc Eliany — The Meaning of Names: Amsellem / Amselem",
+        "url": "https://jewishmoroccanarchive.co/meaning-names-amsellem-amselem-amshalem-amsalem/"
+      }
+    ],
+    "linguisticOrigin": "עברית / ערבית / תמאזיע'ת — השערות מתחרות",
+    "historicalCommunities": "יהודית מצפון אפריקה, בעיקר מרוקו ואלג'יריה",
+    "geographicAssociation": "מרוקו ואלג'יריה",
+    "alternateSpellings": [
+      "Amsellem",
+      "Amselem",
+      "Amsallem"
+    ],
+    "metadataNote": "רמת ביטחון גבוהה בתיעוד ההיסטורי של השם; נמוכה עד בינונית בפירושו האטימולוגי. אמסל עשוי להיות קיצור של אמסלם במסורת ספרדית, אך גם שם נפרד ממקור אשכנזי/גרמני; אין לאחד רשומות או שושלות."
   }
 ]
