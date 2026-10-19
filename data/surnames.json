@@ -410,13 +410,24 @@
       {
         "title": "Dictionary of American Family Names — Friedman",
         "url": "https://www.ancestry.com/last-name-meaning/Friedman"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Friedmann",
+        "url": "https://www.ancestry.com/last-name-meaning/friedmann"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Frydman",
+        "url": "https://www.ancestry.com/last-name-meaning/frydman"
       }
     ],
     "linguisticOrigin": "יידיש (במסורת האשכנזית)",
     "historicalCommunities": "יהודית אשכנזית; קיים גם מקור גרמני",
     "geographicAssociation": null,
-    "alternateSpellings": [],
-    "metadataNote": "המקור היהודי־אשכנזי והמקור הגרמני מתועדים בנפרד. אין להניח קשר משפחתי בין כל נושאי השם."
+    "alternateSpellings": [
+      "Friedmann",
+      "Frydman"
+    ],
+    "metadataNote": "המקור היהודי־אשכנזי והמקור הגרמני מתועדים בנפרד. אין להניח קשר משפחתי בין כל נושאי השם. Friedmann הוא גם שם דרום־גרמני ושווייצרי עצמאי; Frydman מתועד כגרסה המושפעת מפולנית. אין להסיק שכל נושאי הכתיבים שייכים לאותה משפחה."
   },
   {
     "id": "klein",
@@ -429,13 +440,17 @@
       {
         "title": "Dictionary of American Family Names — Klein",
         "url": "https://www.ancestry.com/last-name-meaning/klein"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Kleine (related German inflected form)",
+        "url": "https://www.ancestry.com/last-name-meaning/kleine"
       }
     ],
     "linguisticOrigin": "גרמנית / הולנדית / יידיש",
     "historicalCommunities": "גרמנית, פלמית, הולנדית ויהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "׳קטן׳ הוא פירוש מתועד; לא ניתן לקבוע אם במקרה משפחתי מסוים היה זה כינוי גופני, הבחנה בגיל או תרגום משפה אחרת."
+    "metadataNote": "׳קטן׳ הוא פירוש מתועד; לא ניתן לקבוע אם במקרה משפחתי מסוים היה זה כינוי גופני, הבחנה בגיל או תרגום משפה אחרת. Kleine הוא שם קשור מבחינה לשונית, אך לא הוכח ככתיב חלופי גורף של Klein ולכן לא נוסף לשדה הכתיבים החלופיים."
   },
   {
     "id": "shapiro",
