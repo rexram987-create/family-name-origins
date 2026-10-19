@@ -1579,8 +1579,12 @@
         "url": "https://www.ancestry.com/last-name-meaning/horvitz"
       },
       {
-        "title": "ANU Museum of the Jewish People — Jewish Family Names and their Origins (Horowitz family)",
-        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
+        "title": "ANU Museum — HUREWITZ: geographic origin and Horowitz variants",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e180890/Family_Name/HUREWITZ"
+      },
+      {
+        "title": "ANU Museum — HOROVIC / HOROWITZ",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e263755/Family_Name/HOROVIC"
       }
     ],
     "linguisticOrigin": "צ׳כית / יידיש",
@@ -1589,9 +1593,13 @@
     "alternateSpellings": [
       "Horovitz",
       "Horwitz",
-      "Horvitz"
+      "Horvitz",
+      "Hurwitz",
+      "Hourwitz",
+      "Gurvich",
+      "Gurwicz"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מוזיאון אנו מזכיר משפחות לוויות בשם הורוביץ, אך אינו מאמת בכך את מוצאו או ייחוסו של כל נושא השם."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מוזיאון אנו מזכיר משפחות לוויות בשם הורוביץ, אך אינו מאמת בכך את מוצאו או ייחוסו של כל נושא השם. שני ערכי שם ייעודיים במוזיאון אנו מאשרים את הקשר לעיירה Hořovice; מדובר בצורות קשורות, לא הוכחת קרבה משפחתית."
   },
   {
     "id": "goldman",
@@ -1635,7 +1643,7 @@
     "historicalCommunities": "יהודית אשכנזית",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. Siegal, Seigal ו־Sagal הוסרו מרשימת הכתיבים המאומתים עד לבדיקת קשר אטימולוגי ישיר; דמיון כתיב אינו מספיק. מוזיאון אנו מציג את ראשי התיבות 'סגן לכהונה' ומדגיש כי שם משפחה אינו ראיה מחייבת לייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. Siegal, Seigal ו־Sagal הוסרו מרשימת הכתיבים המאומתים עד לבדיקת קשר אטימולוגי ישיר; דמיון כתיב אינו מספיק. מוזיאון אנו מציג את ראשי התיבות 'סגן לכהונה' ומדגיש כי שם משפחה אינו ראיה מחייבת לייחוס. קישור מוזיאון אנו הוא סקירה כללית ולא ערך ייעודי לשם; מקור משלים לפירוש המסורתי."
   },
   {
     "id": "shulman",
@@ -1756,6 +1764,10 @@
       {
         "title": "Dictionary of American Family Names (2022) — Hirsch",
         "url": "https://www.ancestry.com/last-name-meaning/hirsch"
+      },
+      {
+        "title": "ANU Museum — HERSHCOVICI: Hersh / Hirsch and Yiddish deer",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e156100/Family_Name/HERSHCOVICI"
       }
     ],
     "linguisticOrigin": "גרמנית / יידיש",
@@ -1764,7 +1776,7 @@
     "alternateSpellings": [
       "Hirsh"
     ],
-    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס."
+    "metadataNote": "פירוש מילוני מתועד; מקור מחקרי אחד בשלב זה. שמות דומים או כתיבים קרובים אינם מוכיחים קשר משפחתי, מוצא אישי או ייחוס. מקור אנו מאשר את משמעות השם הפרטי Hirsch ואת שימושו במסורת אשכנזית, אך דן בשם הנגזר Hershcovici ולא באטימולוגיה של כל נושאי Hirsch."
   },
   {
     "id": "mendel",
