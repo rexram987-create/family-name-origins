@@ -2033,10 +2033,14 @@
     "id": "sprinzak",
     "name": "שפרינצק",
     "latin": "Sprinzak",
-    "status": "unknown",
-    "meaning": null,
-    "history": "יוסף שפרינצק היה חבר הכנסת הראשונה ויושב הראש הראשון של הכנסת. שם המשפחה מתועד גם בכתיב Shprinzak; פירושו האטימולוגי טרם אומת.",
+    "status": "verified",
+    "meaning": "שם משפחה מטרונימי הנגזר מן השם הפרטי הנשי שפרינצה (Shprinze), שם של אם או אם־קדומה.",
+    "history": "יוסף שפרינצק היה חבר הכנסת הראשונה ויושב הראש הראשון של הכנסת. לפי מאגר שמות המשפחה של מוזיאון אנו, שפרינצק הוא שם משפחה מטרונימי שמקורו בשם הפרטי הנשי שפרינצה. אין בכך הוכחה לזהות אם קדומה מסוימת במשפחתו.",
     "sources": [
+      {
+        "title": "מוזיאון אנו — מאגר שמות משפחה יהודיים: Shprinzak מן השם הנשי Shprinze",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e23552319/%D7%90%D7%95%D7%93%D7%95%D7%AA/The_Memi_De_Shalit_Database_of_Jewish_Family_Names"
+      },
       {
         "title": "יוסף שפרינצק — תיעוד ביוגרפי ותפקידו כיו״ר הכנסת הראשון (לא מקור אטימולוגי)",
         "url": "https://en.wikipedia.org/wiki/Yosef_Sprinzak"
@@ -2046,13 +2050,13 @@
         "url": "https://en.wikipedia.org/wiki/Sprinzak"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "שם משפחה יהודי אשכנזי; נגזר משם פרטי נשי",
     "historicalCommunities": "יהודים ממזרח אירופה",
     "geographicAssociation": null,
     "alternateSpellings": [
       "Shprinzak"
     ],
-    "metadataNote": "כנסת ראשונה: יוסף שפרינצק. לא נמצא מקור אטימולוגי אמין בשלב זה; אין לגזור פירוש משמות פרטיים דומים או מכתיב השם."
+    "metadataNote": "אטימולוגיית דגם השם נתמכת במפורש במאגר מוזיאון אנו (Shprinzak ← Shprinze). רמת ביטחון גבוהה לפירוש הלשוני; אין תיעוד גנאלוגי המקשר אותו לאישה מסוימת."
   },
   {
     "id": "shazar",
