@@ -3160,8 +3160,16 @@
     "latin": "Meir Argov",
     "status": "unknown",
     "meaning": null,
-    "history": "מאיר ארגוב כיהן בכנסת הראשונה מטעם מפא״י. פירושו האטימולוגי של שם המשפחה ארגוב לא אומת במקור ייעודי.",
+    "history": "מאיר ארגוב נולד בשם מאיר גרבובסקי (Grabovsky). בתו תמר ארגוב־דה גרוט סיפרה בריאיון כי חשש לשנות את שמו, כדי שקרובי משפחה ששרדו את המלחמה יוכלו למצוא אותו בשם המקורי; לדבריה דוד בן־גוריון עודד אותו לאמץ שם עברי. משמעות השם החדש והמניע לבחירה דווקא ב'ארגוב' אינם מאומתים.",
     "sources": [
+      {
+        "title": "Israel Story — Meir Argov: עדות בתו על שינוי השם",
+        "url": "https://www.israelstory.org/episode/meir-argov/"
+      },
+      {
+        "title": "Congress for Jewish Culture — Grabovski, Meyer (1905–1963)",
+        "url": "https://congressforjewishculture.org/people/5761/Grabovski-Meyer_1905-1963"
+      },
       {
         "title": "רשימת חברי הכנסת הראשונה — אימות שם וכהונה בלבד",
         "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
@@ -3171,7 +3179,7 @@
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד."
+    "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד. השם המקורי וסיפור שינויו תועדו, אך האטימולוגיה של 'ארגוב' טרם אומתה; אין לסמן את האטימולוגיה כמאומתת."
   },
   {
     "id": "assaf",
