@@ -2825,20 +2825,24 @@
     "id": "vilner",
     "name": "וילנר",
     "latin": "Vilner",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "במסורת היהודית־אשכנזית המזרחית: אדם שמוצאו מווילנה (Vilna, כיום וילנה שבליטא). במקורות נזכרת גם אטימולוגיה גרמנית אחרת לשם Willner, ולכן אין להסיק מוצא אישי מן השם לבדו.",
     "history": "מאיר וילנר כיהן/ה בכנסת הראשונה מטעם מק״י. רשימת חברי הכנסת הראשונה מתעדת את הכהונה, אך אינה מוכיחה את מקורו האטימולוגי של שם המשפחה.",
     "sources": [
+      {
+        "title": "Dictionary of American Family Names, 2nd ed. (Oxford University Press, 2022) — Willner/Vilner, מובא ב־Geneanet",
+        "url": "https://es.geneanet.org/apellidos/VILNER"
+      },
       {
         "title": "רשימת חברי הכנסת הראשונה — מאיר וילנר (תיעוד כהונה בלבד)",
         "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "יידיש; שם מוצא גאוגרפי (עם חלופה גרמנית)",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם."
+    "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם. האטימולוגיה היהודית־אשכנזית 'מווילנה' מתועדת במילון אוקספורד; אין הוכחה שזה מקור שם המשפחה של מאיר וילנר דווקא."
   },
   {
     "id": "mikunis",
