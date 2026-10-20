@@ -3621,5 +3621,97 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקור הרשימה מתעד את כהונת חבר הכנסת בלבד; אינו מבסס משמעות או מוצא לשם המשפחה."
+  },
+  {
+    "id": "sheftel",
+    "name": "שפטל",
+    "latin": "Sheftel",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אריה שפטל כיהן בכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה שפטל לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "ועדת הבחירות המרכזית — תוצאות הבחירות לכנסת הראשונה ושמות הנבחרים (לזיהוי בלבד)",
+        "url": "https://www.gov.il/BlobFolder/guide/election-committee-history/en/history_election-dates_knesset1-results.pdf"
+      },
+      {
+        "title": "ארכיון הכנסת — פרוטוקול הישיבה ה-151 (אימות הכהונה בלבד)",
+        "url": "https://fs.knesset.gov.il/%5C1%5CPlenum%5C1_ptm_250141.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות רשמיים מאמתים חברות בכנסת הראשונה; אינם מאמתים פירוש, לשון מקור או מוצא משפחתי."
+  },
+  {
+    "id": "sheri",
+    "name": "שרי",
+    "latin": "Sheri",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ראובן שרי כיהן בכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה שרי לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "ועדת הבחירות המרכזית — תוצאות הבחירות לכנסת הראשונה ושמות הנבחרים (לזיהוי בלבד)",
+        "url": "https://www.gov.il/BlobFolder/guide/election-committee-history/en/history_election-dates_knesset1-results.pdf"
+      },
+      {
+        "title": "ארכיון הכנסת — פרוטוקול הישיבה ה-151 (אימות הכהונה בלבד)",
+        "url": "https://fs.knesset.gov.il/%5C1%5CPlenum%5C1_ptm_250141.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות רשמיים מאמתים חברות בכנסת הראשונה; אינם מאמתים פירוש, לשון מקור או מוצא משפחתי."
+  },
+  {
+    "id": "tavori",
+    "name": "תבורי",
+    "latin": "Tavori",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אפרים תבורי כיהן בכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה תבורי לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "ועדת הבחירות המרכזית — תוצאות הבחירות לכנסת הראשונה ושמות הנבחרים (לזיהוי בלבד)",
+        "url": "https://www.gov.il/BlobFolder/guide/election-committee-history/en/history_election-dates_knesset1-results.pdf"
+      },
+      {
+        "title": "ארכיון הכנסת — פרוטוקול הישיבה ה-151 (אימות הכהונה בלבד)",
+        "url": "https://fs.knesset.gov.il/%5C1%5CPlenum%5C1_ptm_250141.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות רשמיים מאמתים חברות בכנסת הראשונה; אינם מאמתים פירוש, לשון מקור או מוצא משפחתי."
+  },
+  {
+    "id": "tabib",
+    "name": "טביב",
+    "latin": "Tabib",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם טביב כיהן בכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה טביב לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "ועדת הבחירות המרכזית — תוצאות הבחירות לכנסת הראשונה ושמות הנבחרים (לזיהוי בלבד)",
+        "url": "https://www.gov.il/BlobFolder/guide/election-committee-history/en/history_election-dates_knesset1-results.pdf"
+      },
+      {
+        "title": "ארכיון הכנסת — פרוטוקול הישיבה ה-151 (אימות הכהונה בלבד)",
+        "url": "https://fs.knesset.gov.il/%5C1%5CPlenum%5C1_ptm_250141.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות רשמיים מאמתים חברות בכנסת הראשונה; אינם מאמתים פירוש, לשון מקור או מוצא משפחתי."
   }
 ]
