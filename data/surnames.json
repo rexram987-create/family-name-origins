@@ -2542,5 +2542,64 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. התיעוד מאמת את שם המשפחה ואת כהונת חבר/ת הכנסת, אך אינו מספק פירוש אטימולוגי. אין להציג משמעות משוערת כעובדה."
+  },
+  {
+    "id": "toubi",
+    "name": "טובי",
+    "latin": "Toubi",
+    "status": "unknown",
+    "meaning": null,
+    "history": "תופיק טובי כיהן בכנסת הראשונה. בפרוטוקול רשמי של ישיבת הכנסת משנת 1986 הוא הוזמן לנאום במפורש כחבר הכנסת הראשונה. האטימולוגיה של שם המשפחה טובי לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "הכנסת — ישיבה מיוחדת לציון יום כינון הכנסת (1986): תופיק טובי כחבר הכנסת הראשונה; תיעוד כהונה בלבד",
+        "url": "https://main.knesset.gov.il/About/Occasion/pages/birthday/sitting.aspx?yr=1986"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. התיעוד הפרלמנטרי מאשר כהונה בלבד; אין לגזור אטימולוגיה מדמיון למילים בעברית או בערבית."
+  },
+  {
+    "id": "ben-aharon",
+    "name": "בן־אהרן",
+    "latin": "Ben-Aharon",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יצחק בן־אהרן כיהן בכנסת הראשונה. בנאום בכנסת לציון חמישים שנה לכינונה (1998) הוא נמנה במפורש עם חברי הכנסת הראשונה. האטימולוגיה או נסיבות אימוץ שם המשפחה בן־אהרן לא אומתו כאן.",
+    "sources": [
+      {
+        "title": "הכנסת — ישיבה מיוחדת לציון יום כינון הכנסת (1998): יצחק בן־אהרן נמנה עם חברי הכנסת הראשונה; תיעוד כהונה בלבד",
+        "url": "https://main.knesset.gov.il/About/Occasion/pages/birthday/sitting.aspx?yr=1998"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Ben Aharon"
+    ],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. משמעות מילולית אפשרית של בן־אהרן אינה מוכיחה מקור שם משפחה מסוים או ייחוס לאהרן הכהן."
+  },
+  {
+    "id": "harari",
+    "name": "הררי",
+    "latin": "Harari",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יזהר הררי כיהן בכנסת הראשונה והציע בשנת 1950 את פשרת הררי, כפי שמתועד באתר הכנסת. המקור האטימולוגי של שם המשפחה הררי לא אומת במסגרת ההוספה.",
+    "sources": [
+      {
+        "title": "הכנסת — הכנסת כרשות מכוננת: יזהר הררי ופשרת הררי (1950); תיעוד כהונה בלבד",
+        "url": "https://main.knesset.gov.il/Activity/Legislation/Pages/BasicLawsAndConstitution.aspx"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. משמעות התואר העברי 'הררי' אינה כשלעצמה הוכחה למקור שם המשפחה של חבר הכנסת."
   }
 ]
