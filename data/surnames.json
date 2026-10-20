@@ -3545,5 +3545,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מעיד על זהות חבר הכנסת והכהונה בלבד; הוא אינו מקור מחקרי לאטימולוגיית שם המשפחה."
+  },
+  {
+    "id": "kase",
+    "name": "כסה",
+    "latin": "Kase",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יונה כסה כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה כסה לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — מפא״י (לזיהוי ולכהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מתעד את כהונת חבר הכנסת בלבד; אינו מבסס משמעות או מוצא לשם המשפחה."
+  },
+  {
+    "id": "lam",
+    "name": "לם",
+    "latin": "Lam",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יוסף מיכאל לם כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה לם לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — מפא״י (לזיהוי ולכהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מתעד את כהונת חבר הכנסת בלבד; אינו מבסס משמעות או מוצא לשם המשפחה."
+  },
+  {
+    "id": "livneh",
+    "name": "ליבנה",
+    "latin": "Livneh",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליעזר ליבנה כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה ליבנה לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — מפא״י (לזיהוי ולכהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מתעד את כהונת חבר הכנסת בלבד; אינו מבסס משמעות או מוצא לשם המשפחה."
+  },
+  {
+    "id": "netzer",
+    "name": "נצר",
+    "latin": "Netzer",
+    "status": "unknown",
+    "meaning": null,
+    "history": "דבורה נצר כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה נצר לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — מפא״י (לזיהוי ולכהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מתעד את כהונת חבר הכנסת בלבד; אינו מבסס משמעות או מוצא לשם המשפחה."
   }
 ]
