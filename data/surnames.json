@@ -3057,5 +3057,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מתעד כהונה בלבד ואינו מאמת פירוש אטימולוגי. יש להצליב בהמשך מול רשומות הכנסת הראשוניות."
+  },
+  {
+    "id": "argov",
+    "name": "ארגוב",
+    "latin": "Meir Argov",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מאיר ארגוב כיהן בכנסת הראשונה מטעם מפא״י. פירושו האטימולוגי של שם המשפחה ארגוב לא אומת במקור ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות שם וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד."
+  },
+  {
+    "id": "assaf",
+    "name": "אסף",
+    "latin": "Ami Assaf",
+    "status": "unknown",
+    "meaning": null,
+    "history": "עמי אסף כיהן בכנסת הראשונה מטעם מפא״י. פירושו האטימולוגי של שם המשפחה אסף לא אומת במקור ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות שם וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד."
+  },
+  {
+    "id": "aran",
+    "name": "ארן",
+    "latin": "Zalman Aran",
+    "status": "unknown",
+    "meaning": null,
+    "history": "זלמן ארן כיהן בכנסת הראשונה מטעם מפא״י. פירושו האטימולוגי של שם המשפחה ארן לא אומת במקור ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות שם וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד."
+  },
+  {
+    "id": "bahir",
+    "name": "בהיר",
+    "latin": "Aryeh Bahir",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אריה בהיר כיהן בכנסת הראשונה מטעם מפא״י. פירושו האטימולוגי של שם המשפחה בהיר לא אומת במקור ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות שם וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד."
   }
 ]
