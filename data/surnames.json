@@ -3301,5 +3301,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "יש לאמת בהמשך את דף חבר הכנסת האישי ואת האטימולוגיה בנפרד; מקור כללי אינו אסמכתה לפירוש השם."
+  },
+  {
+    "id": "ben-asher",
+    "name": "בן־אשר",
+    "latin": "Ben-Asher",
+    "status": "unknown",
+    "meaning": null,
+    "history": "חיים בן־אשר כיהן בכנסת הראשונה מטעם מפא״י. לא אומת מקור אטימולוגי ייעודי לשם המשפחה בן־אשר.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מציין כהונה בכנסת הראשונה בלבד. פירוש ומקור שם המשפחה לא אומתו, ואין להסיקם מדמיון למילים עבריות."
+  },
+  {
+    "id": "hacarmeli",
+    "name": "הכרמלי",
+    "latin": "HaCarmeli",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליהו הכרמלי כיהן בכנסת הראשונה מטעם מפא״י. לא אומת מקור אטימולוגי ייעודי לשם המשפחה הכרמלי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מציין כהונה בכנסת הראשונה בלבד. פירוש ומקור שם המשפחה לא אומתו, ואין להסיקם מדמיון למילים עבריות."
+  },
+  {
+    "id": "harpaz",
+    "name": "הרפז",
+    "latin": "Harpaz",
+    "status": "unknown",
+    "meaning": null,
+    "history": "נטע הרפז כיהן בכנסת הראשונה מטעם מפא״י. לא אומת מקור אטימולוגי ייעודי לשם המשפחה הרפז.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מציין כהונה בכנסת הראשונה בלבד. פירוש ומקור שם המשפחה לא אומתו, ואין להסיקם מדמיון למילים עבריות."
+  },
+  {
+    "id": "smilansky",
+    "name": "סמילנסקי",
+    "latin": "Smilansky",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יזהר סמילנסקי כיהן בכנסת הראשונה מטעם מפא״י. לא אומת מקור אטימולוגי ייעודי לשם המשפחה סמילנסקי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מציין כהונה בכנסת הראשונה בלבד. פירוש ומקור שם המשפחה לא אומתו, ואין להסיקם מדמיון למילים עבריות."
   }
 ]
