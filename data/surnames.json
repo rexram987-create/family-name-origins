@@ -4277,5 +4277,62 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה."
+  },
+  {
+    "id": "yehuda",
+    "name": "יהודה",
+    "latin": "Yehuda",
+    "status": "unknown",
+    "meaning": null,
+    "history": "צבי יהודה כיהן בכנסת הראשונה מטעם מפא״י. מקורו האטימולוגי של שם המשפחה יהודה לא אומת במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את חבר הכנסת ולא את האטימולוגיה של שם המשפחה. נדרשת בדיקת מקור ייעודי לפני ייחוס משמעות."
+  },
+  {
+    "id": "cohen-maguri",
+    "name": "כהן־מגורי",
+    "latin": "Cohen-Maguri",
+    "status": "unknown",
+    "meaning": null,
+    "history": "חיים כהן־מגורי כיהן בכנסת הראשונה מטעם חרות. מקורו האטימולוגי של שם המשפחה כהן־מגורי לא אומת במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את חבר הכנסת ולא את האטימולוגיה של שם המשפחה. נדרשת בדיקת מקור ייעודי לפני ייחוס משמעות."
+  },
+  {
+    "id": "jabotinsky",
+    "name": "ז׳בוטינסקי",
+    "latin": "Jabotinsky",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ארי ז׳בוטינסקי כיהן בכנסת הראשונה מטעם חרות. מקורו האטימולוגי של שם המשפחה ז׳בוטינסקי לא אומת במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את חבר הכנסת ולא את האטימולוגיה של שם המשפחה. נדרשת בדיקת מקור ייעודי לפני ייחוס משמעות."
   }
 ]
