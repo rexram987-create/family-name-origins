@@ -3020,20 +3020,24 @@
     "id": "lowenstein",
     "name": "לוונשטיין",
     "latin": "Lowenstein",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "Löwenstein עשוי להיות שם מוצא מאחד המקומות בשם Löwenstein בגרמניה, או שם משפחה יהודי־אשכנזי מורכב מן Löwe ('אריה') ומן Stein ('אבן'). לעיתים המרכיב הראשון קשור לשמות לייב או לוי.",
     "history": "מאיר דוד לוונשטיין כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה לוונשטיין טרם אומת במקור אטימולוגי מתאים.",
     "sources": [
+      {
+        "title": "Dictionary of American Family Names — Lewenstein, באמצעות FamilySearch",
+        "url": "https://www.familysearch.org/en/surname?surname=Lewenstein"
+      },
       {
         "title": "אתר הכנסת — חברי החזית הדתית המאוחדת בכנסת הראשונה (מאיר דוד לוונשטיין); מקור לכהונה בלבד",
         "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "גרמנית ויידיש; שם מקום או שם משפחה מורכב",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה."
+    "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה. מקור מילוני לפירושי שם המשפחה הכלליים; לא הוכח איזו חלופה חלה על משפחת חבר הכנסת."
   },
   {
     "id": "mazor",
@@ -3210,10 +3214,14 @@
     "id": "herzfeld",
     "name": "הרצפלד",
     "latin": "Herzfeld",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "לשם Herzfeld שני מקורות מתועדים: שם מקום מיישובים בשם Herzfeld/Herzfelde בגרמניה; או שם משפחה אשכנזי מורכב מן Herz ('לב') ומן Feld ('שדה'). אין הוכחה איזו חלופה מתאימה למשפחת חבר הכנסת.",
     "history": "אברהם הרצפלד כיהן בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה הרצפלד לא אומת במקור אטימולוגי ייעודי.",
     "sources": [
+      {
+        "title": "Dictionary of American Family Names — Herzfeld, באמצעות FamilySearch",
+        "url": "https://www.familysearch.org/en/surname?surname=herzfeld"
+      },
       {
         "title": "רשימת חברי מפא״י בכנסת הראשונה — אברהם הרצפלד (לזיהוי ולכהונה בלבד)",
         "url": "https://he.wikipedia.org/wiki/מפא%22י"
@@ -3223,11 +3231,11 @@
         "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "גרמנית; שם מקום או שם משפחה אשכנזי מורכב",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת."
+    "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת. מקור מילוני לפירושי שם המשפחה הכלליים; לא הוכח איזו חלופה חלה על משפחת חבר הכנסת."
   },
   {
     "id": "lavi",
