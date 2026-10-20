@@ -2225,20 +2225,24 @@
     "id": "maimon",
     "name": "מימון",
     "latin": "Maimon",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה שמקורו בכינוי בערבית שפירושו 'בר מזל' או 'מאושר'; בקטלוניה מתועדת גם משמעות 'רגוע' או 'איטי'.",
     "history": "יהודה לייב מימון כיהן בכנסת הראשונה וכשר הדתות בממשלה הראשונה. משמעות שם המשפחה מימון עשויה להשתנות לפי מסורת לשונית, ולכן לא נקבע כאן פירוש ללא אסמכתה ייעודית.",
     "sources": [
+      {
+        "title": "מוזיאון אנו — מקור השם MAIMON",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e126749/Family_Name/MAIMON"
+      },
       {
         "title": "הכנסת — הממשלה הראשונה: יהודה לייב מימון (תיעוד כהונה בלבד)",
         "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "ערבית; קיימת גם מסורת משמעות קטלונית",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "השם נוסף במסגרת סדרת חברי הכנסת הראשונה. מקור הכנסת מאשר כהונה בלבד, ולא אטימולוגיה. אין לייחס למשפחה מסוימת משמעות על סמך צליל השם."
+    "metadataNote": "השם נוסף במסגרת סדרת חברי הכנסת הראשונה. מקור הכנסת מאשר כהונה בלבד, ולא אטימולוגיה. אין לייחס למשפחה מסוימת משמעות על סמך צליל השם. הפירוש מאומת כדגם אטימולוגי של שם המשפחה, ולא כמסלול גנאלוגי מוכח של חבר הכנסת המסוים."
   },
   {
     "id": "mintz",
@@ -2591,39 +2595,47 @@
     "id": "harari",
     "name": "הררי",
     "latin": "Harari",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה עברי שעשוי לציין 'מן ההר'; מתועדים גם הסברים כשם הנגזר משם פרטי או משם מקום.",
     "history": "יזהר הררי כיהן בכנסת הראשונה והציע בשנת 1950 את פשרת הררי, כפי שמתועד באתר הכנסת. המקור האטימולוגי של שם המשפחה הררי לא אומת במסגרת ההוספה.",
     "sources": [
+      {
+        "title": "מוזיאון אנו — מקור השם HARARI",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e153026/Family_Name/HARARI"
+      },
       {
         "title": "הכנסת — הכנסת כרשות מכוננת: יזהר הררי ופשרת הררי (1950); תיעוד כהונה בלבד",
         "url": "https://main.knesset.gov.il/Activity/Legislation/Pages/BasicLawsAndConstitution.aspx"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "עברית; אפשרויות טופונימיות ופטרונימיות",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. משמעות התואר העברי 'הררי' אינה כשלעצמה הוכחה למקור שם המשפחה של חבר הכנסת."
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. משמעות התואר העברי 'הררי' אינה כשלעצמה הוכחה למקור שם המשפחה של חבר הכנסת. הפירוש מאומת כדגם אטימולוגי של שם המשפחה, ולא כמסלול גנאלוגי מוכח של חבר הכנסת המסוים."
   },
   {
     "id": "landau",
     "name": "לנדאו",
     "latin": "Landau",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה גאוגרפי שמקורו בשם מקום Landau באזור גרמניה או אלזס; בגרמנית עתיקה Land פירושו ארץ ו־Au עמק לח.",
     "history": "חיים לנדאו כיהן/ה בכנסת הראשונה מטעם תנועת החרות. שם המשפחה לנדאו מתועד ברשימת חברי הסיעה, אך פירושו האטימולוגי המדויק בהקשר המשפחתי לא אומת במסגרת הוספה זו.",
     "sources": [
+      {
+        "title": "FamilySearch — Dictionary of American Family Names: Landau",
+        "url": "https://www.familysearch.org/en/surname?surname=landau"
+      },
       {
         "title": "כנסת פתוחה — חברי תנועת החרות בכנסת הראשונה: חיים לנדאו (תיעוד כהונה בלבד)",
         "url": "https://oknesset.org/factions/2/153.html"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "גרמנית; שם מקום",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת."
+    "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת. הפירוש מאומת כדגם אטימולוגי של שם המשפחה, ולא כמסלול גנאלוגי מוכח של חבר הכנסת המסוים."
   },
   {
     "id": "meridor",
