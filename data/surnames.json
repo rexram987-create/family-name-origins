@@ -2601,5 +2601,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. משמעות התואר העברי 'הררי' אינה כשלעצמה הוכחה למקור שם המשפחה של חבר הכנסת."
+  },
+  {
+    "id": "landau",
+    "name": "לנדאו",
+    "latin": "Landau",
+    "status": "unknown",
+    "meaning": null,
+    "history": "חיים לנדאו כיהן/ה בכנסת הראשונה מטעם תנועת החרות. שם המשפחה לנדאו מתועד ברשימת חברי הסיעה, אך פירושו האטימולוגי המדויק בהקשר המשפחתי לא אומת במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "כנסת פתוחה — חברי תנועת החרות בכנסת הראשונה: חיים לנדאו (תיעוד כהונה בלבד)",
+        "url": "https://oknesset.org/factions/2/153.html"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת."
+  },
+  {
+    "id": "meridor",
+    "name": "מרידור",
+    "latin": "Meridor",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יעקב מרידור כיהן/ה בכנסת הראשונה מטעם תנועת החרות. שם המשפחה מרידור מתועד ברשימת חברי הסיעה, אך פירושו האטימולוגי המדויק בהקשר המשפחתי לא אומת במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "כנסת פתוחה — חברי תנועת החרות בכנסת הראשונה: יעקב מרידור (תיעוד כהונה בלבד)",
+        "url": "https://oknesset.org/factions/2/153.html"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת."
+  },
+  {
+    "id": "raziel-naor",
+    "name": "רזיאל־נאור",
+    "latin": "Raziel-Naor",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אסתר רזיאל־נאור כיהן/ה בכנסת הראשונה מטעם תנועת החרות. שם המשפחה רזיאל־נאור מתועד ברשימת חברי הסיעה, אך פירושו האטימולוגי המדויק בהקשר המשפחתי לא אומת במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "כנסת פתוחה — חברי תנועת החרות בכנסת הראשונה: אסתר רזיאל־נאור (תיעוד כהונה בלבד)",
+        "url": "https://oknesset.org/factions/2/153.html"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת."
+  },
+  {
+    "id": "ben-eliezer",
+    "name": "בן־אליעזר",
+    "latin": "Ben-Eliezer",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אריה בן־אליעזר כיהן/ה בכנסת הראשונה מטעם תנועת החרות. שם המשפחה בן־אליעזר מתועד ברשימת חברי הסיעה, אך פירושו האטימולוגי המדויק בהקשר המשפחתי לא אומת במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "כנסת פתוחה — חברי תנועת החרות בכנסת הראשונה: אריה בן־אליעזר (תיעוד כהונה בלבד)",
+        "url": "https://oknesset.org/factions/2/153.html"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת."
   }
 ]
