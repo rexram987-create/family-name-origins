@@ -3133,5 +3133,97 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקור הרשימה מאמת את הכהונה ולא את מקור שם המשפחה; אין להסיק משמעות מהעברית המודרנית ללא תיעוד."
+  },
+  {
+    "id": "herzfeld",
+    "name": "הרצפלד",
+    "latin": "Herzfeld",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם הרצפלד כיהן בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה הרצפלד לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — אברהם הרצפלד (לזיהוי ולכהונה בלבד)",
+        "url": "https://he.wikipedia.org/wiki/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — היסטוריה של הכנסת הראשונה",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת."
+  },
+  {
+    "id": "lavi",
+    "name": "לביא",
+    "latin": "Lavi",
+    "status": "unknown",
+    "meaning": null,
+    "history": "שלמה לביא כיהן בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה לביא לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — שלמה לביא (לזיהוי ולכהונה בלבד)",
+        "url": "https://he.wikipedia.org/wiki/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — היסטוריה של הכנסת הראשונה",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת."
+  },
+  {
+    "id": "baratz",
+    "name": "ברץ",
+    "latin": "Baratz",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יוסף ברץ כיהן בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה ברץ לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — יוסף ברץ (לזיהוי ולכהונה בלבד)",
+        "url": "https://he.wikipedia.org/wiki/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — היסטוריה של הכנסת הראשונה",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת."
+  },
+  {
+    "id": "dovdevani",
+    "name": "דובדבני",
+    "latin": "Dovdevani",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יחיאל דובדבני כיהן בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה דובדבני לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — יחיאל דובדבני (לזיהוי ולכהונה בלבד)",
+        "url": "https://he.wikipedia.org/wiki/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — היסטוריה של הכנסת הראשונה",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת."
   }
 ]
