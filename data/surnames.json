@@ -2384,20 +2384,24 @@
     "id": "galili",
     "name": "גלילי",
     "latin": "Galili",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה גאוגרפי עברי המציין קשר לגליל; אינו מוכיח בהכרח שמוצא המשפחה בגליל.",
     "history": "ישראל גלילי (ברצ׳נקו) כיהן בכנסת הראשונה מטעם מפ״ם. המילה גלילי בעברית עשויה לציין אדם הקשור לגליל, אך מקור בחירת שם משפחתו לא אומת כאן.",
     "sources": [
+      {
+        "title": "מוזיאון אנו — GALILI, מקור השם והאזכור של ישראל גלילי",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e258342/Family_Name/GALILI"
+      },
       {
         "title": "הכנסת — חברי מפ״ם בכנסת הראשונה (ישראל גלילי, ברצ׳נקו)",
         "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "עברית; שם גאוגרפי",
     "historicalCommunities": "ישראל",
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המשמעות המילונית של התואר גלילי אינה מספיקה כדי להוכיח את האטימולוגיה של שם המשפחה או את מניעי עברות השם."
+    "metadataNote": "המשמעות המילונית של התואר גלילי אינה מספיקה כדי להוכיח את האטימולוגיה של שם המשפחה או את מניעי עברות השם. מקור אטימולוגי ייעודי של מוזיאון אנו; אין להסיק ממנו מסלול גנאלוגי אישי."
   },
   {
     "id": "yaari",
