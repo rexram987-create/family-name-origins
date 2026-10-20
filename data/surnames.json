@@ -3469,5 +3469,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקורות הכהונה אינם אסמכתה אטימולוגית; משמעות השם ומוצאו לא אומתו."
+  },
+  {
+    "id": "drori",
+    "name": "דרורי",
+    "latin": "Drori",
+    "status": "unknown",
+    "meaning": null,
+    "history": "חסיה דרורי כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. המקור האטימולוגי של שם המשפחה דרורי לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "List of members of the first Knesset — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מעיד על זהות חבר הכנסת והכהונה בלבד; הוא אינו מקור מחקרי לאטימולוגיית שם המשפחה."
+  },
+  {
+    "id": "frumkin",
+    "name": "פרומקין",
+    "latin": "Frumkin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "השל פרומקין כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. המקור האטימולוגי של שם המשפחה פרומקין לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "List of members of the first Knesset — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מעיד על זהות חבר הכנסת והכהונה בלבד; הוא אינו מקור מחקרי לאטימולוגיית שם המשפחה."
+  },
+  {
+    "id": "goren",
+    "name": "גורן",
+    "latin": "Goren",
+    "status": "unknown",
+    "meaning": null,
+    "history": "שרגא גורן כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. המקור האטימולוגי של שם המשפחה גורן לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "List of members of the first Knesset — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מעיד על זהות חבר הכנסת והכהונה בלבד; הוא אינו מקור מחקרי לאטימולוגיית שם המשפחה."
+  },
+  {
+    "id": "guri",
+    "name": "גורי",
+    "latin": "Guri",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ישראל גורי כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. המקור האטימולוגי של שם המשפחה גורי לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "List of members of the first Knesset — אימות זהות וכהונה בלבד",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מעיד על זהות חבר הכנסת והכהונה בלבד; הוא אינו מקור מחקרי לאטימולוגיית שם המשפחה."
   }
 ]
