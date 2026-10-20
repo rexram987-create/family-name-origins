@@ -2905,5 +2905,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מאמת את השתייכות חבר הכנסת לסיעה ואת השם; אינו מקור אטימולוגי. לא להסיק משמעות משם דומה או ממילה מילונית."
+  },
+  {
+    "id": "goldrat",
+    "name": "גולדראט",
+    "latin": "Goldrat",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם יהודה גולדראט כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה גולדראט טרם אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — חברי החזית הדתית המאוחדת בכנסת הראשונה (אברהם יהודה גולדראט); מקור לכהונה בלבד",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה."
+  },
+  {
+    "id": "genchovsky",
+    "name": "גנחובסקי",
+    "latin": "Genchovsky",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליהו משה גנחובסקי כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה גנחובסקי טרם אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — חברי החזית הדתית המאוחדת בכנסת הראשונה (אליהו משה גנחובסקי); מקור לכהונה בלבד",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה."
+  },
+  {
+    "id": "lowenstein",
+    "name": "לוונשטיין",
+    "latin": "Lowenstein",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מאיר דוד לוונשטיין כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה לוונשטיין טרם אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — חברי החזית הדתית המאוחדת בכנסת הראשונה (מאיר דוד לוונשטיין); מקור לכהונה בלבד",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה."
+  },
+  {
+    "id": "mazor",
+    "name": "מזור",
+    "latin": "Mazor",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליהו מזור כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה מזור טרם אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — חברי החזית הדתית המאוחדת בכנסת הראשונה (אליהו מזור); מקור לכהונה בלבד",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה."
   }
 ]
