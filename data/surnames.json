@@ -3973,5 +3973,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו."
+  },
+  {
+    "id": "gil-yaakov",
+    "name": "גיל",
+    "latin": "Gil",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יעקב גיל כיהן בכנסת הראשונה מטעם הציונים הכלליים. מקור שם המשפחה גיל לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימה לפי סיעות (לאימות כהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת זהות וחברות בכנסת הראשונה בלבד; אין בו אימות למשמעות שם המשפחה."
+  },
+  {
+    "id": "kook",
+    "name": "קוק",
+    "latin": "Kook",
+    "status": "unknown",
+    "meaning": null,
+    "history": "הלל קוק כיהן בכנסת הראשונה מטעם תנועת החרות. מקור שם המשפחה קוק לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימה לפי סיעות (לאימות כהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת זהות וחברות בכנסת הראשונה בלבד; אין בו אימות למשמעות שם המשפחה."
+  },
+  {
+    "id": "merlin",
+    "name": "מרלין",
+    "latin": "Merlin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "שמואל מרלין כיהן בכנסת הראשונה מטעם תנועת החרות. מקור שם המשפחה מרלין לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימה לפי סיעות (לאימות כהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת זהות וחברות בכנסת הראשונה בלבד; אין בו אימות למשמעות שם המשפחה."
+  },
+  {
+    "id": "jarjora",
+    "name": "ג׳רג׳ורה",
+    "latin": "Jarjora",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אמין־סלים ג׳רג׳ורה כיהן בכנסת הראשונה מטעם הרשימה הדמוקרטית של נצרת. מקור שם המשפחה ג׳רג׳ורה לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימה לפי סיעות (לאימות כהונה בלבד)",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת זהות וחברות בכנסת הראשונה בלבד; אין בו אימות למשמעות שם המשפחה."
   }
 ]
