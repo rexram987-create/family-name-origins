@@ -4125,5 +4125,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מתעד את כהונת חבר הכנסת בלבד, ואינו אסמכתה לפירוש האטימולוגי של שם המשפחה."
+  },
+  {
+    "id": "yeshayahu-sharabi",
+    "name": "ישעיהו־שרעבי",
+    "latin": "Yeshayahu-Sharabi",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ישראל ישעיהו־שרעבי כיהן בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה ישעיהו־שרעבי לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד כהונת ישראל ישעיהו־שרעבי בכנסת — לא מקור אטימולוגי",
+        "url": "https://main.knesset.gov.il/mk/pages/mkpub.aspx?mkid=441"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור תומך בזהות ובכהונה בלבד. אין להסיק ממנו משמעות, מוצא לשוני או מקור משפחתי."
+  },
+  {
+    "id": "preminger",
+    "name": "פרמינגר",
+    "latin": "Preminger",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליעזר פרמינגר כיהן בכנסת הראשונה מטעם מק״י, הקומוניסטים העבריים ומפ״ם. מקור שם המשפחה פרמינגר לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד כהונת אליעזר פרמינגר בכנסת — לא מקור אטימולוגי",
+        "url": "https://en.wikipedia.org/wiki/Eliezer_Preminger"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור תומך בזהות ובכהונה בלבד. אין להסיק ממנו משמעות, מוצא לשוני או מקור משפחתי."
+  },
+  {
+    "id": "peri",
+    "name": "פרי",
+    "latin": "Peri",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליעזר פרי כיהן בכנסת הראשונה מטעם מפ״ם. מקור שם המשפחה פרי לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד כהונת אליעזר פרי בכנסת — לא מקור אטימולוגי",
+        "url": "https://en.wikipedia.org/wiki/Eliezer_Peri"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור תומך בזהות ובכהונה בלבד. אין להסיק ממנו משמעות, מוצא לשוני או מקור משפחתי."
+  },
+  {
+    "id": "nir",
+    "name": "ניר",
+    "latin": "Nir",
+    "status": "unknown",
+    "meaning": null,
+    "history": "נחום ניר כיהן בכנסת הראשונה מטעם מפ״ם. מקור שם המשפחה ניר לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד כהונת נחום ניר בכנסת — לא מקור אטימולוגי",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור תומך בזהות ובכהונה בלבד. אין להסיק ממנו משמעות, מוצא לשוני או מקור משפחתי."
   }
 ]
