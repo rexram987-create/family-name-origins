@@ -3713,5 +3713,97 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקורות רשמיים מאמתים חברות בכנסת הראשונה; אינם מאמתים פירוש, לשון מקור או מוצא משפחתי."
+  },
+  {
+    "id": "hushi",
+    "name": "חושי",
+    "latin": "Hushi",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אבא חושי כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. אין בידינו אסמכתה מחקרית מספקת לפירוש האטימולוגי של שם המשפחה חושי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברי הכנסת לפי סיעה (אימות חברות בלבד)",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      },
+      {
+        "title": "הכנסת — חברי הכנסת לדורותיהם",
+        "url": "https://main.knesset.gov.il/mk/apps/mkprevious/main/previous-knesset-mks/all-previous-mks"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות."
+  },
+  {
+    "id": "tversky",
+    "name": "טברסקי",
+    "latin": "Tversky",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ז׳ניה טברסקי כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. אין בידינו אסמכתה מחקרית מספקת לפירוש האטימולוגי של שם המשפחה טברסקי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברי הכנסת לפי סיעה (אימות חברות בלבד)",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      },
+      {
+        "title": "הכנסת — חברי הכנסת לדורותיהם",
+        "url": "https://main.knesset.gov.il/mk/apps/mkprevious/main/previous-knesset-mks/all-previous-mks"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות."
+  },
+  {
+    "id": "kanev",
+    "name": "קנב",
+    "latin": "Kanev",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יצחק קנב כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. אין בידינו אסמכתה מחקרית מספקת לפירוש האטימולוגי של שם המשפחה קנב.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברי הכנסת לפי סיעה (אימות חברות בלבד)",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      },
+      {
+        "title": "הכנסת — חברי הכנסת לדורותיהם",
+        "url": "https://main.knesset.gov.il/mk/apps/mkprevious/main/previous-knesset-mks/all-previous-mks"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות."
+  },
+  {
+    "id": "bash",
+    "name": "בש",
+    "latin": "Bash",
+    "status": "unknown",
+    "meaning": null,
+    "history": "רפאל בש כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. אין בידינו אסמכתה מחקרית מספקת לפירוש האטימולוגי של שם המשפחה בש.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברי הכנסת לפי סיעה (אימות חברות בלבד)",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      },
+      {
+        "title": "הכנסת — חברי הכנסת לדורותיהם",
+        "url": "https://main.knesset.gov.il/mk/apps/mkprevious/main/previous-knesset-mks/all-previous-mks"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות."
   }
 ]
