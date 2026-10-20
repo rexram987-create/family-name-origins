@@ -3225,5 +3225,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקורות מאמתים השתייכות לכנסת הראשונה ולא פירוש אטימולוגי. אין להסיק מקור או משמעות על סמך דמיון למילה מוכרת."
+  },
+  {
+    "id": "idelson",
+    "name": "אידלסון",
+    "latin": "Idelson",
+    "status": "unknown",
+    "meaning": null,
+    "history": "בבה אידלסון כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה אידלסון לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "הכנסת הראשונה — בבה אידלסון (מקור לזיהוי ולכהונה בלבד)",
+        "url": "https://www.knesset.gov.il/mk/heb/mkindex_current.asp"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "יש לאמת בהמשך את דף חבר הכנסת האישי ואת האטימולוגיה בנפרד; מקור כללי אינו אסמכתה לפירוש השם."
+  },
+  {
+    "id": "naftali",
+    "name": "נפתלי",
+    "latin": "Naftali",
+    "status": "unknown",
+    "meaning": null,
+    "history": "פרץ נפתלי כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה נפתלי לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "הכנסת הראשונה — פרץ נפתלי (מקור לזיהוי ולכהונה בלבד)",
+        "url": "https://www.knesset.gov.il/mk/heb/mkindex_current.asp"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "יש לאמת בהמשך את דף חבר הכנסת האישי ואת האטימולוגיה בנפרד; מקור כללי אינו אסמכתה לפירוש השם."
+  },
+  {
+    "id": "lavon",
+    "name": "לבון",
+    "latin": "Lavon",
+    "status": "unknown",
+    "meaning": null,
+    "history": "פנחס לבון כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה לבון לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "הכנסת הראשונה — פנחס לבון (מקור לזיהוי ולכהונה בלבד)",
+        "url": "https://www.knesset.gov.il/mk/heb/mkindex_current.asp"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "יש לאמת בהמשך את דף חבר הכנסת האישי ואת האטימולוגיה בנפרד; מקור כללי אינו אסמכתה לפירוש השם."
+  },
+  {
+    "id": "dinur",
+    "name": "דינור",
+    "latin": "Dinur",
+    "status": "unknown",
+    "meaning": null,
+    "history": "בן־ציון דינור כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. מקור שם המשפחה דינור לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "הכנסת הראשונה — בן־ציון דינור (מקור לזיהוי ולכהונה בלבד)",
+        "url": "https://www.knesset.gov.il/mk/heb/mkindex_current.asp"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "יש לאמת בהמשך את דף חבר הכנסת האישי ואת האטימולוגיה בנפרד; מקור כללי אינו אסמכתה לפירוש השם."
   }
 ]
