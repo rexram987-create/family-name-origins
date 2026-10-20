@@ -908,7 +908,7 @@
     "alternateSpellings": [
       "Caplan"
     ],
-    "metadataNote": "Caplan מתועד כצורה אמריקאית של Kaplan במסורת יהודית אשכנזית; עם זאת, ל־Caplan קיימים גם מקורות אנגליים וצרפתיים נפרדים. כתיב חלופי אינו ראיה לקשר משפחתי או לכהונה."
+    "metadataNote": "Caplan מתועד כצורה אמריקאית של Kaplan במסורת יהודית אשכנזית; עם זאת, ל־Caplan קיימים גם מקורות אנגליים וצרפתיים נפרדים. כתיב חלופי אינו ראיה לקשר משפחתי או לכהונה. הכנסת הראשונה: אליעזר קפלן כיהן כשר המסחר והתעשייה בממשלה הראשונה, לפי אתר הכנסת (https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1). זהו הקשר היסטורי, לא ראיה לאטימולוגיה של משפחתו."
   },
   {
     "id": "berger",
@@ -2197,5 +2197,43 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "כנסת ראשונה: יצחק מאיר לוין. אין להניח שכל Levin נגזר מלוי, ואין להסיק ייחוס שבטי. השם Lavsky אינו גרסה מאומתת של Levin."
+  },
+  {
+    "id": "sheetrit",
+    "name": "שטרית",
+    "latin": "Sheetrit",
+    "status": "unknown",
+    "meaning": null,
+    "history": "בכור־שלום שטרית כיהן בכנסת הראשונה והיה שר המשטרה בממשלה הראשונה. מקורו הלשוני של שם המשפחה שטרית טרם אומת במקור אטימולוגי ישיר.",
+    "sources": [
+      {
+        "title": "הכנסת — הממשלה הראשונה: בכור־שלום שטרית (תיעוד כהונה בלבד)",
+        "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "השם נוסף במסגרת סדרת חברי הכנסת הראשונה. מקור הכנסת מאשר כהונה, אך אינו מסביר את שם המשפחה. אין להסיק אטימולוגיה על סמך דמיון לשמות אחרים."
+  },
+  {
+    "id": "maimon",
+    "name": "מימון",
+    "latin": "Maimon",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יהודה לייב מימון כיהן בכנסת הראשונה וכשר הדתות בממשלה הראשונה. משמעות שם המשפחה מימון עשויה להשתנות לפי מסורת לשונית, ולכן לא נקבע כאן פירוש ללא אסמכתה ייעודית.",
+    "sources": [
+      {
+        "title": "הכנסת — הממשלה הראשונה: יהודה לייב מימון (תיעוד כהונה בלבד)",
+        "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "השם נוסף במסגרת סדרת חברי הכנסת הראשונה. מקור הכנסת מאשר כהונה בלבד, ולא אטימולוגיה. אין לייחס למשפחה מסוימת משמעות על סמך צליל השם."
   }
 ]
