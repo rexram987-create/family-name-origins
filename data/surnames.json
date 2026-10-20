@@ -3897,5 +3897,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מקורות אלה מאמתים חברות בכנסת הראשונה ולא את המשמעות או המקור הלשוני של שם המשפחה."
+  },
+  {
+    "id": "forder",
+    "name": "פורדר",
+    "latin": "Forder",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ישעיהו פורדר כיהן בכנסת הראשונה מטעם המפלגה הפרוגרסיבית. מקורו האטימולוגי של שם המשפחה פורדר לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה לפי סיעות — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו."
+  },
+  {
+    "id": "ben-ami",
+    "name": "בן־עמי",
+    "latin": "Ben-Ami",
+    "status": "unknown",
+    "meaning": null,
+    "history": "משה בן־עמי כיהן בכנסת הראשונה מטעם ספרדים ועדות המזרח. מקורו האטימולוגי של שם המשפחה בן־עמי לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה לפי סיעות — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו."
+  },
+  {
+    "id": "recanati",
+    "name": "רקנאטי",
+    "latin": "Recanati",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם רקנאטי כיהן בכנסת הראשונה מטעם תנועת החרות. מקורו האטימולוגי של שם המשפחה רקנאטי לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה לפי סיעות — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו."
+  },
+  {
+    "id": "lankin",
+    "name": "לנקין",
+    "latin": "Lankin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליהו לנקין כיהן בכנסת הראשונה מטעם תנועת החרות. מקורו האטימולוגי של שם המשפחה לנקין לא אומת במחקר ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה לפי סיעות — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו."
   }
 ]
