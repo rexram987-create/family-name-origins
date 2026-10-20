@@ -4201,5 +4201,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור תומך בזהות ובכהונה בלבד. אין להסיק ממנו משמעות, מוצא לשוני או מקור משפחתי."
+  },
+  {
+    "id": "livshitz",
+    "name": "ליבשיץ",
+    "latin": "Livshitz",
+    "status": "unknown",
+    "meaning": null,
+    "history": "דוד ליבשיץ כיהן או כיהנה בכנסת הראשונה מטעם מפ״ם. האטימולוגיה של שם המשפחה ליבשיץ לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד חברי הכנסת הראשונה — דוד ליבשיץ (כהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה."
+  },
+  {
+    "id": "ratzon",
+    "name": "רצון",
+    "latin": "Ratzon",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מנחם רצון כיהן או כיהנה בכנסת הראשונה מטעם מפ״ם. האטימולוגיה של שם המשפחה רצון לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד חברי הכנסת הראשונה — מנחם רצון (כהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה."
+  },
+  {
+    "id": "simhoni",
+    "name": "שמחוני",
+    "latin": "Simhoni",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יהודית שמחוני כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה שמחוני לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד חברי הכנסת הראשונה — יהודית שמחוני (כהונה בלבד)",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה."
+  },
+  {
+    "id": "hacohen",
+    "name": "הכהן",
+    "latin": "Hacohen",
+    "status": "unknown",
+    "meaning": null,
+    "history": "דוד הכהן כיהן או כיהנה בכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה הכהן לא אומתה במקור ייעודי.",
+    "sources": [
+      {
+        "title": "תיעוד חברי הכנסת הראשונה — דוד הכהן (כהונה בלבד)",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה."
   }
 ]
