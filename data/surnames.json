@@ -2235,5 +2235,80 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "השם נוסף במסגרת סדרת חברי הכנסת הראשונה. מקור הכנסת מאשר כהונה בלבד, ולא אטימולוגיה. אין לייחס למשפחה מסוימת משמעות על סמך צליל השם."
+  },
+  {
+    "id": "mintz",
+    "name": "מינץ",
+    "latin": "Mintz",
+    "status": "verified",
+    "meaning": "שם משפחה אשכנזי המציין מוצא מן העיר מיינץ שבגרמניה.",
+    "history": "בנימין מינץ כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקורו של שם המשפחה Mintz, לפי מילון שמות המשפחה האמריקאי, בעיר Mainz שבגרמניה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Mintz",
+        "url": "https://www.ancestry.com/last-name-meaning/mintz"
+      },
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה (בנימין מינץ)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": "גרמנית; שם מקום אשכנזי",
+    "historicalCommunities": "יהודים אשכנזים",
+    "geographicAssociation": "מיינץ, גרמניה",
+    "alternateSpellings": [],
+    "metadataNote": "הקשר ההיסטורי לבנימין מינץ מאומת באתר הכנסת; פירוש השם במילון אינו הוכחה למוצא משפחתו המסוימת."
+  },
+  {
+    "id": "pinkas",
+    "name": "פנקס",
+    "latin": "Pinkas",
+    "status": "verified",
+    "meaning": "שם משפחה אשכנזי־מזרחי, גרסה של Pincus.",
+    "history": "דוד צבי פנקס כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מילון שמות המשפחה האמריקאי מזהה את Pinkas כגרסה של Pincus; אין להסיק מפירוש המילה העברית 'פנקס' את מקור שם המשפחה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Pinkas",
+        "url": "https://www.ancestry.com/last-name-meaning/pinkas"
+      },
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה (דוד צבי פנקס)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": "אשכנזית מזרח־אירופית; גרסה של Pincus",
+    "historicalCommunities": "יהודים אשכנזים",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "האטימולוגיה המאומתת כאן היא קשר ל־Pincus בלבד. אין לטעון שפנקס נוצר בהכרח מהמילה העברית פנקס, ואין לקבוע מקור עמוק יותר ללא מקור."
+  },
+  {
+    "id": "kahana",
+    "name": "כהנא",
+    "latin": "Kahana",
+    "status": "verified",
+    "meaning": "צורה אשכנזית של Kahane, שמקורה במילה הארמית כהנא ('כוהן').",
+    "history": "קלמן כהנא כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. במילון שמות המשפחה Kahana הוא גרסה של Kahane, שמקורו בהגייה יידית של המילה הארמית כהנא.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Kahana",
+        "url": "https://www.ancestry.com/last-name-meaning/kahana?geo-lang=en"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Kahane",
+        "url": "https://www.ancestry.com/last-name-meaning/Kahane?geo-lang=en"
+      },
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה (קלמן כהנא)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": "ארמית, בתיווך יידיש",
+    "historicalCommunities": "יהודים אשכנזים",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Kahane"
+    ],
+    "metadataNote": "Kahana ו־Kahane מתועדים באותו מילון, ולכן אינם שני מחקרים עצמאיים. השם אינו מוכיח ייחוס כהונה של אדם או משפחה."
   }
 ]
