@@ -2390,5 +2390,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המשמעות המילונית של התואר גלילי אינה מספיקה כדי להוכיח את האטימולוגיה של שם המשפחה או את מניעי עברות השם."
+  },
+  {
+    "id": "yaari",
+    "name": "יערי",
+    "latin": "Yaari",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מאיר יערי (וולד) כיהן/ה בכנסת הראשונה מטעם מפ״ם, לפי רשימת חברי הסיעה באתר הכנסת. האטימולוגיה של שם המשפחה יערי טרם אומתה במקור מחקרי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה: מאיר יערי (וולד) (תיעוד היסטורי בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט שמות המשפחה של חברי הכנסת הראשונה. מקור הכנסת מאשר את זהות חבר/ת הכנסת ואת הכתיב העברי, אך אינו מקור אטימולוגי. אין להסיק משמעות משם פרטי דומה או מצליל המילה."
+  },
+  {
+    "id": "tabenkin",
+    "name": "טבנקין",
+    "latin": "Tabenkin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יצחק טבנקין כיהן/ה בכנסת הראשונה מטעם מפ״ם, לפי רשימת חברי הסיעה באתר הכנסת. האטימולוגיה של שם המשפחה טבנקין טרם אומתה במקור מחקרי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה: יצחק טבנקין (תיעוד היסטורי בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט שמות המשפחה של חברי הכנסת הראשונה. מקור הכנסת מאשר את זהות חבר/ת הכנסת ואת הכתיב העברי, אך אינו מקור אטימולוגי. אין להסיק משמעות משם פרטי דומה או מצליל המילה."
+  },
+  {
+    "id": "lamdan",
+    "name": "למדן",
+    "latin": "Lamdan",
+    "status": "unknown",
+    "meaning": null,
+    "history": "חנה למדן (לרנר) כיהן/ה בכנסת הראשונה מטעם מפ״ם, לפי רשימת חברי הסיעה באתר הכנסת. האטימולוגיה של שם המשפחה למדן טרם אומתה במקור מחקרי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה: חנה למדן (לרנר) (תיעוד היסטורי בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט שמות המשפחה של חברי הכנסת הראשונה. מקור הכנסת מאשר את זהות חבר/ת הכנסת ואת הכתיב העברי, אך אינו מקור אטימולוגי. אין להסיק משמעות משם פרטי דומה או מצליל המילה."
+  },
+  {
+    "id": "riptin",
+    "name": "ריפתין",
+    "latin": "Riftin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יעקב ריפתין כיהן/ה בכנסת הראשונה מטעם מפ״ם, לפי רשימת חברי הסיעה באתר הכנסת. האטימולוגיה של שם המשפחה ריפתין טרם אומתה במקור מחקרי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה: יעקב ריפתין (תיעוד היסטורי בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט שמות המשפחה של חברי הכנסת הראשונה. מקור הכנסת מאשר את זהות חבר/ת הכנסת ואת הכתיב העברי, אך אינו מקור אטימולוגי. אין להסיק משמעות משם פרטי דומה או מצליל המילה."
   }
 ]
