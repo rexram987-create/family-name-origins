@@ -2466,5 +2466,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "נוסף במסגרת פרויקט שמות המשפחה של חברי הכנסת הראשונה. מקור הכנסת מאשר את זהות חבר/ת הכנסת ואת הכתיב העברי, אך אינו מקור אטימולוגי. אין להסיק משמעות משם פרטי דומה או מצליל המילה."
+  },
+  {
+    "id": "aram",
+    "name": "ארם",
+    "latin": "Aram",
+    "status": "unknown",
+    "meaning": null,
+    "history": "משה ארם (קזנובסקי) כיהן/ה בכנסת הראשונה במסגרת סיעת מפ״ם, כפי שמתועד ברשימת הסיעה הרשמית באתר הכנסת. פירושו האטימולוגי של שם המשפחה ארם טרם אומת.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — רשימת חברי מפ״ם בכנסת הראשונה: משה ארם (קזנובסקי) (תיעוד כהונה, לא אטימולוגיה)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. התיעוד מאמת את שם המשפחה ואת כהונת חבר/ת הכנסת, אך אינו מספק פירוש אטימולוגי. אין להציג משמעות משוערת כעובדה."
+  },
+  {
+    "id": "bader",
+    "name": "בדר",
+    "latin": "Bader",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מנחם בדר כיהן/ה בכנסת הראשונה במסגרת סיעת מפ״ם, כפי שמתועד ברשימת הסיעה הרשמית באתר הכנסת. פירושו האטימולוגי של שם המשפחה בדר טרם אומת.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — רשימת חברי מפ״ם בכנסת הראשונה: מנחם בדר (תיעוד כהונה, לא אטימולוגיה)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. התיעוד מאמת את שם המשפחה ואת כהונת חבר/ת הכנסת, אך אינו מספק פירוש אטימולוגי. אין להציג משמעות משוערת כעובדה."
+  },
+  {
+    "id": "ilanit",
+    "name": "אילנית",
+    "latin": "Ilanit",
+    "status": "unknown",
+    "meaning": null,
+    "history": "פייגה אילנית (הינדס) כיהן/ה בכנסת הראשונה במסגרת סיעת מפ״ם, כפי שמתועד ברשימת הסיעה הרשמית באתר הכנסת. פירושו האטימולוגי של שם המשפחה אילנית טרם אומת.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — רשימת חברי מפ״ם בכנסת הראשונה: פייגה אילנית (הינדס) (תיעוד כהונה, לא אטימולוגיה)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. התיעוד מאמת את שם המשפחה ואת כהונת חבר/ת הכנסת, אך אינו מספק פירוש אטימולוגי. אין להציג משמעות משוערת כעובדה."
+  },
+  {
+    "id": "repetur",
+    "name": "רפטור",
+    "latin": "Repetur",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ברל רפטור כיהן/ה בכנסת הראשונה במסגרת סיעת מפ״ם, כפי שמתועד ברשימת הסיעה הרשמית באתר הכנסת. פירושו האטימולוגי של שם המשפחה רפטור טרם אומת.",
+    "sources": [
+      {
+        "title": "אתר הכנסת — רשימת חברי מפ״ם בכנסת הראשונה: ברל רפטור (תיעוד כהונה, לא אטימולוגיה)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. התיעוד מאמת את שם המשפחה ואת כהונת חבר/ת הכנסת, אך אינו מספק פירוש אטימולוגי. אין להציג משמעות משוערת כעובדה."
   }
 ]
