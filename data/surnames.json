@@ -2753,5 +2753,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "מסמך הכנסת מאמת הופעה ברשימת מועמדים, לא בהכרח כהונה בפועל; אין להשתמש בו לבדו כהוכחה לכהונה. האטימולוגיה טרם אומתה."
+  },
+  {
+    "id": "ben-zvi",
+    "name": "בן־צבי",
+    "latin": "Ben-Zvi",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יצחק בן־צבי כיהן/ה בכנסת הראשונה מטעם מפא״י. רשימת חברי הכנסת הראשונה מתעדת את הכהונה, אך אינה מוכיחה את מקורו האטימולוגי של שם המשפחה.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — יצחק בן־צבי (תיעוד כהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם."
+  },
+  {
+    "id": "vilner",
+    "name": "וילנר",
+    "latin": "Vilner",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מאיר וילנר כיהן/ה בכנסת הראשונה מטעם מק״י. רשימת חברי הכנסת הראשונה מתעדת את הכהונה, אך אינה מוכיחה את מקורו האטימולוגי של שם המשפחה.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — מאיר וילנר (תיעוד כהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם."
+  },
+  {
+    "id": "mikunis",
+    "name": "מיקוניס",
+    "latin": "Mikunis",
+    "status": "unknown",
+    "meaning": null,
+    "history": "שמואל מיקוניס כיהן/ה בכנסת הראשונה מטעם מק״י. רשימת חברי הכנסת הראשונה מתעדת את הכהונה, אך אינה מוכיחה את מקורו האטימולוגי של שם המשפחה.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — שמואל מיקוניס (תיעוד כהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם."
+  },
+  {
+    "id": "cohen-kagan",
+    "name": "כהן־כגן",
+    "latin": "Cohen-Kagan",
+    "status": "unknown",
+    "meaning": null,
+    "history": "רחל כהן־כגן כיהן/ה בכנסת הראשונה מטעם ויצו. רשימת חברי הכנסת הראשונה מתעדת את הכהונה, אך אינה מוכיחה את מקורו האטימולוגי של שם המשפחה.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה — רחל כהן־כגן (תיעוד כהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם."
   }
 ]
