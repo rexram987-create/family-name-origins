@@ -2677,5 +2677,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "פרויקט הכנסת הראשונה: מקור חברי הסיעה נשען על נתוני הכנסת ומאמת השתייכות היסטורית, לא מקור אטימולוגי. אין להסיק מקור שם משפחה או קשר משפחתי ממשמעות מילולית משוערת."
+  },
+  {
+    "id": "bernstein",
+    "name": "ברנשטיין",
+    "latin": "Bernstein",
+    "status": "unknown",
+    "meaning": null,
+    "history": "פרץ ברנשטיין נכלל/ה ברשימת מועמדי הציונים הכלליים לאספה המכוננת (הכנסת הראשונה), במסמך היסטורי של הכנסת. משמעות שם המשפחה ברנשטיין טרם אומתה במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "ארכיון הכנסת — רשימת מועמדי הציונים הכלליים לאספה המכוננת: פרץ ברנשטיין (תיעוד מועמדות בלבד)",
+        "url": "https://main.knesset.gov.il/News/PressReleases/Documents/130113.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מסמך הכנסת מאמת הופעה ברשימת מועמדים, לא בהכרח כהונה בפועל; אין להשתמש בו לבדו כהוכחה לכהונה. האטימולוגיה טרם אומתה."
+  },
+  {
+    "id": "rokach",
+    "name": "רוקח",
+    "latin": "Rokach",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ישראל רוקח נכלל/ה ברשימת מועמדי הציונים הכלליים לאספה המכוננת (הכנסת הראשונה), במסמך היסטורי של הכנסת. משמעות שם המשפחה רוקח טרם אומתה במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "ארכיון הכנסת — רשימת מועמדי הציונים הכלליים לאספה המכוננת: ישראל רוקח (תיעוד מועמדות בלבד)",
+        "url": "https://main.knesset.gov.il/News/PressReleases/Documents/130113.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מסמך הכנסת מאמת הופעה ברשימת מועמדים, לא בהכרח כהונה בפועל; אין להשתמש בו לבדו כהוכחה לכהונה. האטימולוגיה טרם אומתה."
+  },
+  {
+    "id": "persitz",
+    "name": "פרסיץ",
+    "latin": "Persitz",
+    "status": "unknown",
+    "meaning": null,
+    "history": "שושנה פרסיץ נכלל/ה ברשימת מועמדי הציונים הכלליים לאספה המכוננת (הכנסת הראשונה), במסמך היסטורי של הכנסת. משמעות שם המשפחה פרסיץ טרם אומתה במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "ארכיון הכנסת — רשימת מועמדי הציונים הכלליים לאספה המכוננת: שושנה פרסיץ (תיעוד מועמדות בלבד)",
+        "url": "https://main.knesset.gov.il/News/PressReleases/Documents/130113.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מסמך הכנסת מאמת הופעה ברשימת מועמדים, לא בהכרח כהונה בפועל; אין להשתמש בו לבדו כהוכחה לכהונה. האטימולוגיה טרם אומתה."
+  },
+  {
+    "id": "sapir",
+    "name": "ספיר",
+    "latin": "Sapir",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יוסף ספיר נכלל/ה ברשימת מועמדי הציונים הכלליים לאספה המכוננת (הכנסת הראשונה), במסמך היסטורי של הכנסת. משמעות שם המשפחה ספיר טרם אומתה במסגרת הוספה זו.",
+    "sources": [
+      {
+        "title": "ארכיון הכנסת — רשימת מועמדי הציונים הכלליים לאספה המכוננת: יוסף ספיר (תיעוד מועמדות בלבד)",
+        "url": "https://main.knesset.gov.il/News/PressReleases/Documents/130113.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מסמך הכנסת מאמת הופעה ברשימת מועמדים, לא בהכרח כהונה בפועל; אין להשתמש בו לבדו כהוכחה לכהונה. האטימולוגיה טרם אומתה."
   }
 ]
