@@ -1976,5 +1976,82 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "כנסת ראשונה: גולדה מאיר. שני המקורות הם ערכים קרובים מאותו מאגר אנו, ואינם שני מחקרים בלתי תלויים. המקורות מאמתים את משמעות השם מאיר ואת שימושו כשם משפחה; אינם לבדם אסמכתה למועד עברות שם משפחתה של גולדה מאיר."
+  },
+  {
+    "id": "sharett",
+    "name": "שרת",
+    "latin": "Sharett",
+    "status": "verified",
+    "meaning": "שם עברי מן הפועל לשרת — למלא תפקיד או לשרת.",
+    "history": "משה שרת, חבר הכנסת הראשונה ושר החוץ הראשון, נולד בשם שרתוק (Shertok/Chertok) ועִברת את שמו לשרת לאחר קום המדינה.",
+    "sources": [
+      {
+        "title": "הכנסת — משה שרת (שרתוק), כיהן בכנסת הראשונה",
+        "url": "https://main.knesset.gov.il/EN/About/Lexicon/Pages/sharett.aspx"
+      },
+      {
+        "title": "Ukrainian Jewish Encounter — משמעות השם שרת ועברות שרתוק",
+        "url": "https://ukrainianjewishencounter.org/en/moshe-sharett-1894-1965/"
+      },
+      {
+        "title": "Munzinger — שינוי השם משרתוק לשרת והפועל העברי לשרת",
+        "url": "https://www.munzinger.de/register/portrait/biographien/sharett%20moshe/00/1810"
+      }
+    ],
+    "linguisticOrigin": "עברית מודרנית (שם מעוברת)",
+    "historicalCommunities": "ישראל",
+    "geographicAssociation": "ישראל",
+    "alternateSpellings": [
+      "Sharet"
+    ],
+    "metadataNote": "כנסת ראשונה: משה שרת. שרת הוא שם שאומץ במקום שרתוק; המשמעות העברית מתועדת, אך אין להסיק ממנה את האטימולוגיה של השם הקודם שרתוק."
+  },
+  {
+    "id": "begin",
+    "name": "בגין",
+    "latin": "Begin",
+    "status": "verified",
+    "meaning": "במסורת יהודית מבלארוס: גרסה של Begun, כינוי ל'רץ' או לאדם שהולך במהירות. לכתיב Begin יש גם מקורות צרפתיים נפרדים.",
+    "history": "מנחם בגין היה חבר הכנסת הראשונה. לפי Dictionary of American Family Names, לכתיב Begin יש מקור יהודי מבלארוס כגרסה של Begun, לצד מקורות צרפתיים נפרדים; אין להסיק מהערך לבדו איזו אפשרות חלה על משפחה מסוימת.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Begin",
+        "url": "https://www.ancestry.com/last-name-meaning/begin?geo-lang=en"
+      },
+      {
+        "title": "Dictionary of American Family Names (2022) — Begun",
+        "url": "https://www.ancestry.com/last-name-meaning/begun"
+      }
+    ],
+    "linguisticOrigin": "בלארוסית (יהודי); גם צרפתית במקרים אחרים",
+    "historicalCommunities": "יהודים ממזרח אירופה; משפחות צרפתיות",
+    "geographicAssociation": "בלארוס; צרפת",
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: מנחם בגין. שני הקישורים הם ערכים מאותו מילון ואינם שני מקורות מחקר עצמאיים. משמעות 'רץ' נובעת מן הערך Begun שאליו מפנה הערך Begin; אין להשליך אטימולוגיה אחת על כל נושאי השם."
+  },
+  {
+    "id": "sprinzak",
+    "name": "שפרינצק",
+    "latin": "Sprinzak",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יוסף שפרינצק היה חבר הכנסת הראשונה ויושב הראש הראשון של הכנסת. שם המשפחה מתועד גם בכתיב Shprinzak; פירושו האטימולוגי טרם אומת.",
+    "sources": [
+      {
+        "title": "יוסף שפרינצק — תיעוד ביוגרפי ותפקידו כיו״ר הכנסת הראשון (לא מקור אטימולוגי)",
+        "url": "https://en.wikipedia.org/wiki/Yosef_Sprinzak"
+      },
+      {
+        "title": "Sprinzak — תיעוד הכתיב ושמות נושאים (לא מקור אטימולוגי)",
+        "url": "https://en.wikipedia.org/wiki/Sprinzak"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": "יהודים ממזרח אירופה",
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "Shprinzak"
+    ],
+    "metadataNote": "כנסת ראשונה: יוסף שפרינצק. לא נמצא מקור אטימולוגי אמין בשלב זה; אין לגזור פירוש משמות פרטיים דומים או מכתיב השם."
   }
 ]
