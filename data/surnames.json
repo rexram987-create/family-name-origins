@@ -2981,5 +2981,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מאמת את שם חבר הכנסת וכהונתו בלבד; אינו מאמת משמעות או מוצא לשוני של שם המשפחה."
+  },
+  {
+    "id": "kalmer",
+    "name": "קלמר",
+    "latin": "Kalmer",
+    "status": "unknown",
+    "meaning": null,
+    "history": "משה קלמר כיהן בכנסת הראשונה. מקור שם המשפחה קלמר לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — מקור לזיהוי ולכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בלבד ואינו מאמת פירוש אטימולוגי. יש להצליב בהמשך מול רשומות הכנסת הראשוניות."
+  },
+  {
+    "id": "sneh",
+    "name": "סנה",
+    "latin": "Sneh",
+    "status": "unknown",
+    "meaning": null,
+    "history": "משה סנה כיהן בכנסת הראשונה. מקור שם המשפחה סנה לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — מקור לזיהוי ולכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בלבד ואינו מאמת פירוש אטימולוגי. יש להצליב בהמשך מול רשומות הכנסת הראשוניות."
+  },
+  {
+    "id": "klivnov",
+    "name": "קליבנוב",
+    "latin": "Klivnov",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יעקב קליבנוב כיהן בכנסת הראשונה. מקור שם המשפחה קליבנוב לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — מקור לזיהוי ולכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בלבד ואינו מאמת פירוש אטימולוגי. יש להצליב בהמשך מול רשומות הכנסת הראשוניות."
+  },
+  {
+    "id": "serlin",
+    "name": "סרלין",
+    "latin": "Serlin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יוסף סרלין כיהן בכנסת הראשונה. מקור שם המשפחה סרלין לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — מקור לזיהוי ולכהונה בלבד",
+        "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד כהונה בלבד ואינו מאמת פירוש אטימולוגי. יש להצליב בהמשך מול רשומות הכנסת הראשוניות."
   }
 ]
