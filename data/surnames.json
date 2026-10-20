@@ -2829,5 +2829,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מתעד את זהות חבר/ת הכנסת ואת הסיעה, לא את האטימולוגיה של שם המשפחה. אין להסיק ייחוס משפחתי מן השם."
+  },
+  {
+    "id": "unna",
+    "name": "אונא",
+    "latin": "Unna",
+    "status": "unknown",
+    "meaning": null,
+    "history": "משה אונא כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה אונא לא אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה: משה אונא (מקור לכהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את השתייכות חבר הכנסת לסיעה ואת השם; אינו מקור אטימולוגי. לא להסיק משמעות משם דומה או ממילה מילונית."
+  },
+  {
+    "id": "warhaftig",
+    "name": "ורהפטיג",
+    "latin": "Warhaftig",
+    "status": "unknown",
+    "meaning": null,
+    "history": "זרח ורהפטיג כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה ורהפטיג לא אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה: זרח ורהפטיג (מקור לכהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את השתייכות חבר הכנסת לסיעה ואת השם; אינו מקור אטימולוגי. לא להסיק משמעות משם דומה או ממילה מילונית."
+  },
+  {
+    "id": "nurock",
+    "name": "נורוק",
+    "latin": "Nurock",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מרדכי נורוק כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה נורוק לא אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה: מרדכי נורוק (מקור לכהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את השתייכות חבר הכנסת לסיעה ואת השם; אינו מקור אטימולוגי. לא להסיק משמעות משם דומה או ממילה מילונית."
+  },
+  {
+    "id": "shag",
+    "name": "שאג",
+    "latin": "Shag",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם חיים שאג כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. מקור שם המשפחה שאג לא אומת במקור אטימולוגי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — החזית הדתית המאוחדת בכנסת הראשונה: אברהם חיים שאג (מקור לכהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מאמת את השתייכות חבר הכנסת לסיעה ואת השם; אינו מקור אטימולוגי. לא להסיק משמעות משם דומה או ממילה מילונית."
   }
 ]
