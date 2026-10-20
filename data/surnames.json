@@ -3377,5 +3377,97 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מציין כהונה בכנסת הראשונה בלבד. פירוש ומקור שם המשפחה לא אומתו, ואין להסיקם מדמיון למילים עבריות."
+  },
+  {
+    "id": "azania",
+    "name": "אזניה",
+    "latin": "Azania",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ברוך אזניה היה חבר הכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה אזניה טרם אומתה במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — הכנסת הראשונה (רקע היסטורי)",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות הכהונה אינם אסמכתה אטימולוגית; משמעות השם ומוצאו לא אומתו."
+  },
+  {
+    "id": "efrati",
+    "name": "אפרתי",
+    "latin": "Efrati",
+    "status": "unknown",
+    "meaning": null,
+    "history": "יוסף אפרתי היה חבר הכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה אפרתי טרם אומתה במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — הכנסת הראשונה (רקע היסטורי)",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות הכהונה אינם אסמכתה אטימולוגית; משמעות השם ומוצאו לא אומתו."
+  },
+  {
+    "id": "bar-rav-hai",
+    "name": "בר־רב־האי",
+    "latin": "Bar-Rav-Hai",
+    "status": "unknown",
+    "meaning": null,
+    "history": "דוד בר־רב־האי היה חבר הכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה בר־רב־האי טרם אומתה במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — הכנסת הראשונה (רקע היסטורי)",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות הכהונה אינם אסמכתה אטימולוגית; משמעות השם ומוצאו לא אומתו."
+  },
+  {
+    "id": "govrin",
+    "name": "גוברין",
+    "latin": "Govrin",
+    "status": "unknown",
+    "meaning": null,
+    "history": "עקיבא גוברין היה חבר הכנסת הראשונה מטעם מפא״י. האטימולוגיה של שם המשפחה גוברין טרם אומתה במקור מחקרי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי מפא״י בכנסת הראשונה — זיהוי וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/מפא%22י"
+      },
+      {
+        "title": "אתר הכנסת — הכנסת הראשונה (רקע היסטורי)",
+        "url": "https://main.knesset.gov.il/About/History/pages/knessethistory.aspx?kns=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות הכהונה אינם אסמכתה אטימולוגית; משמעות השם ומוצאו לא אומתו."
   }
 ]
