@@ -2053,5 +2053,103 @@
       "Shprinzak"
     ],
     "metadataNote": "כנסת ראשונה: יוסף שפרינצק. לא נמצא מקור אטימולוגי אמין בשלב זה; אין לגזור פירוש משמות פרטיים דומים או מכתיב השם."
+  },
+  {
+    "id": "shazar",
+    "name": "שזר",
+    "latin": "Shazar",
+    "status": "verified",
+    "meaning": "ראשי תיבות של השם שניאור זלמן רובשוב.",
+    "history": "שניאור זלמן רובשוב אימץ את השם שז״ר מראשי התיבות של שמו המלא. הוא כיהן בכנסת הראשונה כשר החינוך והתרבות ולימים היה נשיא המדינה השלישי.",
+    "sources": [
+      {
+        "title": "ארכיון משרד הביטחון — זלמן שזר: מקור ראשי התיבות",
+        "url": "https://archives.mod.gov.il/FocusOn/Pages/191014.aspx"
+      },
+      {
+        "title": "מרכז זלמן שזר — כהונה בכנסת הראשונה",
+        "url": "https://www.shazar.org.il/personal-lives/%D7%9E%D7%99-%D7%94%D7%99%D7%94-%D7%96%D7%9C%D7%9E%D7%9F-%D7%A9%D7%96%D7%A8/"
+      }
+    ],
+    "linguisticOrigin": "עברית (ראשי תיבות של שם פרטי ושם משפחה)",
+    "historicalCommunities": "ישראל",
+    "geographicAssociation": "ישראל",
+    "alternateSpellings": [
+      "Shazar"
+    ],
+    "metadataNote": "כנסת ראשונה: שניאור זלמן שזר (רובשוב). זהו שם שאומץ על ידי האדם עצמו, ולא פירוש מילוני קדום של משפחת רובשוב."
+  },
+  {
+    "id": "rosen",
+    "name": "רוזן",
+    "latin": "Rosen",
+    "status": "verified",
+    "meaning": "במסורת האשכנזית: 'ורדים' בגרמנית; לכתיב זה מקורות נוספים.",
+    "history": "פנחס רוזן כיהן בכנסת הראשונה כשר המשפטים. המילון מתעד את Rosen כשם קישוטי יהודי מגרמנית, אך גם כמקור שוודי, גרמני או אנגלי אחר; אין לקבוע מן הכתיב לבדו את מקור המשפחה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Rosen",
+        "url": "https://www.ancestry.com/last-name-meaning/Rosen"
+      },
+      {
+        "title": "הכנסת — הרכב הממשלה הראשונה (פנחס רוזן)",
+        "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
+      }
+    ],
+    "linguisticOrigin": "גרמנית יהודית; גם שוודית, גרמנית ואנגלית במקורות אחרים",
+    "historicalCommunities": "אשכנז; קהילות אירופיות נוספות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: פנחס רוזן. מקור הכהונה נפרד מן המקור האטימולוגי; Rosen אינו בהכרח זהה ל־Rozen בעברית ('רוזן' במובן אציל). אין להסיק מוצא אישי."
+  },
+  {
+    "id": "burg",
+    "name": "בורג",
+    "latin": "Burg",
+    "status": "verified",
+    "meaning": "בגרמנית: מבצר או טירה; במקורות אחרים שם מקום, קיצור שם פרטי או גרסה של Burger.",
+    "history": "יוסף בורג כיהן בכנסת הראשונה מטעם החזית הדתית המאוחדת. המילון מתעד כמה מקורות לשם Burg, ובהם גרמני, הולנדי ויהודי; אין ראיה שהפירוש הגרמני דווקא חל על משפחתו.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Burg",
+        "url": "https://www.ancestry.com/last-name-meaning/burg"
+      },
+      {
+        "title": "הכנסת — חברי סיעת החזית הדתית המאוחדת בכנסת הראשונה",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=131&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": "גרמנית; גם הולנדית ויהודית במקורות אחרים",
+    "historicalCommunities": "קהילות גרמניות, הולנדיות ויהודיות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: יוסף בורג. פירוש 'מבצר' הוא אחת האפשרויות במילון, לא אטימולוגיה מאומתת של משפחת חבר הכנסת."
+  },
+  {
+    "id": "remez",
+    "name": "רמז",
+    "latin": "Remez",
+    "status": "unknown",
+    "meaning": null,
+    "history": "דוד רמז, חבר הכנסת הראשונה ושר התחבורה הראשון, נולד בשם משה דוד דרבקין. המקורות מתעדים את השם רמז ואת שינוי השם, אך אינם מבססים די הצורך את האטימולוגיה של שם המשפחה.",
+    "sources": [
+      {
+        "title": "פרויקט בן־יהודה — תולדות דוד רמז (שם הלידה דרבקין)",
+        "url": "https://benyehuda.org/read/66995"
+      },
+      {
+        "title": "בית אבי חי — דוד רמז ושם המשפחה של אשתו",
+        "url": "https://www.bac.org.il/blog/?postID=12874"
+      },
+      {
+        "title": "הכנסת — הממשלה הראשונה, דוד רמז שר התחבורה",
+        "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": "ישראל",
+    "geographicAssociation": "ישראל",
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: דוד רמז. בית אבי חי מציין שאימץ את שם המשפחה של אשתו. אין להציג את משמעות המילה העברית 'רמז' כהסבר מוכח להיווצרות שם המשפחה."
   }
 ]
