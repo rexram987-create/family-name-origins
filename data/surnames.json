@@ -2151,5 +2151,51 @@
     "geographicAssociation": "ישראל",
     "alternateSpellings": [],
     "metadataNote": "כנסת ראשונה: דוד רמז. בית אבי חי מציין שאימץ את שם המשפחה של אשתו. אין להציג את משמעות המילה העברית 'רמז' כהסבר מוכח להיווצרות שם המשפחה."
+  },
+  {
+    "id": "yosef",
+    "name": "יוסף",
+    "latin": "Yosef",
+    "status": "verified",
+    "meaning": "מן השם הפרטי המקראי יוסף; קיימות מסורות שימוש נוספות בשם.",
+    "history": "דב יוסף היה חבר הכנסת הראשונה וכיהן כשר בממשלה הראשונה. מילון שמות המשפחה מתעד את Yosef כגרסה יהודית של Joseph וכן כשם ממסורות אתיופיות ואשוריות־כלדיות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Yosef",
+        "url": "https://www.ancestry.com/last-name-meaning/yosef"
+      },
+      {
+        "title": "הכנסת — הממשלה הראשונה: דב יוסף",
+        "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
+      }
+    ],
+    "linguisticOrigin": "עברית (שם פרטי מקראי); מסורות נוספות",
+    "historicalCommunities": "יהודיות, אתיופיות ואשוריות־כלדיות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: דב יוסף. מקור הכהונה הוא אתר הכנסת; מקור האטימולוגיה הוא Dictionary of American Family Names. אין להסיק את מוצאו של חבר הכנסת מפירושי שם המשפחה האפשריים."
+  },
+  {
+    "id": "levin",
+    "name": "לוין",
+    "latin": "Levin",
+    "status": "verified",
+    "meaning": "במסורת יהודית: לעיתים גרסה של לוי עם הסיומת הסלאבית ־ין; קיימים גם מקורות אחרים.",
+    "history": "יצחק מאיר לוין היה חבר הכנסת הראשונה ושר הסעד בממשלה הראשונה. המילון מתעד ל־Levin כמה מקורות: יהודי־סלאבי מן לוי, שם פרטי גרמני, שם רוסי פטרונימי, ולעיתים כינוי הקשור לאריה.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Levin",
+        "url": "https://www.ancestry.com/last-name-meaning/Levin?geo-lang=en"
+      },
+      {
+        "title": "הכנסת — הממשלה הראשונה: יצחק מאיר לוין",
+        "url": "https://main.knesset.gov.il/en/mk/government/Pages/governments.aspx?govid=1"
+      }
+    ],
+    "linguisticOrigin": "יהודית־סלאבית; גרמנית ורוסית במקרים אחרים",
+    "historicalCommunities": "קהילות יהודיות באירופה; קהילות נוספות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: יצחק מאיר לוין. אין להניח שכל Levin נגזר מלוי, ואין להסיק ייחוס שבטי. השם Lavsky אינו גרסה מאומתת של Levin."
   }
 ]
