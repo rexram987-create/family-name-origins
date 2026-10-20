@@ -2310,5 +2310,85 @@
       "Kahane"
     ],
     "metadataNote": "Kahana ו־Kahane מתועדים באותו מילון, ולכן אינם שני מחקרים עצמאיים. השם אינו מוכיח ייחוס כהונה של אדם או משפחה."
+  },
+  {
+    "id": "hazan",
+    "name": "חזן",
+    "latin": "Hazan",
+    "status": "verified",
+    "meaning": "שם מקצועי יהודי: חזן בבית כנסת.",
+    "history": "יעקב חזן היה חבר הכנסת הראשונה מטעם מפ״ם. מילון שמות המשפחה האמריקאי מתעד את Hazan כשם מקצועי מן המילה העברית חזן. אין להסיק מן השם שכל משפחה עסקה בחזנות.",
+    "sources": [
+      {
+        "title": "Dictionary of American Family Names (2022) — Hazan",
+        "url": "https://www.ancestry.com/last-name-meaning/hazan?geo-lang=en-US"
+      },
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה (יעקב חזן)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": "עברית (שם מקצועי)",
+    "historicalCommunities": "קהילות יהודיות",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "כנסת ראשונה: יעקב חזן. מקור המילון מאמת משמעות כללית של שם המשפחה, לא את תולדות משפחת חבר הכנסת."
+  },
+  {
+    "id": "zisling",
+    "name": "ציזלינג",
+    "latin": "Zisling",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אהרן ציזלינג כיהן בכנסת הראשונה מטעם מפ״ם. מקור השם ציזלינג לא אומת במקור אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה (אהרן ציזלינג; תיעוד כהונה בלבד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "אין לייחס את השם למילה דומה בגרמנית או ביידיש ללא מקור אטימולוגי ישיר."
+  },
+  {
+    "id": "bentov",
+    "name": "בנטוב",
+    "latin": "Bentov",
+    "status": "unknown",
+    "meaning": null,
+    "history": "מרדכי בנטוב (גוטגלד) היה חבר הכנסת הראשונה מטעם מפ״ם. השם בנטוב מתועד כשם שאימץ, אך מקורו האטימולוגי המדויק טרם אומת במקור מחקרי מתאים.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה (מרדכי בנטוב, גוטגלד)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": "ישראל",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "אין להסתמך על תיאור AI של Ancestry כראיה אטימולוגית לשם Bentov; משמעות מילולית אפשרית אינה הוכחה לסיבת בחירת השם."
+  },
+  {
+    "id": "galili",
+    "name": "גלילי",
+    "latin": "Galili",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ישראל גלילי (ברצ׳נקו) כיהן בכנסת הראשונה מטעם מפ״ם. המילה גלילי בעברית עשויה לציין אדם הקשור לגליל, אך מקור בחירת שם משפחתו לא אומת כאן.",
+    "sources": [
+      {
+        "title": "הכנסת — חברי מפ״ם בכנסת הראשונה (ישראל גלילי, ברצ׳נקו)",
+        "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": "ישראל",
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המשמעות המילונית של התואר גלילי אינה מספיקה כדי להוכיח את האטימולוגיה של שם המשפחה או את מניעי עברות השם."
   }
 ]
