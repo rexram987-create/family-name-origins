@@ -4049,5 +4049,81 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מאמת זהות וחברות בכנסת הראשונה בלבד; אין בו אימות למשמעות שם המשפחה."
+  },
+  {
+    "id": "bar-nir",
+    "name": "בר־ניר",
+    "latin": "Bar-Nir",
+    "status": "unknown",
+    "meaning": null,
+    "history": "דב בר־ניר כיהן בכנסת הראשונה מטעם מפ״ם. מקור שם המשפחה בר־ניר לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברים לפי סיעות (לזיהוי ולכהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את כהונת חבר הכנסת בלבד, ואינו אסמכתה לפירוש האטימולוגי של שם המשפחה."
+  },
+  {
+    "id": "bar-yehuda",
+    "name": "בר־יהודה",
+    "latin": "Bar-Yehuda",
+    "status": "unknown",
+    "meaning": null,
+    "history": "ישראל בר־יהודה כיהן בכנסת הראשונה מטעם מפ״ם. מקור שם המשפחה בר־יהודה לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברים לפי סיעות (לזיהוי ולכהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את כהונת חבר הכנסת בלבד, ואינו אסמכתה לפירוש האטימולוגי של שם המשפחה."
+  },
+  {
+    "id": "yellin-mor",
+    "name": "ילין־מור",
+    "latin": "Yellin-Mor",
+    "status": "unknown",
+    "meaning": null,
+    "history": "נתן ילין־מור כיהן בכנסת הראשונה מטעם רשימת הלוחמים. מקור שם המשפחה ילין־מור לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברים לפי סיעות (לזיהוי ולכהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את כהונת חבר הכנסת בלבד, ואינו אסמכתה לפירוש האטימולוגי של שם המשפחה."
+  },
+  {
+    "id": "el-zoubi",
+    "name": "א־זועבי",
+    "latin": "El-Zoubi",
+    "status": "unknown",
+    "meaning": null,
+    "history": "סיף א־דין א־זועבי כיהן בכנסת הראשונה מטעם הרשימה הדמוקרטית של נצרת. מקור שם המשפחה א־זועבי לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "חברי הכנסת הראשונה — רשימת חברים לפי סיעות (לזיהוי ולכהונה בלבד)",
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_first_Knesset"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "המקור מתעד את כהונת חבר הכנסת בלבד, ואינו אסמכתה לפירוש האטימולוגי של שם המשפחה."
   }
 ]
