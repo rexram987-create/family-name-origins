@@ -2574,22 +2574,26 @@
     "id": "ben-aharon",
     "name": "בן־אהרן",
     "latin": "Ben-Aharon",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "בן אהרן — שם משפחה פטרונימי, כלומר שם הנגזר מן השם הפרטי אהרן של אב או אב קדום.",
     "history": "יצחק בן־אהרן כיהן בכנסת הראשונה. בנאום בכנסת לציון חמישים שנה לכינונה (1998) הוא נמנה במפורש עם חברי הכנסת הראשונה. האטימולוגיה או נסיבות אימוץ שם המשפחה בן־אהרן לא אומתו כאן.",
     "sources": [
+      {
+        "title": "מוזיאון אנו — ARONOVICH: מקבילה לשם העברי בן אהרן ('בנו של אהרן')",
+        "url": "https://dbs.anumuseum.org.il/skn/en/c6/e216972/Family_Name/ARONOVICH"
+      },
       {
         "title": "הכנסת — ישיבה מיוחדת לציון יום כינון הכנסת (1998): יצחק בן־אהרן נמנה עם חברי הכנסת הראשונה; תיעוד כהונה בלבד",
         "url": "https://main.knesset.gov.il/About/Occasion/pages/birthday/sitting.aspx?yr=1998"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "עברית; שם פטרונימי",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [
       "Ben Aharon"
     ],
-    "metadataNote": "נוסף במסגרת פרויקט הכנסת הראשונה. משמעות מילולית אפשרית של בן־אהרן אינה מוכיחה מקור שם משפחה מסוים או ייחוס לאהרן הכהן."
+    "metadataNote": "המקור במוזיאון אנו מתייחס במפורש לבן אהרן כמקבילה עברית לשמות פטרונימיים. זהו פירוש דגם השם, לא הוכחה לייחוס משפחתי של יצחק בן־אהרן."
   },
   {
     "id": "harari",
