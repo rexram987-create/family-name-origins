@@ -3805,5 +3805,97 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות."
+  },
+  {
+    "id": "gloska",
+    "name": "גלוסקא",
+    "latin": "Glosca",
+    "status": "unknown",
+    "meaning": null,
+    "history": "זכריה גלוסקא כיהן בכנסת הראשונה מטעם התאחדות התימנים בישראל. מקור שם המשפחה גלוסקא לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — לאימות זהות וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      },
+      {
+        "title": "פרוטוקול הכנסת הראשונה — רשימת חברי הכנסת בהצבעה",
+        "url": "https://fs.knesset.gov.il/1/Plenum/1_ptm_250182.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות אלה מאמתים חברות בכנסת הראשונה ולא את המשמעות או המקור הלשוני של שם המשפחה."
+  },
+  {
+    "id": "elishar",
+    "name": "אלישר",
+    "latin": "Elishar",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אליהו אלישר כיהן בכנסת הראשונה מטעם ספרדים ועדות המזרח. מקור שם המשפחה אלישר לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — לאימות זהות וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      },
+      {
+        "title": "פרוטוקול הכנסת הראשונה — רשימת חברי הכנסת בהצבעה",
+        "url": "https://fs.knesset.gov.il/1/Plenum/1_ptm_250182.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות אלה מאמתים חברות בכנסת הראשונה ולא את המשמעות או המקור הלשוני של שם המשפחה."
+  },
+  {
+    "id": "elmalih",
+    "name": "אלמליח",
+    "latin": "Elmalih",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם אלמליח כיהן בכנסת הראשונה מטעם ספרדים ועדות המזרח. מקור שם המשפחה אלמליח לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — לאימות זהות וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      },
+      {
+        "title": "פרוטוקול הכנסת הראשונה — רשימת חברי הכנסת בהצבעה",
+        "url": "https://fs.knesset.gov.il/1/Plenum/1_ptm_250182.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות אלה מאמתים חברות בכנסת הראשונה ולא את המשמעות או המקור הלשוני של שם המשפחה."
+  },
+  {
+    "id": "granot",
+    "name": "גרנות",
+    "latin": "Granot",
+    "status": "unknown",
+    "meaning": null,
+    "history": "אברהם גרנות כיהן בכנסת הראשונה מטעם המפלגה הפרוגרסיבית. מקור שם המשפחה גרנות לא אומת במחקר אטימולוגי ייעודי.",
+    "sources": [
+      {
+        "title": "רשימת חברי הכנסת הראשונה לפי סיעות — לאימות זהות וכהונה בלבד",
+        "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
+      },
+      {
+        "title": "פרוטוקול הכנסת הראשונה — רשימת חברי הכנסת בהצבעה",
+        "url": "https://fs.knesset.gov.il/1/Plenum/1_ptm_250182.pdf"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [],
+    "metadataNote": "מקורות אלה מאמתים חברות בכנסת הראשונה ולא את המשמעות או המקור הלשוני של שם המשפחה."
   }
 ]
