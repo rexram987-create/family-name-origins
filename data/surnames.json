@@ -3877,10 +3877,14 @@
     "id": "tversky",
     "name": "טברסקי",
     "latin": "Tversky",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה אשכנזי גאוגרפי. לפי Dictionary of American Family Names, ייתכן שנגזר ממקום בשם Tvery בליטא או מן השם ביידיש של טבריה, Tverye. אין להסיק שהאפשרות של טבריה חלה על כל נושא השם.",
     "history": "בכנסת הראשונה כיהנו חברי כנסת ובהם ז׳ניה טברסקי, מטעם מפא״י. אין בידינו אסמכתה מחקרית מספקת לפירוש האטימולוגי של שם המשפחה טברסקי.",
     "sources": [
+      {
+        "title": "Dictionary of American Family Names — Twerski, באמצעות FamilySearch",
+        "url": "https://www.familysearch.org/en/surname?surname=TWERSKI"
+      },
       {
         "title": "חברי הכנסת הראשונה — רשימת חברי הכנסת לפי סיעה (אימות חברות בלבד)",
         "url": "https://he.wikipedia.org/wiki/הכנסת_הראשונה"
@@ -3890,11 +3894,11 @@
         "url": "https://main.knesset.gov.il/mk/apps/mkprevious/main/previous-knesset-mks/all-previous-mks"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "יידיש ומזרח אירופה; שם מוצא גאוגרפי",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות."
+    "metadataNote": "המקורות מאמתים זהות וכהונה, ולא אטימולוגיה; יש להשלים מקור ייעודי לפני קביעת משמעות. אטימולוגיית שם המשפחה הכללית מתועדת; אין להסיק קשר גנאלוגי אישי למקום מסוים."
   },
   {
     "id": "kanev",
@@ -4076,20 +4080,24 @@
     "id": "recanati",
     "name": "רקנאטי",
     "latin": "Recanati",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה שמקורו בשם העיר רקנאטי (Recanati) שבאיטליה. אנציקלופדיה יהודית היסטורית מתעדת משפחה יהודית ששמה נגזר מהעיר.",
     "history": "אברהם רקנאטי כיהן בכנסת הראשונה מטעם תנועת החרות. מקורו האטימולוגי של שם המשפחה רקנאטי לא אומת במחקר ייעודי.",
     "sources": [
+      {
+        "title": "Jewish Encyclopedia — Recanati, משפחה ששמה נגזר מהעיר",
+        "url": "https://www.jewishencyclopedia.com/articles/12615-recanati"
+      },
       {
         "title": "חברי הכנסת הראשונה לפי סיעות — זיהוי וכהונה בלבד",
         "url": "https://www.hamichlol.org.il/תבנית:חברי_הכנסת_הראשונה"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "איטלקית; שם מוצא גאוגרפי",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו."
+    "metadataNote": "מקור רשימת חברי הכנסת אינו מקור אטימולוגי; משמעות השם ומוצאו טרם אומתו. אטימולוגיית שם המשפחה הכללית מתועדת; אין להסיק קשר גנאלוגי אישי למקום מסוים."
   },
   {
     "id": "lankin",
@@ -4342,20 +4350,24 @@
     "id": "livshitz",
     "name": "ליבשיץ",
     "latin": "Livshitz",
-    "status": "unknown",
-    "meaning": null,
+    "status": "verified",
+    "meaning": "שם משפחה טופונימי, הקשור לשמות של יישובים במרכז אירופה: בין היתר ליבשוץ באזור תורינגיה, ליפשיץ באזור ויימר ולובשיץ בשלזיה. לא ניתן להכריע מהו היישוב הקשור למשפחה מסוימת.",
     "history": "בכנסת הראשונה כיהנו חברי כנסת ובהם דוד ליבשיץ, מטעם מפ״ם. האטימולוגיה של שם המשפחה ליבשיץ לא אומתה במקור ייעודי.",
     "sources": [
+      {
+        "title": "מוזיאון אנו — מקור השם ליפשיץ",
+        "url": "https://dbs.anumuseum.org.il/skn/he/c6/e211720/שם_משפחה/ליפשיץ"
+      },
       {
         "title": "תיעוד חברי הכנסת הראשונה — דוד ליבשיץ (כהונה בלבד)",
         "url": "https://main.knesset.gov.il/mk/apps/faction/faction-lobby?FactionID=105&KnessetID=1"
       }
     ],
-    "linguisticOrigin": null,
+    "linguisticOrigin": "אשכנזי; שם מוצא גאוגרפי",
     "historicalCommunities": null,
     "geographicAssociation": null,
     "alternateSpellings": [],
-    "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה."
+    "metadataNote": "המקור מתעד כהונה בכנסת הראשונה ואינו אסמכתה למקור או למשמעות שם המשפחה. אטימולוגיית שם המשפחה הכללית מתועדת; אין להסיק קשר גנאלוגי אישי למקום מסוים."
   },
   {
     "id": "ratzon",
