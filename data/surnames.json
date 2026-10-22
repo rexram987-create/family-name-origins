@@ -4666,5 +4666,32 @@
     "geographicAssociation": null,
     "alternateSpellings": [],
     "metadataNote": "המקור מתעד את חבר הכנסת ולא את האטימולוגיה של שם המשפחה. נדרשת בדיקת מקור ייעודי לפני ייחוס משמעות."
+  },
+  {
+    "id": "yehuda-zvi",
+    "name": "יהודה",
+    "latin": "Yehuda",
+    "status": "review",
+    "meaning": null,
+    "history": "צבי יהודה, חבר הכנסת הראשונה, נשא קודם את שם המשפחה זלצמן. בדברי הספד בפרוטוקול רשמי של הכנסת החמישית צוין במפורש: ״שמו הקודם זלצמן״. לא אותרו תאריך מדויק לשינוי או הסבר מתועד לבחירת שם המשפחה יהודה.",
+    "sources": [
+      {
+        "title": "דברי הכנסת החמישית — דברי הספד לצבי יהודה, אזכור מפורש של שם המשפחה הקודם זלצמן",
+        "url": "https://fs.knesset.gov.il/5/Plenum/5_ptm_252351.pdf"
+      },
+      {
+        "title": "דוד תדהר, אנציקלופדיה לחלוצי היישוב ובוניו — צבי יהודה (זלצמן), כרך ד עמ׳ 1983",
+        "url": "https://www.tidhar.tourolib.org/tidhar/view/4/1983"
+      }
+    ],
+    "linguisticOrigin": null,
+    "historicalCommunities": null,
+    "geographicAssociation": null,
+    "alternateSpellings": [
+      "זלצמן",
+      "Zaltzman",
+      "Salzmann"
+    ],
+    "metadataNote": "רשומה חדשה לשינוי שם משפחה של חבר הכנסת הראשונה. השינוי זלצמן → יהודה מתועד במקור פרלמנטרי ראשוני; תאריך ומניע השינוי אינם מאומתים. אין להסיק קשר לנישואיו או לשם פרטי ללא אסמכתה."
   }
 ]
